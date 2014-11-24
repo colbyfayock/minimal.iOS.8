@@ -2,3 +2,110 @@ minimal.iOS.8
 =============
 
 Minimal Winterboard theme for iOS 8.x
+
+
+Themed Icons Include:
+=============
+
+ - Accuweather
+ - Ally
+ - Amazon
+ - AMEX
+ - AppInfo
+ - Apple App Store
+ - Apple Calculator
+ - Apple Calendar
+ - Apple Camera
+ - Apple Contacts
+ - Apple Facetime
+ - Apple Find My iPhone
+ - Apple Game Center
+ - Apple Health
+ - Apple iBooks
+ - Apple iMovie
+ - Apple Mail
+ - Apple Maps
+ - Apple Messages
+ - Apple Music
+ - Apple Notes
+ - Apple Passbook
+ - Apple Phone
+ - Apple Photo Gallery
+ - Apple Podcasts
+ - Apple Reminders
+ - Apple Remote
+ - Apple Safari
+ - Apple Settings
+ - Apple Tips
+ - Apple Videos
+ - Apple Weather
+ - Box
+ - Citi
+ - CloudApp
+ - Cydia
+ - Dropbox
+ - Ebay
+ - ESPN ScoreCenter
+ - Evernote iPhone
+ - Facebook
+ - Feedly
+ - Flappy Bird
+ - Google Authenticator
+ - Google Chrome
+ - Google Chromecast
+ - Google Docs
+ - Google Drive
+ - Google Earth
+ - Google Gmail
+ - Google Hangouts
+ - Google Local
+ - Google Maps
+ - Google Plus
+ - Google Search
+ - Google Sheets
+ - Google Translate
+ - Google Wallet
+ - Google Youtube
+ - Groupon
+ - Hanging With Friends Paid
+ - HBOGo
+ - HopStop
+ - IMDB
+ - Inbox
+ - Instagram
+ - LastPass
+ - LinkedIn
+ - LoseIt
+ - Make It Big
+ - Messenger
+ - Microsoft OneDrive
+ - Miscrosoft Smartglass
+ - Mobile Terminal
+ - My Mazda
+ - Netflix
+ - Nike+
+ - Pandora
+ - Pantone
+ - Paypal
+ - Pinterest
+ - PNC Mobile
+ - Rdio
+ - Reddit Alien Blue
+ - Shazam
+ - Shazam
+ - SnapChat
+ - SoundCloud
+ - Springtomize
+ - Starbucks
+ - Twitter
+ - Uber
+ - Vevo
+ - Vimeo
+ - VINE
+ - Wallet
+ - Wegmans
+ - WhatsApp
+ - Winterboard
+ - Words with Friends Paid
+ - Wunderlist
+ - Yelp
