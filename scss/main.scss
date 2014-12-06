@@ -219,3 +219,19 @@ h2 {
     }
 
 }
+
+.social {
+    margin-top: 2em;
+}
+
+.fb-like {
+    @include inline-block;
+    top: -2px;
+    width: 48px!important;
+    vertical-align: top;
+    margin-right: 1em;
+}
+
+.tw-tweet {
+    @include inline-block;
+}
