@@ -1,0 +1,49 @@
+/****************************************
+ * Scheme
+ ****************************************/
+
+// Scheme settings
+
+$flat: true !default;
+$zurg-flat: $flat !default;
+$almost-flat: true !default;
+$zurg-almost-flat: $almost-flat !default;
+
+@if $flat == true {
+    $zurg-flat: true;
+    $zurg-almost-flat: false;
+} @else if $flat == false {
+    $zurg-flat: false;
+    $zurg-almost-flat: false;
+} @else if $flat == 'almost-flat' {
+    $zurg-flat: true;
+    $zurg-almost-flat: $almost-flat;
+}
+
+
+// Body
+
+$color-body: white !default;
+$zurg-color-body: $color-body;
+
+
+// Links
+
+$link-color: $zurg-color-secondary !default;
+$zurg-link-color: $link-color;
+
+$link-underline: true !default;
+$zurg-link-underline: $link-underline;
+
+
+/****************************************
+ * Objects (Buttons, etc)
+ ****************************************/
+
+// Buttons
+
+$button-primary-color: $zurg-color-primary !default;
+$zurg-button-primary-color: $button-primary-color;
+
+$button-secondary-color: $zurg-color-secondary !default;
+$zurg-button-secondary-color: $button-secondary-color;

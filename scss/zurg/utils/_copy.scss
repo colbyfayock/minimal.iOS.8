@@ -1,0 +1,81 @@
+a {
+    color: $zurg-link-color;
+    @if $zurg-link-underline == false {
+        text-decoration: none;
+    }
+    @include desktop() {
+        &:hover {
+            color: lighten($zurg-link-color, 5);
+        }
+        &:active {
+            color: darken($zurg-link-color, 5);
+        }
+    }
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0;
+}
+
+h1 {
+    margin-bottom: .4em;
+}
+
+h2 {
+    margin-bottom: .6em;
+}
+
+ul, ol, dd {
+    padding-left: 1.2em;
+    margin: 0;
+}
+
+dd {
+    border-left: solid 1px $zurg-color-grey1;
+}
+
+p {
+    text-align: inherit;
+}
+
+hr {
+    border-color: $zurg-color-grey1;
+    margin-top: 0;
+    margin-bottom: 2.5em;
+}
+
+code {
+    display: block;
+    line-height: 1.2em;
+    background-color: $zurg-color-grey1;
+    padding: .75em;
+    border: solid 1px darken($zurg-color-grey1, 10);
+    margin-bottom: 1em;
+}
+
+p {
+
+    code {
+        display: inline-block;
+        padding: 0 .15em;
+        margin-bottom: 0;
+    }
+
+}
+
+blockquote {
+
+    background-color: $zurg-color-grey1;
+    padding: 1em 2em;
+    margin: 0;
+    margin-bottom: 1.5em;
+
+    p {
+        margin-top: 0;
+    }
+
+    cite {
+        font-size: .8em;
+    }
+
+}

@@ -1,0 +1,57 @@
+@mixin breakpoint($max: false, $min: false) {
+    @if $max {
+        @if $min {
+            @media all and (min-width: $min) and (max-width: $max) {
+                @content;
+            }
+        } @else {
+            @media all and (max-width: $max) {
+                @content;
+            }
+        }
+    } @else if $min {
+        @media all and (min-width: $min) {
+            @content;
+        }
+    } @else {
+        @media all {
+            @content;
+        }
+    }
+}
+
+@mixin large() {
+    @include breakpoint($large-page-width) {
+        @content;
+    }
+}
+
+@mixin small() {
+    @include breakpoint($small-page-width) {
+        @content;
+    }
+}
+
+@mixin desktop() {
+    @include breakpoint(false, $mobile-page-width + 1) {
+        @content;
+    }
+}
+
+@mixin tablet() {
+    @include breakpoint($tablet-page-width, $mobile-page-width) {
+        @content;
+    }
+}
+
+@mixin mobile() {
+    @include breakpoint($mobile-page-width) {
+        @content;
+    }
+}
+
+@mixin hippi() {
+    @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+        @content;
+    }
+}

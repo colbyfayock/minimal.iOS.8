@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Colby Fayock - @colbyfayock
+
+# TECHNOLOGY COLOPHON
+
+    Normalize.css
+    HTML5BP
+    jQuery, html5shiv
+    Bourbon

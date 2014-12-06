@@ -1,0 +1,42 @@
+/****************************************
+ * Colors
+ ****************************************/
+
+$color-grey1: #e4e6e9 !default;
+$zurg-color-grey1: $color-grey1;
+
+$color-grey2: #c8ccd2 !default;
+$zurg-color-grey2: $color-grey2;
+
+$color-grey3: #9198a3 !default;
+$zurg-color-grey3: $color-grey3;
+
+$color-grey4: #47484a !default;
+$zurg-color-grey4: $color-grey4;
+
+$color-grey5: #2d3133 !default;
+$zurg-color-grey5: $color-grey5;
+
+$color-red: #8f0e0c !default;
+$zurg-color-red: $color-red;
+
+$color-blue: #373b4c !default;
+$zurg-color-blue: $color-blue;
+
+$color-purple: #552e84 !default;
+$zurg-color-purple: $color-purple;
+
+
+$color-error: $zurg-color-red !default;
+$zurg-color-error: $color-error;
+
+
+// Scheme Colors
+
+$color-primary: #353743;
+$zurg-color-primary: $color-primary;
+
+$color-secondary: #9A95BC !default;
+$zurg-color-secondary: $color-secondary;
+
+$zurg-color-body: $zurg-color-grey1;

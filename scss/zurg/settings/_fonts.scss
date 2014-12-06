@@ -1,0 +1,15 @@
+
+$font-sansserif: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, sans-serif !default;
+$zurg-font-sansserif: $font-sansserif;
+
+$font-serif: Georgia, Times New Roman, serif !default;
+$zurg-font-serif: $font-serif;
+
+
+// Scheme Fonts
+
+$font-default: $zurg-font-sansserif !default;
+$zurg-font-default: $font-default;
+
+$font-display: $zurg-font-default !default;
+$zurg-font-display: $font-display;

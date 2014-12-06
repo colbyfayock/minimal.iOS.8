@@ -1,0 +1,32 @@
+// Typefaces
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900);
+
+// Icons
+
+
+.icon[data-icon]:before,
+.icon[data-icon-after]:after { }
+
+.icon {
+
+    display: inline-block;
+    position: relative;
+    color: inherit;
+    text-align: center;
+    font-style: normal;
+
+    &[data-icon]:before, &[data-icon-after]:after {
+        -webkit-font-smoothing: antialiased;
+        speak: none;
+    }
+
+    &[data-icon]:before {
+        content: attr(data-icon);
+    }
+
+    &[data-icon-after]:after {
+        content: attr(data-icon-after);
+    }
+
+}

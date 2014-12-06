@@ -1,0 +1,13 @@
+{
+  "name": "Zurg",
+  "description": "Quick start front-end framework",
+  "version": "0.1.1",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/colbyfayock/Zurg.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0"
+  }
+}

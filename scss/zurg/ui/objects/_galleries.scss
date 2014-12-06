@@ -1,0 +1,51 @@
+.thumb-gallery {
+    padding: 0;
+    margin: 0 0 1em;
+    @include clearfix;
+    li {
+        list-style: none;
+        float: left;
+    }
+    a, span {
+        display: block;
+    }
+    a {
+    	border-bottom: 0;
+    }
+    img {
+        width: 100%;
+    }
+}
+
+.thumb-three {
+    li {
+        width: 32%;
+        margin-right: 2%;
+        margin-bottom: 2%;
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+    }
+}
+
+.thumb-four {
+    li {
+        width: 23%;
+        margin-right: 2.25%;
+        margin-bottom: 2.25%;
+        &:nth-child(4n) {
+            margin-right: 0;
+        }
+    }
+}
+
+.thumb-five {
+    li {
+        width: 18%;
+        margin-right: 2.25%;
+        margin-bottom: 2.25%;
+        &:nth-child(5n) {
+            margin-right: 0;
+        }
+    }
+}

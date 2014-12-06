@@ -1,0 +1,137 @@
+form {
+    display: block;
+    width: 100%;
+    label.error {
+        display: none!important;
+    }
+    .form-error {
+        @extend %alert-defaults;
+        display: none;
+        color: $zurg-color-error;
+        background-color: lighten($zurg-color-error, 40);
+        border: solid 1px $zurg-color-error;
+    }
+    .form-section {
+        margin-bottom: 2em;
+    }
+    .row {
+        overflow: visible;
+        padding: 0 0 1em !important;
+    }
+    label {
+        display: block;
+        font-size: .8em;
+        padding-bottom: .5em;
+    }
+    input, select, textarea {
+
+    }
+    input[type="text"], select, textarea {
+        width: 100%;
+        color: $zurg-color-grey3;
+        font-size: .9em;
+        font-weight: 200;
+        -webkit-appearance: none;
+        background-color: $zurg-color-grey1;
+        padding: .75em;
+        border-radius: .25em;
+        outline: 0;
+        border: solid 1px $zurg-color-grey2;
+        @include placeholder {
+            color: $zurg-color-grey3;
+        };
+        @if $zurg-flat == false {
+            @include background(linear-gradient(darken($zurg-color-grey1, 3), lighten($zurg-color-grey1, 3)) top repeat);
+            box-shadow: inset 0 0 4px 1px rgba(0,0,0,.05);
+        }
+        &.button {
+            height: auto;
+            line-height: inherit;
+        }
+        &:focus {
+            background-color: lighten($zurg-color-grey1, 2);
+            box-shadow: 0 0 3px $zurg-color-primary;
+            @if $zurg-flat == false {
+                @include background(linear-gradient(darken($zurg-color-grey1, 1), lighten($zurg-color-grey1, 5)) top repeat);
+                box-shadow: inset 0 0 4px 1px rgba(0,0,0,.05);
+            }
+        }
+        @include desktop() {
+            &:hover {
+                background-color: lighten($zurg-color-grey1, 2);
+                @if $zurg-flat == false {
+                    @include background(linear-gradient(darken($zurg-color-grey1, 1), lighten($zurg-color-grey1, 5)) top repeat);
+                    box-shadow: inset 0 0 4px 1px rgba(0,0,0,.05);
+                }
+            }
+        }
+    }
+    select {
+        color: $zurg-color-grey3;
+        background-image: url(#{$img_path}/dropdown-arrow.png);
+        background-repeat: no-repeat;
+        background-position: 97.5% 50%;
+        @include hidpi(){
+            background-image: url(#{$img_path}/dropdown-arrow@2x.png);
+            background-size: 10px auto;
+        }
+    }
+    .sixcol select {
+        background-position: 95% 50%;
+    }
+    option {
+        color: $zurg-color-grey3;
+    }
+    textarea {
+        min-height: 8em;
+        resize: vertical;
+    }
+    input[type="text"], select, textarea {
+        &.error {
+            background-color: lighten($zurg-color-error, 60);
+            outline: none;
+            border: solid $zurg-color-error 1px;
+            box-shadow: 0 0 .4em $zurg-color-error;
+        }
+    }
+    .check-radio {
+        display: block;
+        position: relative;
+        padding-bottom: .5em;
+        label {
+            display: inline;
+        }
+    }
+
+    // http://www.wufoo.com/2011/06/13/custom-radio-buttons-and-checkboxes/
+    &:not(#foo) fieldset input[type='radio'],
+    &:not(#foo) fieldset input[type='checkbox'] {
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 1.5em;
+        height: 1.5em;
+    }
+    &:not(#foo) fieldset input[type='radio'] + label,
+    &:not(#foo) fieldset input[type='checkbox'] + label {
+        display: block;
+        height: 1.5em;
+        background-size: 1.5em auto;
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        padding: 0 0 0 2em;
+        margin: 0;
+        clear: none;
+    }
+    &:not(#foo) fieldset input[type='radio'] + label {
+        background-image: url(#{$img_path}/radio@2x.png);
+    }
+    &:not(#foo) fieldset input[type='checkbox'] + label {
+        background-image: url(#{$img_path}/checkbox@2x.png);
+    }
+    &:not(#foo) fieldset input[type='radio']:checked + label,
+    &:not(#foo) fieldset input[type='checkbox']:checked + label {
+        background-position: 0 100%;
+    }
+}

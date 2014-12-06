@@ -1,0 +1,145 @@
+// Import the full Zurg library
+@import 'zurg/zurg';
+
+// Or import individual sets
+// @import 'zurg/zurg-ui';
+// @import 'zurg/zurg-kit';
+
+
+// Start custom css here
+
+* {
+    @include box-sizing(border-box);
+    text-align: left;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: $zurg-font-sansserif;
+    background-color: $zurg-color-primary;
+}
+
+h1 {
+    color: lighten( $color-primary, 15 );
+    font-size: 4em;
+    font-weight: 600;
+    line-height: 1em;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: $zurg-color-grey3;
+    font-size: 1.54em;
+    font-weight: 200;
+}
+
+.hero {
+
+    overflow: hidden;
+    height: 42em;
+    background-color: white;
+    padding-top: 6em;
+
+}
+
+.preview {
+
+    position: relative;
+    width: 341px;
+    height: 693px;
+    @include transform( translate3d(0,5em,0) );
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    margin: 0 auto 0;
+
+    & > img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        width: 100%;
+    }
+
+    * {
+        -webkit-backface-visibility: hidden;
+        -webkit-perspective: 1000;
+    }
+
+}
+
+.preview-icons {
+
+    position: absolute;
+    top: 104px;
+    left: 21px;
+    width: 385px;
+    height: 677px;
+    // background: $zurg-color-primary url('../img/iphone-background.jpg');
+    padding: 5px;
+
+}
+
+.body {
+
+    color: $zurg-color-grey4;
+    background-color: $zurg-color-grey1;
+    padding: 3em 2em;
+
+}
+
+.footer {
+
+    color: lighten( $zurg-color-primary, 50 );
+    background-color: $zurg-color-primary;
+    text-align: center;
+    padding: 2em;
+
+    a {
+        color: $zurg-color-secondary;
+        font-weight: 500;
+    }
+
+    h3 {
+        font-weight: 300;
+        text-align: center;
+        margin-bottom: .25em;
+        margin-top: .5em;
+    }
+
+}
+
+.footer-icons {
+
+    font-size: 2em;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+
+    li {
+        @include inline-block();
+        margin: 0 .2em;
+    }
+
+    a {
+
+        display: block;
+        width: 2em;
+        height: 2em;
+        line-height: 2em;
+        text-align: center;
+        outline: 0;
+        border-radius: 100%;
+
+        &:hover {
+
+            background-color: darken( $zurg-color-primary, 10 )
+
+        }
+
+    }
+
+}

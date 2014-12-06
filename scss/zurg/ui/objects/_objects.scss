@@ -1,0 +1,55 @@
+%alert-defaults {
+    font-size: .8em;
+    padding: .5em;
+    border-radius: .25em;
+    margin-bottom: 1em;
+}
+
+@import 'buttons';
+@import 'forms';
+@import 'galleries';
+
+hr {
+    @include clearfix;
+}
+
+figure {
+    position:relative;
+}
+figure img {
+    display: block;
+    width: 100%;
+}
+figcaption {
+    font-size: .9em;
+    font-weight: 200;
+    font-style: italic;
+    text-align: center;
+    padding-top: .5em;
+}
+
+img, object, embed {
+    max-width: 100%;
+}
+
+img {
+    height: auto;
+}
+
+.frame {
+    background-color: white;
+    padding: .5em;
+    border: solid 1px $zurg-color-grey1;
+    @if $zurg-flat == false {
+        box-shadow: 0 2px 5px rgba(0,0,0,.15);
+    }
+}
+
+// Make that fb widget responsive!!!
+
+#fb-root {
+    display: none;
+}
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
