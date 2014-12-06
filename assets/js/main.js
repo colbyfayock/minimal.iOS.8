@@ -31,15 +31,14 @@ require(['lib/modules/mobileNav'], function(mobileNav) {
 require(['functions'], function() {
     $(function() {
 
-        var userAgent = navigator.userAgent;
+        var userAgent = navigator.userAgent,
+            isIos = (userAgent.match(/iPhone/i)) || (userAgent.match(/iPod/i));
 
         $(window).resize(function(){
             clearStyles('.nav-collapse');
         });
 
-        if((userAgent.match(/iPhone/i)) || (userAgent.match(/iPod/i))) {
-            $('html').addClass('ios');
-        }
+        if( isIos ) $('.cydia-link').attr('href', 'cydia://package/com.modmyi.minimalios8');
 
     });
 });

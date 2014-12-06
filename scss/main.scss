@@ -143,19 +143,3 @@ h2 {
     }
 
 }
-
-html:not(.non-ios) {
-
-    .cydia-link-ios {
-        display: none;
-    }
-
-}
-
-html:not(.ios) {
-
-    .cydia-link-other {
-        display: none;
-    }
-
-}
