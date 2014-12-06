@@ -31,9 +31,15 @@ require(['lib/modules/mobileNav'], function(mobileNav) {
 require(['functions'], function() {
     $(function() {
 
+        var userAgent = navigator.userAgent;
+
         $(window).resize(function(){
             clearStyles('.nav-collapse');
         });
+
+        if((userAgent.match(/iPhone/i)) || (userAgent.match(/iPod/i))) {
+            $('html').addClass('ios');
+        }
 
     });
 });
