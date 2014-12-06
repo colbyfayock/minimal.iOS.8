@@ -140,7 +140,13 @@
         padding: 1em 1em 0;
     }
     .body .row {
+
         padding-bottom: 1em;
+
+        &:last-child {
+            padding-bottom: 0;
+        }
+
     }
 
     .row {

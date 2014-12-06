@@ -1,15 +1,12 @@
 %button-base {
+
     display: inline-block;
     color: white;
-    font-size: .8em;
-    font-weight: bold;
+    font-weight: 500;
     text-decoration: none;
-    padding: .5em 1em;
-    border-radius: .25em;
-    margin-top: .5em;
-    @if $zurg-flat == false or $zurg-almost-flat == true {
-        background-clip: padding-box;
-    }
+    padding: .5em 1.4em;
+    border-radius: 999px;
+
     @include desktop() {
         &:hover:not(:disabled) {
         	color: white;
@@ -23,13 +20,13 @@
             cursor: not-allowed;
         }
     }
+
     @include mobile() {
     	width: 100%;
-    	height: 4em;
-    	line-height: 4em;
     	text-align: center;
-    	padding: 0;
+    	padding: .8em 1.4em;
     }
+
 }
 
 button, .button {
@@ -38,6 +35,22 @@ button, .button {
     color: white;
     background-color: $zurg-color-grey3;
     border: 1px solid darken($zurg-color-grey3, 5);
+
+    @include desktop() {
+        + .button {
+            margin-left: .5em
+        }
+    }
+
+    @include mobile() {
+        + .button {
+            margin-top: 1em
+        }
+    }
+
+    i {
+        margin-right: .5em;
+    }
 
     @if $zurg-flat == false or $zurg-almost-flat == true {
         text-shadow: 0 1px 0 darken($zurg-color-grey3, 15);

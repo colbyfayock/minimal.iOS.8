@@ -24,17 +24,29 @@ body {
 }
 
 h1 {
+
     color: lighten( $color-primary, 15 );
     font-size: 4em;
     font-weight: 600;
     line-height: 1em;
     margin-bottom: 0;
+
+    @include mobile() {
+        font-size: 2.6em;
+    }
+
 }
 
 h2 {
+
     color: $zurg-color-grey3;
     font-size: 1.54em;
     font-weight: 200;
+
+    @include mobile() {
+        font-size: 1em;
+    }
+
 }
 
 .hero {
@@ -43,6 +55,11 @@ h2 {
     height: 42em;
     background-color: white;
     padding-top: 6em;
+
+    @include mobile() {
+        height: 23.5em;
+        padding-top: 1em;
+    }
 
 }
 
@@ -64,9 +81,12 @@ h2 {
         width: 100%;
     }
 
-    * {
-        -webkit-backface-visibility: hidden;
-        -webkit-perspective: 1000;
+    @include mobile() {
+
+        width: 260px;
+        height: 540px;
+        @include transform( translate3d(0,1em,0) );
+
     }
 
 }
@@ -78,7 +98,6 @@ h2 {
     left: 21px;
     width: 385px;
     height: 677px;
-    // background: $zurg-color-primary url('../img/iphone-background.jpg');
     padding: 5px;
 
 }
@@ -110,6 +129,21 @@ h2 {
         margin-top: .5em;
     }
 
+    .created {
+
+        a {
+
+            @include mobile() {
+
+                display: block;
+                text-align: center;
+
+            }
+
+        }
+
+    }
+
 }
 
 .footer-icons {
@@ -134,12 +168,54 @@ h2 {
         outline: 0;
         border-radius: 100%;
 
-        &:hover {
+        @include desktop() {
 
-            background-color: darken( $zurg-color-primary, 10 )
+            &:hover {
+
+                background-color: darken( $zurg-color-primary, 10 )
+
+            }
 
         }
 
+    }
+
+    @include mobile() {
+        margin-top: 1em;
+    }
+
+}
+
+.button-cydia {
+
+    color: lighten($color-cydia, 70);
+    background-color: $color-cydia;
+    border: 1px solid darken($color-cydia, 5);
+
+    @include desktop() {
+        &:hover:not(:disabled) {
+            background-color: lighten($color-cydia, 3);
+        }
+        &:active:not(:disabled) {
+            background-color: darken($color-cydia, 3);
+        }
+    }
+
+}
+
+.button-github {
+
+    color: lighten($color-grey5, 70);
+    background-color: $color-grey5;
+    border: 1px solid darken($color-grey5, 5);
+
+    @include desktop() {
+        &:hover:not(:disabled) {
+            background-color: lighten($color-grey5, 3);
+        }
+        &:active:not(:disabled) {
+            background-color: darken($color-grey5, 3);
+        }
     }
 
 }
