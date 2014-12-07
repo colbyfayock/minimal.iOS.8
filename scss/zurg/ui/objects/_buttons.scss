@@ -2,10 +2,18 @@
 
     display: inline-block;
     color: white;
+    font-size: 1.1em;
     font-weight: 500;
     text-decoration: none;
     padding: .5em 1.4em;
     border-radius: 999px;
+    outline: 0;
+
+    &:hover,
+    &:active,
+    &:focus {
+        outline: 0;
+    }
 
     @include desktop() {
         &:hover:not(:disabled) {
@@ -50,6 +58,13 @@ button, .button {
 
     i {
         margin-right: .5em;
+    }
+
+    svg {
+        position: relative;
+        top: -.1em;
+        width: 1.2em;
+        vertical-align: middle;
     }
 
     @if $zurg-flat == false or $zurg-almost-flat == true {
@@ -133,4 +148,30 @@ button, .button {
             }
         }
     }
+}
+
+.button-naked {
+
+    color: $zurg-color-grey4;
+    background-color: transparent;
+    border: solid 1px transparent;
+
+    @include desktop() {
+        &:hover:not(:disabled) {
+            color: $zurg-color-grey4;
+            background-color: lighten($zurg-color-grey2, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(lighten($zurg-color-grey2, 6), $zurg-color-grey2) top repeat);
+                box-shadow: inset 0 1px 0 0 lighten($zurg-color-grey2, 18);
+            }
+        }
+        &:active:not(:disabled) {
+            color: $zurg-color-grey4;
+            background-color: darken($zurg-color-grey2, 3);
+            @if $zurg-flat == false or $zurg-almost-flat == true {
+                @include background(linear-gradient(darken($zurg-color-grey2, 2), lighten($zurg-color-grey2, 2)) top repeat);
+            }
+        }
+    }
+
 }
