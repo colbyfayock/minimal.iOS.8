@@ -4,9 +4,10 @@ minimal.iOS.8
 Minimal Winterboard theme for iOS 8.x
 
 
-100+ Themed Icons
+110+ Themed Icons
 =============
 
+ - ABC Watch
  - Accuweather
  - Ally
  - Amazon
@@ -14,7 +15,6 @@ Minimal Winterboard theme for iOS 8.x
  - AppInfo
  - Apple App Store
  - Apple Calculator
- - Apple Calendar
  - Apple Camera
  - Apple Contacts
  - Apple Facetime
@@ -42,11 +42,13 @@ Minimal Winterboard theme for iOS 8.x
  - Box
  - Citi
  - CloudApp
+ - Comedy Central Stand-Up
  - Cydia
  - Dropbox
  - Ebay
+ - Ebay for iPad
  - ESPN ScoreCenter
- - Evernote iPhone
+ - Evernote
  - Facebook
  - Feedly
  - Flappy Bird
@@ -79,21 +81,27 @@ Minimal Winterboard theme for iOS 8.x
  - Make It Big
  - Messenger
  - Microsoft OneDrive
+ - Mint.com
  - Miscrosoft Smartglass
  - Mobile Terminal
  - My Mazda
+ - NBA
  - Netflix
  - Nike+
  - Pandora
  - Pantone
+ - Papa Johns
  - Paypal
+ - PicPlayPost
  - Pinterest
  - PNC Mobile
  - Rdio
  - Reddit Alien Blue
+ - Reddit Alien Blue iPad
  - Shazam
- - Shazam
+ - Showtime Anytime
  - SnapChat
+ - SoundHound
  - SoundCloud
  - Springtomize
  - Starbucks
@@ -108,4 +116,6 @@ Minimal Winterboard theme for iOS 8.x
  - Winterboard
  - Words with Friends Paid
  - Wunderlist
+ - Xfinity Play
+ - Xfinity Remote
  - Yelp
