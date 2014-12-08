@@ -1,7 +1,7 @@
 minimal.iOS.8
 =============
 
-Minimal Winterboard theme for iOS 8.x
+Minimal iOS 8 theme for Winterboard
 
 
 110+ Themed Icons
