@@ -39,9 +39,9 @@ p {
 }
 
 hr {
-    border-color: $zurg-color-grey1;
-    margin-top: 0;
-    margin-bottom: 2.5em;
+    width: 5em;
+    border-color: rgba(0,0,0,.1);
+    margin: 0 auto 5em;
 }
 
 code {

@@ -106,7 +106,18 @@ h2 {
 
     color: $zurg-color-grey4;
     background-color: $zurg-color-grey1;
-    padding: 3em 2em;
+    padding: 5em 2em;
+
+}
+
+.icon-list {
+
+    h4 {
+        position: relative;
+        top: -1em;
+        color: $color-grey3;
+        font-weight: 400;
+    }
 
 }
 

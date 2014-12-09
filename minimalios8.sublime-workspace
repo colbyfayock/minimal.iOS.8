@@ -1,0 +1,1857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"disable",
+				"disableButton"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"stlye",
+				"style	Tag"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"addt",
+				"addtl_input"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"rotate-co",
+				"rotate-container"
+			],
+			[
+				"rotat",
+				"rotateObj"
+			],
+			[
+				"setTim",
+				"setTimeout"
+			],
+			[
+				"color",
+				"color_grey4"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"wpAttr",
+				"wpAttrValue"
+			],
+			[
+				"waypo",
+				"waypoint-lazy"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"undercov",
+				"undercover-trigger"
+			],
+			[
+				"under",
+				"undercover-trigger"
+			],
+			[
+				"src",
+				"src-large"
+			],
+			[
+				"grey",
+				"color_grey1"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"color_yell",
+				"color_yellow_light"
+			],
+			[
+				"clor_",
+				"color_grey5"
+			],
+			[
+				"colo_g",
+				"color_grey5"
+			],
+			[
+				"colo",
+				"color_grey4"
+			],
+			[
+				"omnit",
+				"omniture_tag"
+			],
+			[
+				"common",
+				"common_tags"
+			],
+			[
+				"url",
+				"url_redirect"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bckgrou",
+				"background-color"
+			],
+			[
+				"sear",
+				"search_form"
+			],
+			[
+				"tex-t",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tg_",
+				"tg_new_lightgrey"
+			],
+			[
+				"tg_new",
+				"tg_new_lightgrey"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"href",
+				"href_blacklist"
+			],
+			[
+				"cur",
+				"cur	CSS - cursor: pointer;"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"thumb",
+				"thumbContainer"
+			],
+			[
+				"cloe",
+				"closest	.closest()"
+			],
+			[
+				"scrollTo",
+				"scrollToElement"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"select",
+				"selectall"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"butt0n",
+				"butt0n-grey"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tra",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"fancy",
+				"fancybox"
+			],
+			[
+				"data",
+				"dataLayer"
+			],
+			[
+				"margi-",
+				"margin-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"widows"
+			],
+			[
+				"tg",
+				"tg_account"
+			],
+			[
+				"account",
+				"accountId"
+			],
+			[
+				"ajaxC",
+				"ajaxCart"
+			],
+			[
+				"cartData",
+				"cartDataLen"
+			],
+			[
+				"refresh",
+				"refreshDetails"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"light",
+				"lighten"
+			],
+			[
+				"carousel",
+				"carouselPag"
+			],
+			[
+				"carous",
+				"carouselItem"
+			],
+			[
+				"thum",
+				"thumbContainer"
+			],
+			[
+				"carouse",
+				"carousel"
+			],
+			[
+				"carou",
+				"carouselNav"
+			],
+			[
+				"carouse-",
+				"carousel-thumb"
+			],
+			[
+				"car",
+				"carouselMain"
+			],
+			[
+				"slider-po",
+				"slider-position"
+			],
+			[
+				"sec",
+				"section_header"
+			],
+			[
+				"produc",
+				"productBlurb_p"
+			],
+			[
+				"ship",
+				"ship_method"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"quanity-bo",
+				"quantity-box2"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"sub",
+				"subcontent-secondary"
+			],
+			[
+				"grid",
+				"grid_image"
+			],
+			[
+				"righ",
+				"rightlist"
+			],
+			[
+				"rightlist",
+				"rightlist_narrow"
+			],
+			[
+				"right",
+				"rightlist_narrow"
+			],
+			[
+				"BACKGROUND",
+				"background-position"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ho",
+				"holiday-2013"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"innerfooter_col",
+				"innerfooter_column_header"
+			],
+			[
+				"inner",
+				"innerfooter"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"gri",
+				"grid_frame"
+			],
+			[
+				"grid_",
+				"grid_three"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"product",
+				"product_grid"
+			],
+			[
+				"pro",
+				"product_grid"
+			],
+			[
+				"sele",
+				"selector	A basic jQuery selector"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"topnav_ter",
+				"topnav_tertiary_grid"
+			],
+			[
+				"topnav_tertiary_",
+				"topnav_tertiary_column"
+			],
+			[
+				"topnavt",
+				"topnav_tertiary"
+			],
+			[
+				"mainwr",
+				"mainwrapper-bg"
+			],
+			[
+				"tg_topnav",
+				"tg_topnav_primary"
+			],
+			[
+				"lf",
+				"left"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"i",
+				"inl	CSS - display: inline-block;"
+			],
+			[
+				"data-hippi",
+				"data-hippi-src"
+			],
+			[
+				"tr",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"wrap",
+				"warpspeed-wrapper"
+			],
+			[
+				"rightbo",
+				"rightbox_corner"
+			],
+			[
+				"att_",
+				"att_orig"
+			],
+			[
+				"my-a",
+				"my-account_dropdown"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"mis_temp",
+				"mis_templates_item"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"trans",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"mis_deta",
+				"mis_details_drawer"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"topnav_dropdown",
+				"topnav_dropdown-secondary"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"hi",
+				"hidden"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lte IE 8]><html class=\"ieold\"><![endif]-->\n<!--[if IE 9 ]><html class=\"ie\"><![endif]-->\n<!--[if (gt IE 9)|!(IE)]><!--><html><!--<![endif]-->\n    <head>\n\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n\n        <title>minimal.iOS.8</title>\n\n        <meta name=\"description\" content=\"description\">\n        <meta name=\"robots\" content=\"index,follow\">\n        <meta name=\"viewport\" content=\"width=device-width\">\n        <meta name=\"author\" content=\"\">\n\n        <meta property=\"og:title\" content=\"minimal.iOS.8\" />\n        <meta property=\"og:description\" content=\"Minimal Winterboard theme for iOS 8.X\" />\n        <meta property=\"og:url\" content=\"http://colbyfayock.github.io/minimal.iOS.8\" />\n        <meta property=\"og:site_name\" content=\"minimal.iOS.8\" />\n        <meta property=\"og:image\" content=\"http://cdn.fay.io/images/2014/minimal.ios.8-iphone-ios8-winterboard-theme.png\" />\n\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touchicon.png\" />\n        <link rel=\"icon\" href=\"favicon.png\">\n        <!--[if IE]><link rel=\"shortcut icon\" href=\"favicon.ico\"><![endif]-->\n        <meta name=\"msapplication-TileColor\" content=\"#353743\">\n        <meta name=\"msapplication-TileImage\" content=\"win8icon.png\">\n\n        <link rel=\"stylesheet\" href=\"assets/css/main.css\">\n\n    </head>\n    <body>\n\n        <div id=\"fb-root\"></div>\n\n        <div class=\"container content hero\">\n\n            <h1 class=\"align-center\">minimal.iOS.8</h1>\n            <h2 class=\"align-center\">Minimal Winterboard theme for iOS 8.X</h2>\n\n            <div class=\"preview\">\n                <img class=\"hippify\" src=\"assets/img/minimal-ios-preview.jpg\" data-hippi-src=\"assets/img/minimal-ios-preview@2x.jpg\" >\n            </div>\n\n        </div>\n\n        <div class=\"container content body\">\n\n            <div class=\"row\">\n                <div class=\"twelvecol align-center\">\n                    <a class=\"button button-cydia cydia-link\" href=\"http://cydia.saurik.com/package/com.modmyi.minimalios8/\">\n                        <i class=\"fa fa-dropbox\"></i>\n                        minimal.iOS.8 on Cydia\n                    </a>\n                    <a class=\"button button-github\" href=\"https://github.com/colbyfayock/minimal.iOS.8\">\n                        <i class=\"fa fa-github\"></i>\n                        minimal.iOS.8 on Github\n                    </a>\n                </div>\n                <div class=\"twelvecol social align-center hidden-mobile\">\n                    <div class=\"fb-like\" data-href=\"http://colbyfayock.github.io/minimal.iOS.8/\" data-layout=\"button\" data-action=\"like\" data-show-faces=\"true\" data-share=\"false\"></div>\n                    <div class=\"tw-tweet\">\n                        <a class=\"twitter-share-button\" href=\"https://twitter.com/share\" data-count=\"none\" data-text=\"minimal.iOS.8 - Minimal #winterboard theme for iOS 8.X #minimaliOS8\">Tweet</a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"row\">\n\n                <h3>110+ icons including:</h3>\n\n                <div class=\"threecol\">\n                    <li>ABC Watch</li>\n                    <li>Accuweather</li>\n                    <li>Ally</li>\n                    <li>Amazon</li>\n                    <li>AMEX</li>\n                    <li>AppInfo</li>\n                    <li>Apple App Store</li>\n                    <li>Apple Calculator</li>\n                    <li>Apple Camera</li>\n                    <li>Apple Contacts</li>\n                    <li>Apple Facetime</li>\n                    <li>Apple Find My iPhone</li>\n                    <li>Apple Game Center</li>\n                    <li>Apple Health</li>\n                    <li>Apple iBooks</li>\n                    <li>Apple iMovie</li>\n                    <li>Apple Mail</li>\n                    <li>Apple Maps</li>\n                    <li>Apple Messages</li>\n                    <li>Apple Music</li>\n                    <li>Apple Notes</li>\n                    <li>Apple Passbook</li>\n                    <li>Apple Phone</li>\n                    <li>Apple Photo Gallery</li>\n                    <li>Apple Podcasts</li>\n                    <li>Apple Reminders</li>\n                    <li>Apple Remote</li>\n                    <li>Apple Safari</li>\n                    <li>Apple Settings</li>\n                    <li>Apple Tips</li>\n                    <li>Apple Videos</li>\n                    <li>Apple Weather</li>\n                    <li>Box</li>\n                    <li>Citi</li>\n                    <li>CloudApp</li>\n                    <li>Comedy Central Stand-Up</li>\n                    <li>Cydia</li>\n                    <li>Dropbox</li>\n                    <li>Ebay</li>\n                    <li>Ebay for iPad</li>\n                </div>\n\n            </div>\n\n        </div>\n\n        <footer class=\"container content footer\">\n            <div class=\"row\">\n                <div class=\"twelvecol\">\n                    <h3 class=\"created\">Created and maintained by <a href=\"http://colbyfayock.com\">Colby Fayock</a></h3>\n                    <ul class=\"footer-icons\">\n                        <li>\n                            <a href=\"https://twitter.com/colbyfayock\">\n                                <i class=\"fa fa-twitter\"></i>\n                            </a>\n                        </li>\n                        <li>\n                            <a href=\"https://github.com/colbyfayock\">\n                                <i class=\"fa fa-github\"></i>\n                            </a>\n                        </li>\n                        <li>\n                            <a href=\"https://dribbble.com/colbyfayock\">\n                                <i class=\"fa fa-dribbble\"></i>\n                            </a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n        </footer>\n\n        <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\n        <script>window.jQuery || document.write('<script src=\"assets/js/lib/jquery-1.9.1.min.js\"><\\/script>')</script>\n\n        <script data-main=\"assets/js/main.min\" src=\"assets/js/require.js\"></script>\n\n        <script type=\"text/javascript\">\n\n        // Google Analytics\n        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n        ga('create', 'UA-57394383-1', 'auto');\n        ga('send', 'pageview');\n\n        (function(doc, script) {\n            var js,\n            fjs = doc.getElementsByTagName(script)[0],\n            add = function(url, id) {\n                if (doc.getElementById(id)) {return;}\n                js = doc.createElement(script);\n                js.src = url;\n                id && (js.id = id);\n                fjs.parentNode.insertBefore(js, fjs);\n            };\n            // Google+ button\n            // add('//apis.google.com/js/plusone.js');\n            // Facebook SDK\n            add('//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0', 'facebook-jssdk');\n            // Twitter SDK\n            add('//platform.twitter.com/widgets.js', 'twitter-wjs');\n        }(document, 'script'));\n        </script>\n    </body>\n</html>",
+			"file": "index.html",
+			"file_size": 5611,
+			"file_write_time": 130626091330000000,
+			"settings":
+			{
+				"buffer_size": 7427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n<li>ESPN ScoreCenter</li>\n<li>Evernote</li>\n<li>Facebook</li>\n<li>Feedly</li>\n<li>Flappy Bird</li>\n<li>Google Authenticator</li>\n<li>Google Chrome</li>\n<li>Google Chromecast</li>\n<li>Google Docs</li>\n<li>Google Drive</li>\n<li>Google Earth</li>\n<li>Google Gmail</li>\n<li>Google Hangouts</li>\n<li>Google Local</li>\n<li>Google Maps</li>\n<li>Google Plus</li>\n<li>Google Search</li>\n<li>Google Sheets</li>\n<li>Google Translate</li>\n<li>Google Wallet</li>\n<li>Google Youtube</li>\n<li>Groupon</li>\n<li>Hanging With Friends Paid</li>\n<li>HBOGo</li>\n<li>HopStop</li>\n<li>IMDB</li>\n<li>Inbox</li>\n<li>Instagram</li>\n<li>LastPass</li>\n<li>LinkedIn</li>\n<li>LoseIt</li>\n<li>Make It Big</li>\n<li>Messenger</li>\n<li>Microsoft OneDrive</li>\n<li>Mint.com</li>\n<li>Miscrosoft Smartglass</li>\n<li>Mobile Terminal</li>\n<li>My Mazda</li>\n<li>NBA</li>\n<li>Netflix</li>\n<li>Nike+</li>\n<li>Pandora</li>\n<li>Pantone</li>\n<li>Papa Johns</li>\n<li>Paypal</li>\n<li>PicPlayPost</li>\n<li>Pinterest</li>\n<li>PNC Mobile</li>\n<li>Rdio</li>\n<li>Reddit Alien Blue</li>\n<li>Reddit Alien Blue iPad</li>\n<li>Shazam</li>\n<li>Showtime Anytime</li>\n<li>SnapChat</li>\n<li>SoundHound</li>\n<li>SoundCloud</li>\n<li>Springtomize</li>\n<li>Starbucks</li>\n<li>Twitter</li>\n<li>Uber</li>\n<li>Vevo</li>\n<li>Vimeo</li>\n<li>VINE</li>\n<li>Wallet</li>\n<li>Wegmans</li>\n<li>WhatsApp</li>\n<li>Winterboard</li>\n<li>Words with Friends Paid</li>\n<li>Wunderlist</li>\n<li>Xfinity Play</li>\n<li>Xfinity Remote</li>\n<li>Yelp</li>",
+			"settings":
+			{
+				"buffer_size": 1466,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"selected_items":
+		[
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"copy pa",
+				"File: Copy Path"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"copy pat",
+				"File: Copy Path"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"file name",
+				"File: Copy Name"
+			],
+			[
+				"copy name",
+				"File: Copy Name"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"debug",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instsa",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"copy na",
+				"File: Copy Name"
+			],
+			[
+				"copy n",
+				"File: Copy Name"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"delt",
+				"Git: Delete Tag"
+			],
+			[
+				"REN",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"copy nam",
+				"File: Copy Name"
+			],
+			[
+				"dlete",
+				"File: Delete"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"detel",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"copyn",
+				"File: Copy Name"
+			],
+			[
+				"copy ",
+				"File: Copy Name"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"copy",
+				"File: Copy Name"
+			],
+			[
+				"cpoy",
+				"File: Copy Name"
+			],
+			[
+				"copy path",
+				"File: Copy Path"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"DUPL",
+				"File: Duplicate"
+			],
+			[
+				"name",
+				"File: Copy Name"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 363.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cfayock/Code/minimal.iOS.8"
+	],
+	"file_history":
+	[
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/generic.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/pages/generic/generic.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/modules/page_header.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/modules/product_slider.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/email/notify_marketing_of_exacttarget_ftp_down.tt2",
+		"/Users/cfayock/Code/Sphorb/tools/checkout_rewrite_conversion/migrate_order_addresses.pl",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/checkout/mobile.cgi",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/wrapper.tt2",
+		"/Users/cfayock/Code/Sphorb/js/mobile/global.js",
+		"/Users/cfayock/Code/Sphorb/templates/grand_master_wrapper.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/mobile/_styles/_main.scss",
+		"/Users/cfayock/Code/Sphorb/scss/_global/util/_buttons.scss",
+		"/Users/cfayock/Code/Sphorb/scss/_global/util/_mixins.scss",
+		"/Users/cfayock/Code/Sphorb/templates/breadcrumb.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/home.tt2",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Template/HotBuy.pm",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/home_carousel.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/backinstock/email_bis.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/pages/product/default-retired.html",
+		"/Users/cfayock/Code/Sphorb/templates/pages/product/extra/upsells.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/wrapper.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/pages/product/default.html",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/pages/product/default-retired.html",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/backinstock/email_bis_confirm.tt2",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Utils/Time/20-interval_seconds.t",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Utils/Test/00-load.t",
+		"/Users/cfayock/Code/Sphorb/scss/mobile/_styles/modules/_forms.scss",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/modules/_forms.scss",
+		"/Users/cfayock/Code/Sphorb/tools/fake_order_shipment.pl",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/account/finger.cgi",
+		"/Users/cfayock/Code/Sphorb/templates/modules/image_slider.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/_global/vendor/_slick.scss",
+		"/Users/cfayock/Code/Sphorb/conf/startup.pl",
+		"/Users/cfayock/Code/Sphorb/templates/productwrapper.tt2",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/cybs_module.pl",
+		"/Users/cfayock/Code/Sphorb/templates/sitewide/product_variables.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/pages/_products.scss",
+		"/Users/cfayock/Code/Sphorb/tools/one-offs/generate_product_category_sql.pl",
+		"/Users/cfayock/Code/Sphorb/crons/recalculate_on_order.pl",
+		"/Users/cfayock/Code/Sphorb/templates/admin/content/products/edit_onsale_row.html",
+		"/Users/cfayock/Code/Sphorb/tools/orders_recalculate_status.pl",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Template/Omniture.pm",
+		"/Users/cfayock/Code/Sphorb/templates/cart/upsells.tt2",
+		"/Users/cfayock/Code/Sphorb/tools/dev_mail_extract.pl",
+		"/Users/cfayock/Code/Sphorb/css/deartimmy.css",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/pages/generic/home.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/mobile/_styles/util/_helpers.scss",
+		"/Users/cfayock/Code/Sphorb/js/global.js",
+		"/Users/cfayock/Code/Sphorb/css/mobile/products.css",
+		"/Users/cfayock/Code/Sphorb/js/slick.min.js",
+		"/Users/cfayock/Code/Sphorb/admin/cgi-bin/content/sku_lifecycle.cgi",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/_main.scss",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Template/AlsoBought.pm",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/AlsoBought.pm",
+		"/Users/cfayock/Code/Sphorb/templates/navigation/leftnav.tt2",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Report/AlsoBought.pm",
+		"/Users/cfayock/Code/Sphorb/css/admin.css",
+		"/Users/cfayock/Code/Sphorb/crons/also_bought_decay.pl",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/checkout/admin_lock.cgi",
+		"/Users/cfayock/Code/Sphorb/templates/newsletter/signup.tt2",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/newsletter/signup.cgi",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Report/NewRoyaltyShippedDetail.pm",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/News.pm",
+		"/Users/cfayock/Code/Sphorb/templates/account/nickname/nickname_err.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/pages/product/default.html",
+		"/Users/cfayock/Code/Sphorb/templates/pages/catlist/default.tt2",
+		"/Users/cfayock/Code/Sphorb/tools/cat_tree_list.pl",
+		"/Users/cfayock/Code/Sphorb/tools/convert_auths_to_profiles.pl",
+		"/Users/cfayock/Code/Sphorb/crons/cj_adjustments.pl",
+		"/Users/cfayock/Code/Sphorb/config.rb",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Warehouse/extra_large_message.xml",
+		"/Users/cfayock/Code/Sphorb/html/htmlarea/example-table-operations.html",
+		"/Users/cfayock/Code/Sphorb/crons/reports/exceptions.pl",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/email_bis.cgi",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Utils/UPS/20-verify_street_address-local_tests.t",
+		"/Users/cfayock/Code/Sphorb/html/htmlarea/popups/select_color.html",
+		"/Users/cfayock/Code/Sphorb/templates/backinstock/email_bis.tt2",
+		"/Users/cfayock/Code/Sphorb/crons/update_products_default_category.pl",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/ProductDesignation.pm",
+		"/Users/cfayock/Code/Sphorb/templates/mobile/pages/generic/42.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/pages/_42.scss",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/42.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/pages/catlist/default-longlist.html",
+		"/Users/cfayock/Code/Sphorb/templates/giftfinder/default.tt2",
+		"/Users/cfayock/Code/Sphorb/tools/delay_for_daylight_time.sh",
+		"/Users/cfayock/Code/Sphorb/templates/cart/upsells_vB.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/cart/upsells_vA.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/cart/upsells_also_1.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/sitewide/universal_product_list.tt2",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Product.pm",
+		"/Users/cfayock/Code/Sphorb/css/styles.css",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Contact/BlacklistLog.pm",
+		"/Users/cfayock/Code/Sphorb/css/admin/session_timeout.css",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/pages/products/_product-actions.scss",
+		"/Users/cfayock/Code/Sphorb/templates/pages/product/right_gutter.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/_blog/_main.scss",
+		"/Users/cfayock/Code/Sphorb/conf/SQL/schemas/main",
+		"/Users/cfayock/Code/Sphorb/tools/checkout_rewrite_conversion/migrate_addresses.pl",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/r.cgi",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/CyberSourceRequest/40-extract_rules_triggered-accra.t",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/modules/_product-tabs.scss",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/modules/_product-slider.scss",
+		"/Users/cfayock/Code/Sphorb/scss/mobile/products.scss",
+		"/Users/cfayock/Code/Sphorb/css/special.css",
+		"/Users/cfayock/Code/Sphorb/templates/tools/make_sphorb_cgi-script.tt2",
+		"/Users/cfayock/Code/Sphorb/cgi-bin/subscription_center.cgi",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Product/50-get_default_category.t",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Config/Production/DFW1/30-define_dbs.t",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/product-kit.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/data/product_whatsnew.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/custserv/leftnav.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/modules/product_grid.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/whatsnew.tt2",
+		"/Users/cfayock/Code/Sphorb/scss/_styles/pages/products/_product-image-slider.scss",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Config/Production/DFW1/tgservices.pm",
+		"/Users/cfayock/Code/Sphorb/admin/cgi-bin/content/products.cgi",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Template/SphorbProduct.pm",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/bestsellers.tt2",
+		"/Users/cfayock/Code/Sphorb/templates/sitewide/calc_sale_price.tt2",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb.pm",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/SKU/23-set_inventory-on_hold.t",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/SKU/22-set_inventory-on_hand.t",
+		"/Users/cfayock/Code/Sphorb/crons/warehouse/send_outgoing_xml.pl",
+		"/Users/cfayock/Code/Sphorb/legacy_tests/lib/Sphorb/Template/SphorbProduct/50-get_best_selling_products-profit.t",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/RSS/WhatsNew.pm",
+		"/Users/cfayock/Code/Sphorb/templates/navigation/whatyoulike.tt2",
+		"/Users/cfayock/Code/Sphorb/lib/Sphorb/Report/WarehouseHold.pm",
+		"/Users/cfayock/Code/Sphorb/templates/pages/generic/giftcenters-20140721-backtocampus.tt2"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\n\n\n",
+			"\n\n\n\n\n\n\n\n",
+			"	",
+			"dumper",
+			"= '",
+			"use hotbuy",
+			"}",
+			"'viewall'",
+			"&amp",
+			"\\",
+			"hb_",
+			"hotbuy_data",
+			"hotbuy_object",
+			"= { ",
+			"hotbuy_data",
+			"hotbuy_object",
+			"bestsellers_content",
+			"omniPre",
+			"\n\n",
+			"	",
+			"butt0n-light",
+			"footer",
+			"butt0n-l",
+			"active",
+			"hover",
+			"brace",
+			"	",
+			"Ninja",
+			"Jammer",
+			"1841",
+			"\n\n",
+			"\n\n\n\n\n\n\n\n\n\n\n\n",
+			"	",
+			"limit",
+			"lightbox",
+			"glithbox",
+			">\n",
+			".slick(",
+			".slick)",
+			".slick",
+			"slick",
+			"carousel",
+			"	",
+			"\n\n",
+			"	",
+			"- ",
+			"also_bought",
+			".tt2",
+			"hrqr",
+			"\n\n\n\n\n\n",
+			"\n\n\n\n\n\n\n\n\n\n",
+			"	",
+			"			",
+			"brace",
+			"id",
+			"update",
+			"5",
+			"extend",
+			"buy_button",
+			"product-main",
+			"#buy",
+			"form",
+			"#buy",
+			"form",
+			"arg",
+			"test1",
+			"test",
+			"data_product_whatsnew",
+			"hotbuy_data.whatsnew.products",
+			"hotbuy_data.whatsnew.products =",
+			"product_data.products_temp",
+			"hotbuy_data.whatsnew.",
+			"link_products_content",
+			"fandom",
+			"items",
+			"product",
+			"bestsellers",
+			"bestsellers_limit",
+			"bestsellers",
+			"link_products_content",
+			"bestsellers_content",
+			" 1         ",
+			"onsale_count",
+			"valid_exclusions",
+			"product_name",
+			"display_price",
+			"product_",
+			"product_on_sale",
+			"hotbuy_data.bestsellers.products",
+			"class=\"clear",
+			"<div class=\"clear\"></div>",
+			"\n\n\n\n\n",
+			"\n\n\n\n\n\n\n",
+			"				\n\n\n\n\n\n",
+			"<div class=\"clear\"></div>",
+			"\n\n\n",
+			"all your",
+			"all your bas",
+			"<div class=\"clear\"></div>",
+			"\n\n\n",
+			"\n",
+			"fandom",
+			"lastcol",
+			"\"clear\"",
+			"clear",
+			"\n\n",
+			"hotbuy_data.$hotbuy_id.products",
+			"$hotbuy_id.products",
+			"hotbuy",
+			"bestsellers",
+			"\n\n\n\n\n",
+			"\n\n\n\n\n\n",
+			"hotbuy_item",
+			"[%",
+			"[% ",
+			"featured_new_stuff_list",
+			"news",
+			"link_products_content",
+			"whatsnew",
+			"hotbuy_object",
+			"a.",
+			"8fc57",
+			"} ",
+			"hotbuy_object",
+			"test_prop_obj",
+			"906f8",
+			"906ef",
+			"hotbuy_object"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\n",
+			"",
+			"\n",
+			"",
+			"\n",
+			"",
+			"</p><p>",
+			"'s",
+			"'",
+			"\"",
+			"",
+			".fancybox-emailme",
+			"email",
+			"\n			<div id=\"state\" class=\"form-row\">\n				<div class=\"threecol\">\n				</div>\n				<div class=\"ninecol\">\n				</div>\n			</div>",
+			"twocol",
+			"twocl",
+			"",
+			"$button_blue",
+			"$color_red_light",
+			"$color_",
+			"$tg_new_blue",
+			"$tg_new_grey2",
+			"$tg_new_grey4",
+			"$tg_new_grey5",
+			"icon-chevron-right",
+			"icon-angle-right",
+			"<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/base.css\">",
+			"		<LINK REL=\"stylesheet\" HREF=\"/css/admin.css\">",
+			"	<LINK REL=\"stylesheet\" HREF=\"/css/admin.css\">",
+			"</HEAD>",
+			"\n            <div id=\"loggedout\" class=\"logged-out\">Have an account? <a id=\"banner-loginout\" onclick=\"javascript:showlogin1(); return false\" href=\"https://[% sphorb.domain %]/brain/account/login.cgi\" title=\"Have an account? Log in here\">Log In</a></div>\n            <div id=\"loggingin\" class=\"logging-in\" style=\"display: none;\">\n            	<form action=\"https://[% sphorb.domain %]/brain/account/login.cgi\" method=\"post\">\n            		<input type=\"hidden\" name=\"a\" value=\"auth\">\n            		<input type=\"hidden\" name=\"p\" value=\"[% env.uri == '/' ? '/index.shtml' : env.uri %]\">\n            		<input type=\"hidden\" name=\"s\" value=\"[% env.self_protocol == 'https' ? 1 : 0 %]\">\n            		<input type=\"text\" class=\"mock\" name=\"un\" value=\"Email\" onblur=\"if(this.value=='')this.value='Email', this.className='mock';\" onfocus=\"if(this.value=='Email')this.value='', this.className='real';\">\n            		<input type=\"text\" id=\"mockpass1\" class=\"mock\" value=\"Password\" onFocus=\"document.getElementById('mockpass1').style.display='none'; document.getElementById('realpass1').style.display=''; document.getElementById('realpass1').focus();\">\n            		<input type=\"password\" name=\"pass\" id=\"realpass1\" class=\"real\" autocomplete=\"off\" style=\"display:none;\" onBlur=\"if(this.value=='') {document.getElementById('mockpass1').style.display=''; document.getElementById('realpass1').style.display='none';}\">\n            		<input class=\"submit\" alt=\"Log In\" type=\"image\" src=\"/images/refresh/signinsubmit.gif\">\n            	</form>\n            </div>",
+			"\n\n.content-slider-wrapper .slick-dots {\n	position: static;\n}",
+			"\n}\n\n.owl-section-wrapper .owl-theme .owl-controls .owl-page span {\n	width: 8px;\n	height: 8px;\n	opacity: 1;\n	background-color: #c6cecb;\n	margin: 5px 4px;\n}",
+			"image_path",
+			"$image_path",
+			"class=\"hippify\" data-hippi-src",
+			"<img class=\"image-primary hippify\"",
+			"<title>%%name%% | ThinkGeek</title>",
+			"<title>ThinkGeek | Stuff for Smart Masses</title>",
+			"<title>Stuff for Smart Masses | ThinkGeek</title>",
+			"<title>%%page_title%% | ThinkGeek</title>",
+			"<title>%%title%% | ThinkGeek</title>",
+			"<title>%%cat_name%% | ThinkGeek</title>",
+			"<title>%%name%% | ThinkGeek</title>\n\n#shipping-cutoffs tr {\n    border: solid 1px #aaa;\n}",
+			"\n\n#shipping-cutoffs tr {\n    border: solid 1px #aaa;\n}",
+			"css/subcategories.css?v=2013120200",
+			"blackfriday-2013",
+			"",
+			"(\"https://a.tgcdn.net/images",
+			"('https://a.tgcdn.net/images",
+			"(https://a.tgcdn.net/images",
+			"https://a.tgcdn.net/images",
+			"image:url(http://a.tgcdn.net/images",
+			"image: url(\"http://a.tgcdn.net/images",
+			"image: url(http://a.tgcdn.net/images",
+			"image: url('http://a.tgcdn.net/images",
+			"https:",
+			"url('http://a.tgcdn.net/images",
+			"http",
+			"image: url('htts://a.tgcdn.net/images",
+			"icpg=1311_Holiday2013",
+			"class=\"section",
+			".section.",
+			".section ",
+			"holiday-2013",
+			"topnav_secondary_parent tgnav_secondary_parent",
+			"    ",
+			"",
+			"-lock",
+			"\\'s",
+			"I\\'ve",
+			"$0\\\\'$2",
+			"$0 - $1 - $2 - $3",
+			"$0 $2",
+			"$0\\\\'$2",
+			"$0\\\\'$1",
+			"$0\\'$1",
+			"$1\\'$2",
+			"\\,",
+			"$0\\\\,",
+			"$\\\\,",
+			"$1\\\\,",
+			"$0\\\\,",
+			"$1\\\\,",
+			"$1\\,",
+			"I\\'m",
+			");",
+			"$asdf[] =",
+			"butt0n",
+			"\"",
+			"",
+			"<li>$2$3</li>",
+			"<li>$1$2$3</li>",
+			"<li>$1$2</li>",
+			"<li>$1</li>",
+			"<li>$1",
+			"url('",
+			".jpg",
+			"Link to something",
+			".topnav-primary",
+			"",
+			"/images/sitewide/themes/2013-halloween/",
+			"-618px",
+			"&",
+			"_halloween",
+			"",
+			"1309_halloween",
+			"1309_",
+			"Halloween2013Accessories",
+			"Halloween2013PartySupplies",
+			"Halloween2013Apparel",
+			"/images/sitewide/themes/2013-halloween/",
+			"cat03",
+			"cat02",
+			"cat01",
+			"halloween-2013",
+			".halloween-2013"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4787,
+								4787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "minimalios8.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"modulesheader",
+				"templates/modules/page_header.tt2"
+			],
+			[
+				"generic.tt2",
+				"templates/mobile/pages/generic/generic.tt2"
+			],
+			[
+				"buttons",
+				"scss/_global/util/_buttons.scss"
+			],
+			[
+				"mobilewrap",
+				"templates/mobile/wrapper.tt2"
+			],
+			[
+				"mobilemain",
+				"scss/mobile/_styles/_main.scss"
+			],
+			[
+				"mixins.scss",
+				"scss/_global/util/_mixins.scss"
+			],
+			[
+				"mixins",
+				"scss/_global/util/_mixins.scss"
+			],
+			[
+				"wrapper",
+				"templates/wrapper.tt2"
+			],
+			[
+				"button",
+				"scss/_global/util/_buttons.scss"
+			],
+			[
+				"mobile/_styles/_main.scss",
+				"scss/mobile/_styles/_main.scss"
+			],
+			[
+				"forms.scss",
+				"scss/mobile/_styles/modules/_forms.scss"
+			],
+			[
+				"slider",
+				"templates/modules/product_slider.tt2"
+			],
+			[
+				"productvaria",
+				"templates/sitewide/product_variables.tt2"
+			],
+			[
+				"mobilegeneric",
+				"templates/mobile/pages/generic/generic.tt2"
+			],
+			[
+				"extraupsells",
+				"templates/pages/product/extra/upsells.tt2"
+			],
+			[
+				"default-ret",
+				"templates/pages/product/default-retired.html"
+			],
+			[
+				"mobilehome",
+				"templates/mobile/pages/generic/home.tt2"
+			],
+			[
+				"home.tt2",
+				"templates/pages/generic/home.tt2"
+			],
+			[
+				"mobileproductdefaul",
+				"templates/mobile/pages/product/default.html"
+			],
+			[
+				"mobilehome.tt2",
+				"templates/mobile/pages/generic/home.tt2"
+			],
+			[
+				"mobileglobal",
+				"js/mobile/global.js"
+			],
+			[
+				"slickscss",
+				"scss/_global/vendor/_slick.scss"
+			],
+			[
+				"global",
+				"js/global.js"
+			],
+			[
+				"alsobought",
+				"lib/Sphorb/AlsoBought.pm"
+			],
+			[
+				"finger",
+				"cgi-bin/account/finger.cgi"
+			],
+			[
+				"left",
+				"templates/navigation/leftnav.tt2"
+			],
+			[
+				"newsletter",
+				"templates/newsletter/signup.tt2"
+			],
+			[
+				"catlistdefault",
+				"templates/pages/catlist/default.tt2"
+			],
+			[
+				"extraupsell",
+				"templates/pages/product/extra/upsells.tt2"
+			],
+			[
+				"productdefault",
+				"templates/pages/product/default.html"
+			],
+			[
+				"productdeaful",
+				"crons/update_products_default_category.pl"
+			],
+			[
+				"email",
+				"cgi-bin/email_bis.cgi"
+			],
+			[
+				"mobile/pages/generic/42.tt2",
+				"templates/mobile/pages/generic/42.tt2"
+			],
+			[
+				"backinstock/email_bis.tt2",
+				"templates/backinstock/email_bis.tt2"
+			],
+			[
+				"email_bis.cgi",
+				"cgi-bin/email_bis.cgi"
+			],
+			[
+				"productdefaul",
+				"templates/pages/product/default.html"
+			],
+			[
+				"upsell",
+				"templates/pages/product/extra/upsells.tt2"
+			],
+			[
+				"main.scs",
+				"scss/_styles/_main.scss"
+			],
+			[
+				"product.scss",
+				"scss/_styles/pages/_products.scss"
+			],
+			[
+				"productac",
+				"scss/_styles/pages/products/_product-actions.scss"
+			],
+			[
+				"productaction",
+				"scss/_styles/pages/products/_product-actions.scss"
+			],
+			[
+				"productscss",
+				"scss/_styles/pages/_products.scss"
+			],
+			[
+				"rightgut",
+				"templates/pages/product/right_gutter.tt2"
+			],
+			[
+				"extraup",
+				"templates/pages/product/extra/upsells.tt2"
+			],
+			[
+				"right_gutter",
+				"templates/pages/product/right_gutter.tt2"
+			],
+			[
+				"scssproduct",
+				"scss/_styles/pages/products/_product-actions.scss"
+			],
+			[
+				"gener",
+				"templates/pages/generic/generic.tt2"
+			],
+			[
+				"global.js",
+				"js/global.js"
+			],
+			[
+				"leftnav.tt2",
+				"templates/navigation/leftnav.tt2"
+			],
+			[
+				"modulesproduc",
+				"templates/modules/product_grid.tt2"
+			],
+			[
+				"productgrid",
+				"templates/modules/product_grid.tt2"
+			],
+			[
+				"whatsnew",
+				"templates/pages/generic/whatsnew.tt2"
+			],
+			[
+				"sphorbprod",
+				"lib/Sphorb/Template/SphorbProduct.pm"
+			],
+			[
+				"calc_sale_price",
+				"templates/sitewide/calc_sale_price.tt2"
+			],
+			[
+				"sitewide/product_variables.tt2",
+				"templates/sitewide/product_variables.tt2"
+			],
+			[
+				"bestsel",
+				"templates/pages/generic/bestsellers.tt2"
+			],
+			[
+				"beste",
+				"templates/pages/generic/bestsellers.tt2"
+			],
+			[
+				"backtocamp",
+				"templates/pages/generic/giftcenters-20140721-backtocampus.tt2"
+			],
+			[
+				"gen",
+				"templates/pages/generic/generic.tt2"
+			],
+			[
+				"best",
+				"templates/pages/generic/bestsellers.tt2"
+			],
+			[
+				"page_header",
+				"templates/modules/page_header.tt2"
+			],
+			[
+				"generic",
+				"templates/pages/generic/generic.tt2"
+			],
+			[
+				"forms.scs",
+				"scss/_styles/modules/_forms.scss"
+			],
+			[
+				"heleprs",
+				"scss/_styles/util/_helpers.scss"
+			],
+			[
+				"colors",
+				"scss/_global/settings/_colors.scss"
+			],
+			[
+				"navtop",
+				"templates/navigation/top_primary.tt2"
+			],
+			[
+				"mobilewrapper",
+				"templates/mobile/wrapper.tt2"
+			],
+			[
+				"mobilecateg",
+				"templates/mobile/navigation/categories.tt2"
+			],
+			[
+				"mobilegener",
+				"templates/mobile/pages/generic/generic.tt2"
+			],
+			[
+				"productslider",
+				"templates/modules/product_slider.tt2"
+			],
+			[
+				"modulesprod",
+				"templates/modules/product_slider.tt2"
+			],
+			[
+				"modulesproduct",
+				"templates/modules/product_grid.tt2"
+			],
+			[
+				"product-kit",
+				"templates/pages/generic/product-kit.tt2"
+			],
+			[
+				"hpprod",
+				"templates/pages/generic/partials/hp_product_tabs.tt2"
+			],
+			[
+				"loot.cgi",
+				"cgi-bin/loot.cgi"
+			],
+			[
+				"product",
+				"templates/productwrapper.tt2"
+			],
+			[
+				"productvar",
+				"templates/sitewide/product_variables.tt2"
+			],
+			[
+				"productscsss",
+				"scss/_styles/pages/_products.scss"
+			],
+			[
+				"abootface",
+				"templates/links/aboot/face.html"
+			],
+			[
+				"variables",
+				"scss/_global/vendor/font-awesome/_variables.scss"
+			],
+			[
+				"butotns",
+				"scss/_global/util/_buttons.scss"
+			],
+			[
+				"helpers",
+				"scss/mobile/_styles/util/_helpers.scss"
+			],
+			[
+				"grid.scss",
+				"scss/_styles/util/_grid.scss"
+			],
+			[
+				"dev-cfa",
+				"lib/Sphorb/Config/Dev/dev-cfayock.pm"
+			],
+			[
+				"hotbuy.pm",
+				"lib/Sphorb/HotBuy.pm"
+			],
+			[
+				"imgcarou",
+				"templates/pages/product/images_carousel.tt2"
+			],
+			[
+				"pagesproductimagecar",
+				"templates/pages/product/images_carousel.tt2"
+			],
+			[
+				"top_bref",
+				"templates/pages/product/top_brief.tt2"
+			],
+			[
+				"ominture.pm",
+				"lib/Sphorb/Template/Omniture.pm"
+			],
+			[
+				"wrapper.tt2",
+				"templates/wrapper.tt2"
+			],
+			[
+				"grandmas",
+				"templates/grand_master_wrapper.tt2"
+			],
+			[
+				"productwrap",
+				"templates/productwrapper.tt2"
+			],
+			[
+				"leftnav",
+				"templates/navigation/leftnav.tt2"
+			],
+			[
+				"lib/sphorb/content.pm",
+				"lib/Sphorb/Content.pm"
+			],
+			[
+				"hp_prod",
+				"templates/pages/generic/partials/hp_product_tabs.tt2"
+			],
+			[
+				"product_grid",
+				"templates/modules/product_grid.tt2"
+			],
+			[
+				"mobilecate",
+				"templates/mobile/navigation/categories.tt2"
+			],
+			[
+				"topsecond",
+				"templates/navigation/top_secondary.tt2"
+			],
+			[
+				"wrapper.",
+				"templates/wrapper.tt2"
+			],
+			[
+				"mobilehelpers",
+				"scss/mobile/_styles/util/_helpers.scss"
+			],
+			[
+				"utilhelpers",
+				"scss/_styles/util/_helpers.scss"
+			],
+			[
+				"cart/cart_banners.tt2",
+				"templates/cart/cart_banners.tt2"
+			],
+			[
+				"universa",
+				"templates/sitewide/universal_product_list.tt2"
+			],
+			[
+				"templatescheckoutadd",
+				"templates/checkout/address.tt2"
+			],
+			[
+				"productright",
+				"templates/pages/product/right_gutter.tt2"
+			],
+			[
+				"templatescart",
+				"templates/cart.tt2"
+			],
+			[
+				"header.tt2",
+				"templates/sitewide/header.tt2"
+			],
+			[
+				"homescss",
+				"scss/_styles/pages/_home.scss"
+			],
+			[
+				"titl",
+				"templates/title.tt2"
+			],
+			[
+				"grans",
+				"templates/grand_master_wrapper.tt2"
+			],
+			[
+				"prod",
+				"templates/productwrapper.tt2"
+			],
+			[
+				"warpspeed.cgi",
+				"cgi-bin/checkout/warpspeed.cgi"
+			],
+			[
+				"warpspeed.tt2",
+				"templates/checkout/warpspeed.tt2"
+			],
+			[
+				"template.",
+				"lib/Sphorb/Template.pm"
+			],
+			[
+				"preservepre",
+				"templates/preserve_precache_variables.tt2"
+			],
+			[
+				"preserve_precache_variables",
+				"templates/preserve_precache_variables.tt2"
+			],
+			[
+				"bread",
+				"templates/breadcrumb.tt2"
+			],
+			[
+				"grandmaster",
+				"templates/grand_master_wrapper.tt2"
+			],
+			[
+				"page_",
+				"templates/modules/page_header.tt2"
+			],
+			[
+				"title.tt2",
+				"templates/title.tt2"
+			],
+			[
+				"generi",
+				"templates/pages/generic/generic.tt2"
+			],
+			[
+				"titlt",
+				"templates/title.tt2"
+			],
+			[
+				"wraper",
+				"templates/wrapper.tt2"
+			],
+			[
+				"sphorbhotbuy",
+				"lib/Sphorb/HotBuy.pm"
+			],
+			[
+				"hotbuy",
+				"lib/Sphorb/Template/HotBuy.pm"
+			],
+			[
+				"sitewide/calc_sale_price.tt2",
+				"templates/sitewide/calc_sale_price.tt2"
+			],
+			[
+				"subca",
+				"scss/_styles/pages/_subcategories.scss"
+			],
+			[
+				"modulespage_hea",
+				"templates/modules/page_header.tt2"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 534.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

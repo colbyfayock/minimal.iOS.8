@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "./",
+            "folder_exclude_patterns": [
+                ".*",
+                "cgi-bin",
+                "mp3",
+                "vid"
+            ],
+            "file_exclude_patterns": ["._*"]
+		}
+	],
+	"settings":
+	{
+		"translate_tabs_to_spaces": true,
+		"trim_trailing_white_space_on_save": true
+	}
+}

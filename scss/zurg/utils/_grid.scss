@@ -28,10 +28,20 @@
 
 .body .row {
 
-    margin-bottom: 2.5em;
+    margin-bottom: 5em;
 
     &:last-child {
         margin-bottom: 0;
+    }
+
+    .row {
+
+        margin-bottom: 2em;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+
     }
 
 }
