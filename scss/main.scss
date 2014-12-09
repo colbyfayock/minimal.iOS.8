@@ -119,6 +119,17 @@ h2 {
         font-weight: 400;
     }
 
+    li {
+
+        color: $zurg-color-secondary;
+        line-height: 1.6em;
+
+        span {
+            color: $color-grey4;
+        }
+
+    }
+
 }
 
 .footer {
