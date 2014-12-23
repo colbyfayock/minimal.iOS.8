@@ -112,10 +112,15 @@ h2 {
 
 .icon-list {
 
+    h3 {
+        font-size: 2em;
+    }
+
     h4 {
         position: relative;
         top: -1em;
         color: $color-grey3;
+        font-size: 1.4em;
         font-weight: 400;
     }
 
