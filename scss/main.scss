@@ -171,6 +171,27 @@ h2 {
 
     }
 
+    .button {
+
+        color: white;
+        background-color: $zurg-color-secondary;
+        border: 1px solid darken($zurg-color-secondary, 5);
+
+        @include desktop() {
+            &:hover:not(:disabled) {
+                background-color: lighten($zurg-color-secondary, 3);
+            }
+            &:active:not(:disabled) {
+                background-color: darken($zurg-color-secondary, 3);
+            }
+        }
+
+    }
+
+    .donate {
+        margin-top: 2em;
+    }
+
 }
 
 .footer-icons {
