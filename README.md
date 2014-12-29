@@ -14,6 +14,8 @@ Free flat and minimal iOS 8 theme for Winterboard with over 160 icons! (full ico
 #### Requesting Icons
 Use Github Issues if possible, otherwise [hit me up on Twitter (@colbyfayock)](http://twitter.com/colbyfayock) or use the contact button that you can find in the [Cydia repo](http://cydia.saurik.com/package/com.modmyi.minimalios8/)
 
+Note: If the app is paid and I do not already own the app, I will request that you either send me the Bundle Identifier in addition to the filenames of the icons to be themed, or simply gift me the app, at which point I will ensure it's thoroughly themed.
+
 #### Development Releases
 Add source [http://cydia.fay.io](http://cydia.fay.io) on Cydia!
 
