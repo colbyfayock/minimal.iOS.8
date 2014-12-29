@@ -3,8 +3,7 @@ minimal.iOS.8
 
 Free flat and minimal iOS 8 theme for Winterboard with over 160 icons! (full icon list below)
 
-How to install
-=============
+### How to install
 
  - Visit http://colbyfayock.github.io/minimal.iOS.8/ on your phone and hit Cydia
  - Search for minimal.iOS.8 on Cydia via modmyi.com repo
@@ -12,9 +11,13 @@ How to install
   - Need help installing manually? See below
   - http://www.reddit.com/r/iOSthemes/wiki/help/guides/addingthemeswithoutcydia
 
+#### Requesting Icons
+Use Github Issues if possible, otherwise [hit me up on Twitter (@colbyfayock)](http://twitter.com/colbyfayock) or use the contact button that you can find in the [Cydia repo](http://cydia.saurik.com/package/com.modmyi.minimalios8/)
 
-160+ Themed Icons
-=============
+#### Development Releases
+Add source [http://cydia.fay.io](http://cydia.fay.io) on Cydia!
+
+#### Current Themed Icons
 
  - 1Password
  - 5s Gif
