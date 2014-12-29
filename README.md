@@ -19,6 +19,9 @@ Note: If the app is paid and I do not already own the app, I will request that y
 #### Development Releases
 Add source [http://cydia.fay.io](http://cydia.fay.io) on Cydia!
 
+#### Using minimal.iOS.8 Icons for New Theme Creation
+Everyone is free to use these icons in their own themes, however, it would be super appreciated to throw in any kind of attribution linking to [my Twitter (@colbyfayock)](http://twitter.com/colbyfayock)
+
 #### Current Themed Icons
 
  - 1Password
