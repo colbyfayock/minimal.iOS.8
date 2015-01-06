@@ -1,6 +1,6 @@
 Package: com.modmyi.minimalios8
 Name: minimal.iOS.8
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Author: Colby Fayock <info@colbyfayock.com>
 Maintainer: Colby Fayock <info@colbyfayock.com>
