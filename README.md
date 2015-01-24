@@ -1,7 +1,7 @@
 minimal.iOS.8
 =============
 
-Free flat and minimal iOS 8 theme for Winterboard with over 160 icons! (full icon list below)
+Free flat and minimal iOS 8 theme for Winterboard with over 290 icons! (full icon list below)
 
 ### How to install
 
@@ -24,14 +24,18 @@ Everyone is free to use these icons in their own themes, however, it would be su
 
 #### Current Themed Icons
 
+ - 2048
  - 1Password
  - 5s Gif
+ - 8 Ball Pool
+ - 9GAG
  - ABC Watch
  - Accuweather
  - Ally
  - Amazon
  - Amazon Instant Video
  - AMEX
+ - amrc client for reddit
  - AppInfo
  - Apple App Store
  - Apple Calculator
@@ -46,6 +50,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Apple Health
  - Apple iBooks
  - Apple iMovie
+ - Apple iTunes Store
  - Apple Keynote
  - Apple Mail
  - Apple Maps
@@ -66,30 +71,69 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Apple Store
  - Apple TestFlight
  - Apple Tips
+ - Apple Trailers
  - Apple Videos
  - Apple Weather
+ - Ask.fm
+ - Audible  Audiobooks
  - Authy
+ - Aviary Photo Editor
+ - Bandsintown
+ - Bank of America
+ - BatteryLife
+ - "BBC News US
+ - "
+ - Beats
+ - Bible
+ - Bitmoji
  - Box
+ - Bytafont 2
+ - Canvas
+ - Capital One
+ - CBS Sports
+ - Chase
  - Citi
+ - Clear
  - CloudApp
+ - CloudMagic Email
  - Comedy Central Stand-Up
  - Convertbot
  - Credit Karma
+ - Crunchyroll
  - Curb
  - Cydia
  - Day One
+ - Deezer
+ - Deliveries
+ - Discover Mobile
+ - "Discovery Channel
+ - "
  - Dropbox
+ - Duolingo
  - Ebay
  - Ebay iPad
+ - Endomondo
+ - Epocrates
  - ESPN ScoreCenter
+ - Eventbrite
  - Evernote iPhone
  - Fab
  - Facebook
+ - Facebook Groups
  - Facebook Paper
  - FaceTune
  - Fantastical
  - Feedly
+ - Fitbit
  - Flappy Bird
+ - Flickr
+ - Fling
+ - Flipagram
+ - Flipboard
+ - Flixster
+ - Four Four Two Stats Zone
+ - "Genius Scan - PDF Scanner
+ - "
  - Google Analytics
  - Google Authenticator
  - Google Chrome
@@ -101,60 +145,109 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Google Hangouts
  - Google Local
  - Google Maps
+ - Google Play Movies
  - Google Plus
  - Google Search
  - Google Search
  - Google Sheets
+ - Google Snapseed
  - Google Translate
  - Google Wallet
  - Google Youtube
  - GroupMe
  - Groupon
+ - Guitar Tuna
  - Hanging With Friends Paid
  - HBOGo
+ - HeyHey
  - HopStop
  - Hot Or Not
  - Human
  - Huntington
+ - Hyperlapse
+ - iCleaner
+ - iFile
  - IFTTT
+ - iFunny
  - IMDB
  - Inbox
+ - Inbox Messenger
+ - Instacast
+ - InstaCollage
  - Instagram
+ - InstaSize
+ - iTube
  - iTunes University
+ - KakaoTalk
  - kik
+ - Kindle
  - LastPass
+ - Launch Center Pro
  - LinkedIn
  - LoseIt
+ - Lyft
  - Mailbox
  - Make It Big
+ - Mashable
  - Messenger
+ - Microsoft Excel
  - Microsoft OneDrive
+ - Microsoft OWA
+ - Microsoft Word
  - Mint.com
  - Miscrosoft Smartglass
  - Mobile Terminal
+ - Moves
  - My Mazda
+ - MyAT&T
+ - MyFitnessPal
+ - "Navy Federal Credit Union
+ - "
  - NBA
  - Netflix
+ - "New Words With Friends
+ - "
  - Nexus Student Ministry
+ - NFL Fantasy Football
+ - NFL Mobile
  - Nike+
+ - Ookla Speedtest
+ - ooVoo
  - Pandora
  - Pantone
  - Papa Johns
  - Paypal
+ - PhotoMath
  - PicPlayPost
  - Pinterest
+ - "Playstation
+ - "
+ - Plex
+ - Pluto TV
  - PNC Mobile
+ - Pocket
+ - ProTube for YouTube
  - PSECU
+ - Pushbullet
+ - QQ International
+ - QR Reader
+ - QuizUp
  - Rdio
  - Red Laser
  - Reddit Alien Blue
  - Reddit Alien Blue iPad
+ - Reddit AMA
+ - Retail Me Not
  - Screeny
  - Shazam
  - Showtime Anytime
+ - Skype
  - Slack
+ - Sleep Cycle
+ - Slick Deals
  - SnapChat
  - SnapChat
+ - Sniper Shooter
  - SoundCloud
  - SoundHound
  - SoundHound Pro
@@ -162,27 +255,72 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Spotify
  - Springtomize
  - Starbucks
+ - Strava Running and Cycling
+ - Superimpose
  - Swarm
  - Swift Key
+ - Tango
+ - Tapatalk
+ - "TeamViewer: Remote Control
+ - "
+ - Telegram Messenger
+ - The Weather Channel
+ - Tinder
+ - ToDoMovies
+ - Transcynd
+ - Transit App
+ - Trivia Crack
+ - Tubex for YouTube
+ - Tumblr
+ - TuneIn Radio
+ - TWC TV
  - Tweetbot
+ - Twitch
  - Twitter
  - Uber
+ - UpToDate
+ - Urban Spoon
+ - Venmo - International
+ - Verizon Cloud
+ - Verizon Cloud
+ - "Verizon My Verizon
+ - "
  - Vevo
+ - Viber
  - Vimeo
  - VINE
  - Visage Lab
  - Visage Lab Pro
  - Visage Lab Pro HD
+ - Walgreens
  - Wallet
+ - Walmart
+ - Waze
  - We <3 It
+ - WeChat
  - Wegmans
+ - Weibo
+ - Wells Fargo
  - WhatsApp
+ - Wikipedia
  - Winterboard
  - Wolfram Alpha
  - Words with Friends Paid
  - Wunderlist
+ - X Mod Games
+ - XBMC
+ - Xfinity Conenct
+ - Xfinity MyAccount
  - Xfinity Play
  - Xfinity Remote
  - XKit
+ - Yahoo
  - Yahoo Fantasy Football
+ - Yahoo Mail
+ - Yahoo News
+ - Yahoo Weather
+ - YB
  - Yelp
+ - Yik Yak
+ - Youtube Creator Studio
+ - Zedge
