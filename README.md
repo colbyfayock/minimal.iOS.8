@@ -1,7 +1,7 @@
 minimal.iOS.8
 =============
 
-Free flat and minimal iOS 8 theme for Winterboard with over 290 icons! (full icon list below)
+Free flat and minimal iOS 8 theme for Winterboard with over 320 icons! (full icon list below)
 
 ### How to install
 
@@ -73,6 +73,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Apple Tips
  - Apple Trailers
  - Apple Videos
+ - Apple Voice Memos
  - Apple Weather
  - Ask.fm
  - Audible  Audiobooks
@@ -81,21 +82,24 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Bandsintown
  - Bank of America
  - BatteryLife
- - "BBC News US
- - "
+ - BBC News US
  - Beats
  - Bible
  - Bitmoji
+ - Bleacher Report
  - Box
+ - BuzzFeed
  - Bytafont 2
  - Canvas
  - Capital One
  - CBS Sports
  - Chase
  - Citi
+ - Clash of Clans
  - Clear
  - CloudApp
  - CloudMagic Email
+ - Coastal
  - Comedy Central Stand-Up
  - Convertbot
  - Credit Karma
@@ -106,8 +110,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Deezer
  - Deliveries
  - Discover Mobile
- - "Discovery Channel
- - "
+ - Discovery Channel
  - Dropbox
  - Duolingo
  - Ebay
@@ -115,16 +118,22 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Endomondo
  - Epocrates
  - ESPN ScoreCenter
+ - ESPN ScoreCenter
+ - ESPN Watch
  - Eventbrite
  - Evernote iPhone
+ - f.lux
  - Fab
  - Facebook
  - Facebook Groups
  - Facebook Paper
  - FaceTune
+ - Fandango
+ - FanDuel
  - Fantastical
  - Feedly
  - Fitbit
+ - Five Guys
  - Flappy Bird
  - Flickr
  - Fling
@@ -132,8 +141,8 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Flipboard
  - Flixster
  - Four Four Two Stats Zone
- - "Genius Scan - PDF Scanner
- - "
+ - Gate Guru
+ - Genius Scan - PDF Scanner
  - Google Analytics
  - Google Authenticator
  - Google Chrome
@@ -165,6 +174,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Human
  - Huntington
  - Hyperlapse
+ - iAlien
  - iCleaner
  - iFile
  - IFTTT
@@ -178,17 +188,21 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - InstaSize
  - iTube
  - iTunes University
+ - Journalized
  - KakaoTalk
  - kik
  - Kindle
  - LastPass
  - Launch Center Pro
  - LinkedIn
+ - LogMeIn
  - LoseIt
  - Lyft
  - Mailbox
  - Make It Big
  - Mashable
+ - Match.com
+ - Maybank
  - Messenger
  - Microsoft Excel
  - Microsoft OneDrive
@@ -197,31 +211,34 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Mint.com
  - Miscrosoft Smartglass
  - Mobile Terminal
+ - Moby Dick, House of Kabob
  - Moves
  - My Mazda
  - MyAT&T
  - MyFitnessPal
- - "Navy Federal Credit Union
- - "
+ - MyScript Calculator
+ - Navy Federal Credit Union
  - NBA
  - Netflix
- - "New Words With Friends
- - "
+ - New Words With Friends
  - Nexus Student Ministry
  - NFL Fantasy Football
  - NFL Mobile
  - Nike+
+ - OkCupid
  - Ookla Speedtest
  - ooVoo
+ - Open Table
  - Pandora
+ - Pangu
  - Pantone
  - Papa Johns
  - Paypal
  - PhotoMath
  - PicPlayPost
+ - PicsArt
  - Pinterest
- - "Playstation
- - "
+ - Playstation
  - Plex
  - Pluto TV
  - PNC Mobile
@@ -232,12 +249,15 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - QQ International
  - QR Reader
  - QuizUp
+ - RadarScope
  - Rdio
  - Red Laser
  - Reddit Alien Blue
  - Reddit Alien Blue iPad
  - Reddit AMA
+ - Redfin
  - Retail Me Not
+ - Retry
  - Screeny
  - Shazam
  - Showtime Anytime
@@ -248,6 +268,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - SnapChat
  - SnapChat
  - Sniper Shooter
+ - Sosh
  - SoundCloud
  - SoundHound
  - SoundHound Pro
@@ -256,13 +277,15 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Springtomize
  - Starbucks
  - Strava Running and Cycling
+ - Strong
+ - Sunrise Calendar
+ - Super
  - Superimpose
  - Swarm
  - Swift Key
  - Tango
  - Tapatalk
- - "TeamViewer: Remote Control
- - "
+ - TeamViewer: Remote Control
  - Telegram Messenger
  - The Weather Channel
  - Tinder
@@ -282,9 +305,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Urban Spoon
  - Venmo - International
  - Verizon Cloud
- - Verizon Cloud
- - "Verizon My Verizon
- - "
+ - Verizon My Verizon
  - Vevo
  - Viber
  - Vimeo
@@ -297,6 +318,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Walmart
  - Waze
  - We <3 It
+ - Weather Underground
  - WeChat
  - Wegmans
  - Weibo
@@ -306,6 +328,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Winterboard
  - Wolfram Alpha
  - Words with Friends Paid
+ - World Lens
  - Wunderlist
  - X Mod Games
  - XBMC
@@ -322,5 +345,6 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - YB
  - Yelp
  - Yik Yak
+ - YNAB
  - Youtube Creator Studio
  - Zedge
