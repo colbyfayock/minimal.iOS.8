@@ -137,6 +137,59 @@ h2 {
 
 }
 
+.icon-list-grid {
+
+    span {
+
+        display: block;
+        position: relative;
+
+        &:hover {
+
+            &:before,
+            &:after {
+                display: block;
+                position: absolute;
+            }
+
+        }
+
+        &:before,
+        &:after {
+            display: none;
+            position: absolute;
+            content: '';
+        }
+
+        &:before {
+            @include box-sizing( border-box );
+            bottom: 110%;
+            left: -5%;
+            z-index: 1;
+            width: 110%;
+            content: attr(data-title);
+            text-align: center;
+            line-height: 1.2em;
+            background-color: white;
+            padding: .6em;
+            border-radius: .2em;
+            box-shadow: 0px -2px 2px rgba(0,0,0,.1);
+        }
+
+        &:after {
+            bottom: 106%;
+            left: 50%;
+            width: 1em;
+            height: 1em;
+            background-color: white;
+            margin-left: -.5em;
+            @include transform( rotate(45deg) );
+        }
+
+    }
+
+}
+
 .footer {
 
     color: lighten( $zurg-color-primary, 50 );
