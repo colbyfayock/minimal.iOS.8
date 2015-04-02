@@ -1,7 +1,7 @@
 minimal.iOS.8
 =============
 
-Free flat and minimal iOS 8 theme for Winterboard with over 320 icons! (full icon list below)
+Free flat and minimal iOS 8 theme for Winterboard with over 360 icons! (full icon list below)
 
 ### How to install
 
@@ -81,15 +81,18 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Aviary Photo Editor
  - Bandsintown
  - Bank of America
+ - Battery Doctor
  - BatteryLife
  - BBC News US
  - Beats
  - Bible
  - Bitmoji
  - Bleacher Report
+ - Boom Beach
  - Box
  - BuzzFeed
  - Bytafont 2
+ - Calenmob
  - Canvas
  - Capital One
  - CBS Sports
@@ -101,6 +104,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - CloudMagic Email
  - Coastal
  - Comedy Central Stand-Up
+ - CommBank
  - Convertbot
  - Credit Karma
  - Crunchyroll
@@ -131,6 +135,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Fandango
  - FanDuel
  - Fantastical
+ - FCC
  - Feedly
  - Fitbit
  - Five Guys
@@ -140,11 +145,15 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Flipagram
  - Flipboard
  - Flixster
+ - FontBook
  - Four Four Two Stats Zone
+ - Foxtel Go
+ - Foxtel Guide
  - Gate Guru
  - Genius Scan - PDF Scanner
  - Google Analytics
  - Google Authenticator
+ - Google Calendar
  - Google Chrome
  - Google Chromecast
  - Google Docs
@@ -159,6 +168,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Google Search
  - Google Search
  - Google Sheets
+ - Google Slides
  - Google Snapseed
  - Google Translate
  - Google Wallet
@@ -194,22 +204,27 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Kindle
  - LastPass
  - Launch Center Pro
+ - Line
  - LinkedIn
  - LogMeIn
  - LoseIt
  - Lyft
  - Mailbox
  - Make It Big
+ - Manga Rock
  - Mashable
  - Match.com
  - Maybank
+ - Memoir
  - Messenger
  - Microsoft Excel
  - Microsoft OneDrive
  - Microsoft OWA
+ - Microsoft Powerpoint
  - Microsoft Word
  - Mint.com
  - Miscrosoft Smartglass
+ - MLB at Bat
  - Mobile Terminal
  - Moby Dick, House of Kabob
  - Moves
@@ -224,18 +239,27 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Nexus Student Ministry
  - NFL Fantasy Football
  - NFL Mobile
+ - NHL
  - Nike+
+ - Notability
  - OkCupid
  - Ookla Speedtest
  - ooVoo
  - Open Table
+ - Overcast
+ - Palringo
  - Pandora
  - Pangu
  - Pantone
  - Papa Johns
+ - Parcel
  - Paypal
+ - Periscope
+ - PHHHOTO
  - PhotoMath
+ - Pic Jointer
  - PicPlayPost
+ - Pics HD for Reddit
  - PicsArt
  - Pinterest
  - Playstation
@@ -245,6 +269,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Pocket
  - ProTube for YouTube
  - PSECU
+ - Puffin Free
  - Pushbullet
  - QQ International
  - QR Reader
@@ -256,14 +281,19 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Reddit Alien Blue iPad
  - Reddit AMA
  - Redfin
+ - Reeder
  - Retail Me Not
  - Retry
+ - Robinhood
  - Screeny
+ - Setlist
  - Shazam
  - Showtime Anytime
+ - Simple
  - Skype
  - Slack
  - Sleep Cycle
+ - SleepGenius
  - Slick Deals
  - SnapChat
  - SnapChat
@@ -275,7 +305,9 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Splitwise
  - Spotify
  - Springtomize
+ - Square Cash
  - Starbucks
+ - Steam
  - Strava Running and Cycling
  - Strong
  - Sunrise Calendar
@@ -283,10 +315,12 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Superimpose
  - Swarm
  - Swift Key
+ - Sybu
  - Tango
  - Tapatalk
  - TeamViewer: Remote Control
  - Telegram Messenger
+ - Telstra
  - The Weather Channel
  - Tinder
  - ToDoMovies
@@ -296,6 +330,9 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Tubex for YouTube
  - Tumblr
  - TuneIn Radio
+ - TurboTax Tax Preparation
+ - Turf Wars
+ - TV Guide
  - TWC TV
  - Tweetbot
  - Twitch
@@ -303,7 +340,9 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Uber
  - UpToDate
  - Urban Spoon
+ - Vainglory
  - Venmo - International
+ - Verizon Cloud
  - Verizon Cloud
  - Verizon My Verizon
  - Vevo
@@ -313,6 +352,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Visage Lab
  - Visage Lab Pro
  - Visage Lab Pro HD
+ - WakeUp
  - Walgreens
  - Wallet
  - Walmart
@@ -324,6 +364,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Weibo
  - Wells Fargo
  - WhatsApp
+ - Wikipanion
  - Wikipedia
  - Winterboard
  - Wolfram Alpha
@@ -332,6 +373,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Wunderlist
  - X Mod Games
  - XBMC
+ - Xero
  - Xfinity Conenct
  - Xfinity MyAccount
  - Xfinity Play
