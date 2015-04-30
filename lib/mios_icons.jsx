@@ -388,10 +388,15 @@ mios.icons.push({
         custom: [
             [ 'Icon-20~ipad', 20 ],
             [ 'Icon-20@2x', 40 ],
+            [ 'Icon-20@3x', 60 ],
             [ 'Icon-40@2x', 80 ],
+            [ 'Icon-40@3x', 120 ],
             [ 'Icon-76@2x~ipad', 152 ],
+            [ 'Icon-76@3x~ipad', 228 ],
             [ 'Icon-Small@2x', 58 ],
-            [ 'Icon@2x', 144 ]
+            [ 'Icon-Small@3x', 87 ],
+            [ 'Icon@2x', 144 ],
+            [ 'Icon@2x', 216 ]
         ]
     }
 });
@@ -503,8 +508,11 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'icon@2x~iphone', 120 ],
+            [ 'icon@3x~iphone', 180 ],
             [ 'settingsIcon@2x', 58 ],
-            [ 'spotlightIcon@2x', 80 ]
+            [ 'settingsIcon@3x', 87 ],
+            [ 'spotlightIcon@2x', 80 ],
+            [ 'spotlightIcon@3x', 120 ]
         ]
     }
 });
@@ -540,9 +548,13 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'icon-about@2x', 80 ],
+            [ 'icon-about@3x', 120 ],
             [ 'icon-spotlight@2x', 40 ],
+            [ 'icon-spotlight@3x', 60 ],
             [ 'icon-table@2x', 58 ],
-            [ 'icon@2x~iphone', 120 ]
+            [ 'icon-table@3x', 87 ],
+            [ 'icon@2x~iphone', 120 ],
+            [ 'icon@3x~iphone', 180 ]
         ]
     }
 });
@@ -652,7 +664,8 @@ mios.icons.push({
     psd_id: 'apple_voice_memos',
     icons: {
         custom: [
-            [ 'icon@2x', 120 ]
+            [ 'icon@2x', 120 ],
+            [ 'icon@3x', 180 ]
         ]
     }
 });
@@ -1015,7 +1028,7 @@ mios.icons.push({
 
 mios.icons.push({
     name: 'Clima',
-    bundle_id: 'com.littlebigcode.Climaear',
+    bundle_id: 'com.littlebigcode.Clima',
     app_id: false,
     psd_id: 'clima',
     icons: {
@@ -4912,7 +4925,19 @@ mios.icons.push({
     app_id: false,
     psd_id: 'xkit',
     icons: {
-        appicon: true
+        custom: [
+            [ 'AppIcon-176x76~ipad', 76 ],
+            [ 'AppIcon-176x76@2x~ipad', 152 ],
+            [ 'AppIcon-172x72~ipad', 72 ],
+            [ 'AppIcon-172x72@2x~ipad', 144 ],
+            [ 'AppIcon-160x60@2x', 120 ],
+            [ 'AppIcon-160x60@3x', 180 ],
+            [ 'AppIcon-140x40~ipad', 40 ],
+            [ 'AppIcon-140x40@2x~ipad', 80 ],
+            [ 'AppIcon-129x29', 29 ],
+            [ 'AppIcon-129x29@2x', 58 ],
+            [ 'AppIcon-129x29@3x', 87 ]
+        ]
     }
 });
 

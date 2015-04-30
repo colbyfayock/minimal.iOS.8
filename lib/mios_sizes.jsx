@@ -56,9 +56,11 @@ mios.sizes = {
 
         [ 'Icon-72',           72 ],
         [ 'Icon-72@2x',        144 ],
+        [ 'Icon-72@3x',        216 ],
 
         [ 'Icon-76',           76 ],
         [ 'Icon-76@2x',        152 ],
+        [ 'Icon-76@3x',        228 ],
 
         [ 'Icon-Small-40',     40 ],
         [ 'Icon-Small-40@2x',  80 ],
