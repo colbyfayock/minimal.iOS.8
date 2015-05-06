@@ -134,6 +134,11 @@ var mios = {
                 continue;
             }
 
+            if ( args.length > 0 && args[0] === 'test' ) {
+                iconDoc.close( SaveOptions.DONOTSAVECHANGES );
+                continue;
+            }
+
             if ( iconObj.icons ) {
 
                 iconFolder = iconObj.icons.folder && iconObj.icons.folder !== '' ? iconObj.icons.folder : false;
@@ -160,7 +165,7 @@ var mios = {
                     app.activeDocument.resizeImage( iconSizes[j][1], iconSizes[j][1], undefined, ResampleMethod.BICUBICSHARPER);
                     iconFile = new File( decodeURI(bundleFolder) + iconFilePath );
 
-                    if ( args[0] === 'compressed' ) {
+                    if ( args.length > 0 && args[0] === 'compressed' ) {
                         this.save( iconFile, true );
                     } else {
                         this.save( iconFile, false );
