@@ -396,7 +396,7 @@ mios.icons.push({
             [ 'Icon-Small@2x', 58 ],
             [ 'Icon-Small@3x', 87 ],
             [ 'Icon@2x', 144 ],
-            [ 'Icon@2x', 216 ]
+            [ 'Icon@3x', 216 ]
         ]
     }
 });
@@ -2300,6 +2300,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'iCleaner iPhone 6 Plus',
+    bundle_id: 'com.exile90.icleanerpro',
+    app_id: 'iCleaner.app',
+    psd_id: 'icleaner',
+    icons: {
+        icon: true
+    }
+});
+
+mios.icons.push({
     name: 'IF',
     bundle_id: 'com.ifttt.ifttt',
     app_id: 'IFTTT.app',
@@ -3652,7 +3662,7 @@ mios.icons.push({
 });
 
 mios.icons.push({
-    name: 'Shazam',
+    name: 'Shazam Free',
     bundle_id: 'com.shazam.Shazam',
     app_id: 'Shazam.app',
     psd_id: 'shazam',
@@ -3665,6 +3675,24 @@ mios.icons.push({
             [ 'AppIcons_Free72x72~ipad', 72 ],
             [ 'AppIcons_Free76x76@2x~ipad', 152 ],
             [ 'AppIcons_Free76x76~ipad', 76 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Shazam Encore',
+    bundle_id: 'com.shazam.encore.Shazam',
+    app_id: 'Shazam.app',
+    psd_id: 'shazam_encore',
+    icons: {
+        custom: [
+            [ 'AppIcons_Encore57x57', 57 ],
+            [ 'AppIcons_Encore57x57@2x', 114 ],
+            [ 'AppIcons_Encore60x60@2x', 120 ],
+            [ 'AppIcons_Encore72x72@2x~ipad', 144 ],
+            [ 'AppIcons_Encore72x72~ipad', 72 ],
+            [ 'AppIcons_Encore76x76@2x~ipad', 152 ],
+            [ 'AppIcons_Encore76x76~ipad', 76 ]
         ]
     }
 });
