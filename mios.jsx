@@ -718,6 +718,769 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Apple Preference Settings - Airplane Mode',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_airplane_mode',
+    icons: {
+        custom: [
+            [ 'AirplaneMode~ipad', 29 ],
+            [ 'AirplaneMode@2x', 58 ],
+            [ 'AirplaneMode@2x~ipad', 58 ],
+            [ 'AirplaneMode@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - App Store',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_app_store',
+    icons: {
+        custom: [
+            [ 'AppStore~ipad', 29 ],
+            [ 'AppStore@2x', 58 ],
+            [ 'AppStore@2x~ipad', 58 ],
+            [ 'AppStore@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Bluetooth',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_bluetooth',
+    icons: {
+        custom: [
+            [ 'Bluetooth~ipad', 29 ],
+            [ 'Bluetooth@2x', 58 ],
+            [ 'Bluetooth@2x~ipad', 58 ],
+            [ 'Bluetooth@3x', 87 ],
+            [ 'BluetoothSharing~ipad', 29 ],
+            [ 'BluetoothSharing@2x', 58 ],
+            [ 'BluetoothSharing@2x~ipad', 58 ],
+            [ 'BluetoothSharing@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Calendar',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: false,
+    icons: {
+        custom: [
+            [ 'Calendar~ipad', 29 ],
+            [ 'Calendar@2x', 58 ],
+            [ 'Calendar@2x~ipad', 58 ],
+            [ 'Calendar@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Camera',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_camera',
+    icons: {
+        custom: [
+            [ 'Camera~ipad', 29 ],
+            [ 'Camera@2x', 58 ],
+            [ 'Camera@2x~ipad', 58 ],
+            [ 'Camera@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Carrier',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_carrier',
+    icons: {
+        custom: [
+            [ 'Carrier~ipad', 29 ],
+            [ 'Carrier@2x', 58 ],
+            [ 'Carrier@2x~ipad', 58 ],
+            [ 'Carrier@3x', 87 ],
+            [ 'CarrierSettings~ipad', 29 ],
+            [ 'CarrierSettings@2x', 58 ],
+            [ 'CarrierSettings@2x~ipad', 58 ],
+            [ 'CarrierSettings@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Cellular Data',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_cellular',
+    icons: {
+        custom: [
+            [ 'CellularData~ipad', 29 ],
+            [ 'CellularData@2x', 58 ],
+            [ 'CellularData@2x~ipad', 58 ],
+            [ 'CellularData@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Compass',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_compass',
+    icons: {
+        custom: [
+            [ 'Compass~ipad', 29 ],
+            [ 'Compass@2x', 58 ],
+            [ 'Compass@2x~ipad', 58 ],
+            [ 'Compass@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Contacts',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_contacts',
+    icons: {
+        custom: [
+            [ 'Contacts~ipad', 29 ],
+            [ 'Contacts@2x', 58 ],
+            [ 'Contacts@2x~ipad', 58 ],
+            [ 'Contacts@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Control Center',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_control_center',
+    icons: {
+        custom: [
+            [ 'ControlCenter~ipad', 29 ],
+            [ 'ControlCenter@2x', 58 ],
+            [ 'ControlCenter@2x~ipad', 58 ],
+            [ 'ControlCenter@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Developer',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_developer',
+    icons: {
+        custom: [
+            [ 'DeveloperSettings~ipad', 29 ],
+            [ 'DeveloperSettings@2x', 58 ],
+            [ 'DeveloperSettings@2x~ipad', 58 ],
+            [ 'DeveloperSettings@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Display',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_display',
+    icons: {
+        custom: [
+            [ 'Display~ipad', 29 ],
+            [ 'Display@2x', 58 ],
+            [ 'Display@2x~ipad', 58 ],
+            [ 'Display@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Do Not Disturb',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_dnd',
+    icons: {
+        custom: [
+            [ 'DND~ipad', 29 ],
+            [ 'DND@2x', 58 ],
+            [ 'DND@2x~ipad', 58 ],
+            [ 'DND@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Facetime',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_facetime',
+    icons: {
+        custom: [
+            [ 'FaceTime~ipad', 29 ],
+            [ 'FaceTime@2x', 58 ],
+            [ 'FaceTime@2x~ipad', 58 ],
+            [ 'FaceTime@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Facebook',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'facebook',
+    icons: {
+        custom: [
+            [ 'FacebookSettings~ipad', 29 ],
+            [ 'FacebookSettings@2x', 58 ],
+            [ 'FacebookSettings@2x~ipad', 58 ],
+            [ 'FacebookSettings@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Find My iPhone',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_find_my_iphone',
+    icons: {
+        custom: [
+            [ 'FindMyiPhone~ipad', 29 ],
+            [ 'FindMyiPhone@2x', 58 ],
+            [ 'FindMyiPhone@2x~ipad', 58 ],
+            [ 'FindMyiPhone@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Flickr',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'flickr',
+    icons: {
+        custom: [
+            [ 'FlickrSettings~ipad', 29 ],
+            [ 'FlickrSettings@2x', 58 ],
+            [ 'FlickrSettings@2x~ipad', 58 ],
+            [ 'FlickrSettings@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Game Center',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_game_center',
+    icons: {
+        custom: [
+            [ 'GameCenter~ipad', 29 ],
+            [ 'GameCenter@2x', 58 ],
+            [ 'GameCenter@2x~ipad', 58 ],
+            [ 'GameCenter@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - General',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_general',
+    icons: {
+        custom: [
+            [ 'General~ipad', 29 ],
+            [ 'General@2x', 58 ],
+            [ 'General@2x~ipad', 58 ],
+            [ 'General@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Health',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_health',
+    icons: {
+        custom: [
+            [ 'Health~ipad', 29 ],
+            [ 'Health@2x', 58 ],
+            [ 'Health@2x~ipad', 58 ],
+            [ 'Health@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Home Data',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_home_data',
+    icons: {
+        custom: [
+            [ 'HomeData~ipad', 29 ],
+            [ 'HomeData@2x', 58 ],
+            [ 'HomeData@2x~ipad', 58 ],
+            [ 'HomeData@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - iCloud',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_icloud',
+    icons: {
+        custom: [
+            [ 'iCloud~ipad', 29 ],
+            [ 'iCloud@2x', 58 ],
+            [ 'iCloud@2x~ipad', 58 ],
+            [ 'iCloud@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - iTunes',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_itunes_store',
+    icons: {
+        custom: [
+            [ 'iTunes~ipad', 29 ],
+            [ 'iTunes@2x', 58 ],
+            [ 'iTunes@2x~ipad', 58 ],
+            [ 'iTunes@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Location',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_location',
+    icons: {
+        custom: [
+            [ 'Location~ipad', 29 ],
+            [ 'Location@2x', 58 ],
+            [ 'Location@2x~ipad', 58 ],
+            [ 'Location@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Mail',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_mail',
+    icons: {
+        custom: [
+            [ 'Mail~ipad', 29 ],
+            [ 'Mail@2x', 58 ],
+            [ 'Mail@2x~ipad', 58 ],
+            [ 'Mail@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Maps',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_maps',
+    icons: {
+        custom: [
+            [ 'Maps~ipad', 29 ],
+            [ 'Maps@2x', 58 ],
+            [ 'Maps@2x~ipad', 58 ],
+            [ 'Maps@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Messages',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_sms',
+    icons: {
+        custom: [
+            [ 'Messages~ipad', 29 ],
+            [ 'Messages@2x', 58 ],
+            [ 'Messages@2x~ipad', 58 ],
+            [ 'Messages@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Microphone',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_microphone',
+    icons: {
+        custom: [
+            [ 'Microphone~ipad', 29 ],
+            [ 'Microphone@2x', 58 ],
+            [ 'Microphone@2x~ipad', 58 ],
+            [ 'Microphone@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Motion',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_motion',
+    icons: {
+        custom: [
+            [ 'Motion~ipad', 29 ],
+            [ 'Motion@2x', 58 ],
+            [ 'Motion@2x~ipad', 58 ],
+            [ 'Motion@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Music',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_music',
+    icons: {
+        custom: [
+            [ 'Music~ipad', 29 ],
+            [ 'Music@2x', 58 ],
+            [ 'Music@2x~ipad', 58 ],
+            [ 'Music@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Newsstand',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: false,
+    icons: {
+        custom: [
+            [ 'Newsstand-en~ipad', 29 ],
+            [ 'Newsstand-en@2x', 58 ],
+            [ 'Newsstand-en@2x~ipad', 58 ],
+            [ 'Newsstand-en@3x', 87 ],
+            [ 'Newsstand~ipad', 29 ],
+            [ 'Newsstand@2x', 58 ],
+            [ 'Newsstand@2x~ipad', 58 ],
+            [ 'Newsstand@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Notes',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_notes',
+    icons: {
+        custom: [
+            [ 'Notes~ipad', 29 ],
+            [ 'Notes@2x', 58 ],
+            [ 'Notes@2x~ipad', 58 ],
+            [ 'Notes@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Notification Center',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_notifications',
+    icons: {
+        custom: [
+            [ 'NotificationCenter~ipad', 29 ],
+            [ 'NotificationCenter@2x', 58 ],
+            [ 'NotificationCenter@2x~ipad', 58 ],
+            [ 'NotificationCenter@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Passcode',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_passcode',
+    icons: {
+        custom: [
+            [ 'Passcode~ipad', 29 ],
+            [ 'Passcode@2x', 58 ],
+            [ 'Passcode@2x~ipad', 58 ],
+            [ 'Passcode@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Passbook',
+    bundle_id: 'com.apple.PassKitCore',
+    app_id: false,
+    psd_id: 'apple_passbook',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ],
+            [ 'Icon-Small@2x', 58 ],
+            [ 'Icon-Small@3x', 87 ],
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Personal Hotspot',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_personal_hotspot',
+    icons: {
+        custom: [
+            [ 'PersonalHotspot~ipad', 29 ],
+            [ 'PersonalHotspot@2x', 58 ],
+            [ 'PersonalHotspot@2x~ipad', 58 ],
+            [ 'PersonalHotspot@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Phone',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_phone',
+    icons: {
+        custom: [
+            [ 'Phone~ipad', 29 ],
+            [ 'Phone@2x', 58 ],
+            [ 'Phone@2x~ipad', 58 ],
+            [ 'Phone@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Photos',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_camera_roll',
+    icons: {
+        custom: [
+            [ 'Photos~ipad', 29 ],
+            [ 'Photos@2x', 58 ],
+            [ 'Photos@2x~ipad', 58 ],
+            [ 'Photos@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Privacy',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_privacy',
+    icons: {
+        custom: [
+            [ 'Privacy~ipad', 29 ],
+            [ 'Privacy@2x', 58 ],
+            [ 'Privacy@2x~ipad', 58 ],
+            [ 'Privacy@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Reminders',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_reminders',
+    icons: {
+        custom: [
+            [ 'Reminders~ipad', 29 ],
+            [ 'Reminders@2x', 58 ],
+            [ 'Reminders@2x~ipad', 58 ],
+            [ 'Reminders@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Safari',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_safari',
+    icons: {
+        custom: [
+            [ 'Safari~ipad', 29 ],
+            [ 'Safari@2x', 58 ],
+            [ 'Safari@2x~ipad', 58 ],
+            [ 'Safari@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Sounds',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_sounds',
+    icons: {
+        custom: [
+            [ 'Sounds~ipad', 29 ],
+            [ 'Sounds@2x', 58 ],
+            [ 'Sounds@2x~ipad', 58 ],
+            [ 'Sounds@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - TouchID',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_touchid',
+    icons: {
+        custom: [
+            [ 'TouchID~ipad', 29 ],
+            [ 'TouchID@2x', 58 ],
+            [ 'TouchID@2x~ipad', 58 ],
+            [ 'TouchID@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Twitter',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'twitter',
+    icons: {
+        custom: [
+            [ 'Twitter~ipad', 29 ],
+            [ 'Twitter@2x', 58 ],
+            [ 'Twitter@2x~ipad', 58 ],
+            [ 'Twitter@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Victoria',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'nike_plus',
+    icons: {
+        custom: [
+            [ 'Victoria~ipad', 29 ],
+            [ 'Victoria@2x', 58 ],
+            [ 'Victoria@2x~ipad', 58 ],
+            [ 'Victoria@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Video',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_videos',
+    icons: {
+        custom: [
+            [ 'Video~ipad', 29 ],
+            [ 'Video@2x', 58 ],
+            [ 'Video@2x~ipad', 58 ],
+            [ 'Video@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Vimeo',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'vimeo',
+    icons: {
+        custom: [
+            [ 'VimeoSettings~ipad', 29 ],
+            [ 'VimeoSettings@2x', 58 ],
+            [ 'VimeoSettings@2x~ipad', 58 ],
+            [ 'VimeoSettings@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Wallpaper',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_wallpaper',
+    icons: {
+        custom: [
+            [ 'Wallpaper~ipad', 29 ],
+            [ 'Wallpaper@2x', 58 ],
+            [ 'Wallpaper@2x~ipad', 58 ],
+            [ 'Wallpaper@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - Weibo',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'weibo',
+    icons: {
+        custom: [
+            [ 'Weibo~ipad', 29 ],
+            [ 'Weibo@2x', 58 ],
+            [ 'Weibo@2x~ipad', 58 ],
+            [ 'Weibo@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Apple Preference Settings - WiFi',
+    bundle_id: 'com.apple.Preferences',
+    app_id: false,
+    psd_id: 'apple_wifi',
+    icons: {
+        custom: [
+            [ 'WiFi~ipad', 29 ],
+            [ 'WiFi@2x', 58 ],
+            [ 'WiFi@2x~ipad', 58 ],
+            [ 'WiFi@3x', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Apple Reminders',
     bundle_id: 'com.apple.reminders',
     app_id: 'Reminders.app',
@@ -5890,7 +6653,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.sizes = {
+});
+
+;mios.sizes = {
 
     appicon: [
 
