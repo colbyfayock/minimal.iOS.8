@@ -116,7 +116,8 @@ var mios = {
                 iconDir,
                 iconDoc,
                 bundleFolder,
-                iconFolder;
+                iconFolder,
+                selection;
 
             if ( !iconObj.psd_id ) continue;
 
@@ -156,6 +157,18 @@ var mios = {
 
             if ( iconSizes && iconSizes.length > 0 ) {
 
+                if ( iconObj.mask && iconObj.mask !== '' ) {
+
+                    iconDoc.artLayers.getByName('Background').isBackgroundLayer = false;
+
+                    this.drawMask( this.getMaskPoints() );
+                    selection = app.activeDocument.selection;
+                    selection.invert();
+                    selection.clear();
+                    selection.deselect();
+
+                }
+
                 for ( var j = 0, iconSizesLen = iconSizes.length; j < iconSizesLen; j++ ) {
 
                     var iconFile,
@@ -179,6 +192,77 @@ var mios = {
 
 
         }
+
+    },
+
+    getMaskPoints: function() {
+
+        var width = parseInt( app.activeDocument.width, 10 ),
+            height = parseInt( app.activeDocument.height, 10 ),
+            middle = width / 2,
+            points = [];
+
+        points[0] = [
+            [ middle, 0 ],
+            [ width * 0.91796875, 0 ],
+            [ width * 0.08203125, 0 ]
+        ];
+
+        points[1] = [
+            [ width, middle ],
+            [ width, height * 0.91796875 ],
+            [ width, height * 0.08203125 ]
+        ];
+
+        points[2] = [
+            [ middle, height ],
+            [ width * 0.08203125, height ],
+            [ width * 0.91796875, height ]
+        ];
+
+        points[3] = [
+            [ 0, middle ],
+            [ 0, height * 0.08203125 ],
+            [ 0, height * 0.91796875 ]
+        ];
+
+        return points;
+
+    },
+
+    drawMask: function( points ) {
+
+        var doc = app.activeDocument,
+            lineArray = [],
+            pathItem,
+            makePathPoint,
+            drawShape;
+
+        makePathPoint = function( xy ) {
+            var pathPoint = new PathPointInfo;
+            pathPoint.kind = PointKind.CORNERPOINT;
+            pathPoint.anchor = xy[0];
+            pathPoint.leftDirection = xy[1];
+            pathPoint.rightDirection = xy[2];
+            return pathPoint;
+        };
+
+        makeSubPath = function( points ) {
+            var subPath = new SubPathInfo();
+            subPath.closed = true;
+            subPath.operation = ShapeOperation.SHAPEADD;
+            subPath.entireSubPath = points;
+            return subPath;
+        };
+
+        for ( var i = 0, pointsLen = points.length; i < pointsLen; i++ ) {
+            lineArray.push( makePathPoint( points[i] ) );
+        }
+
+        pathItem = doc.pathItems.add("myPath", [ makeSubPath( lineArray ) ]);
+
+        pathItem.makeSelection();
+        pathItem.remove();
 
     },
 
