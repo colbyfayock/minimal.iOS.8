@@ -1,7 +1,7 @@
 minimal.iOS.8
 =============
 
-Free flat and minimal iOS 8 theme for Winterboard with over 360 icons! (full icon list below)
+Free flat and minimal iOS 8 theme for Winterboard with over 410 icons! (full icon list below)
 
 ### How to install
 
@@ -24,13 +24,15 @@ Everyone is free to use these icons in their own themes, however, it would be su
 
 #### Current Themed Icons
 
- - 2048
+ - App Name
  - 1Password
+ - 2048
  - 5s Gif
  - 8 Ball Pool
  - 9GAG
  - ABC Watch
  - Accuweather
+ - Activator Settings
  - Ally
  - Amazon
  - Amazon Instant Video
@@ -39,11 +41,12 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - AppInfo
  - Apple App Store
  - Apple Calculator
- - Apple Calendar
  - Apple Camera
+ - Apple Camera Roll
  - Apple Compass
  - Apple Contacts
  - Apple Facetime
+ - Apple Find My Friends
  - Apple Find My iPhone
  - Apple Game Center
  - Apple Garage Band
@@ -51,22 +54,22 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Apple iBooks
  - Apple iMovie
  - Apple iTunes Store
+ - Apple iTunes University
  - Apple Keynote
  - Apple Mail
  - Apple Maps
- - Apple Messages
  - Apple Music
  - Apple Notes
  - Apple Numbers
  - Apple Pages
  - Apple Passbook
  - Apple Phone
- - Apple Photo Gallery
  - Apple Podcasts
+ - Apple Preferences
  - Apple Reminders
  - Apple Remote
  - Apple Safari
- - Apple Settings
+ - Apple SMS
  - Apple Stock
  - Apple Store
  - Apple TestFlight
@@ -79,13 +82,14 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Audible  Audiobooks
  - Authy
  - Aviary Photo Editor
+ - Badoo
  - Bandsintown
  - Bank of America
  - Battery Doctor
  - BatteryLife
  - BBC News US
  - Beats
- - Bible
+ - BikeRaceTFG
  - Bitmoji
  - Bleacher Report
  - Boom Beach
@@ -97,39 +101,48 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Capital One
  - CBS Sports
  - Chase
+ - Cisco AnyConnect
  - Citi
  - Clash of Clans
  - Clear
- - CloudApp
+ - Clima
+ - Cloudier
  - CloudMagic Email
  - Coastal
+ - Comedy Central
  - Comedy Central Stand-Up
  - CommBank
  - Convertbot
  - Credit Karma
  - Crunchyroll
  - Curb
+ - CVS
  - Cydia
+ - Darkroom
  - Day One
  - Deezer
  - Deliveries
  - Discover Mobile
  - Discovery Channel
+ - Does not Commute
  - Dropbox
+ - Dropbox  Carousel
+ - Dubsmash
  - Duolingo
  - Ebay
  - Ebay iPad
  - Endomondo
  - Epocrates
  - ESPN ScoreCenter
- - ESPN ScoreCenter
  - ESPN Watch
+ - Etsy
  - Eventbrite
  - Evernote iPhone
  - f.lux
  - Fab
  - Facebook
  - Facebook Groups
+ - Facebook Messenger
  - Facebook Paper
  - FaceTune
  - Fandango
@@ -139,6 +152,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Feedly
  - Fitbit
  - Five Guys
+ - Fiverr Faces
  - Flappy Bird
  - Flickr
  - Fling
@@ -149,8 +163,12 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Four Four Two Stats Zone
  - Foxtel Go
  - Foxtel Guide
+ - Funny or Die
+ - Funny or Die News Flash
  - Gate Guru
+ - GEICO Mobile
  - Genius Scan - PDF Scanner
+ - Giphy (Messenger)
  - Google Analytics
  - Google Authenticator
  - Google Calendar
@@ -161,45 +179,54 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Google Earth
  - Google Gmail
  - Google Hangouts
- - Google Local
+ - Google Inbox
  - Google Maps
+ - Google Mobile
+ - Google News
  - Google Play Movies
  - Google Plus
- - Google Search
- - Google Search
  - Google Sheets
  - Google Slides
  - Google Snapseed
  - Google Translate
  - Google Wallet
  - Google Youtube
+ - Google Youtube Creator Studio
  - GroupMe
  - Groupon
  - Guitar Tuna
  - Hanging With Friends Paid
+ - HBO Now
  - HBOGo
  - HeyHey
+ - Holy Bible
  - HopStop
  - Hot Or Not
+ - Hulu
  - Human
  - Huntington
  - Hyperlapse
  - iAlien
+ - Ibotta
  - iCleaner
+ - IF
  - iFile
- - IFTTT
  - iFunny
+ - iHeartRadio
+ - iLEX R.A.T.
  - IMDB
- - Inbox
+ - Imgur
+ - Imgur Browsr
+ - imo
  - Inbox Messenger
+ - Indeed Jobs
  - Instacast
  - InstaCollage
  - Instagram
  - InstaSize
- - iTube
- - iTunes University
  - Journalized
  - KakaoTalk
+ - Keeper
  - kik
  - Kindle
  - LastPass
@@ -216,24 +243,30 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Match.com
  - Maybank
  - Memoir
- - Messenger
  - Microsoft Excel
  - Microsoft OneDrive
+ - Microsoft Outlook
  - Microsoft OWA
  - Microsoft Powerpoint
+ - Microsoft Smartglass
  - Microsoft Word
+ - Midori
  - Mint.com
- - Miscrosoft Smartglass
  - MLB at Bat
  - Mobile Terminal
  - Moby Dick, House of Kabob
+ - Mortal Kombat
  - Moves
+ - Musicbox
  - My Mazda
  - MyAT&T
  - MyFitnessPal
+ - MyMaxis
+ - MyPantone
  - MyScript Calculator
+ - N_eye
  - Navy Federal Credit Union
- - NBA
+ - NBA Gametime
  - Netflix
  - New Words With Friends
  - Nexus Student Ministry
@@ -246,23 +279,30 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Ookla Speedtest
  - ooVoo
  - Open Table
+ - OpenVPN Connect
  - Overcast
+ - P Tracker (Sevenlogics)
+ - Pacemaker
  - Palringo
  - Pandora
  - Pangu
- - Pantone
  - Papa Johns
  - Parcel
  - Paypal
+ - Pebble Smartwatch
+ - Period Tracker
+ - Period Tracker Lite
  - Periscope
  - PHHHOTO
  - PhotoMath
+ - Pic Collage
  - Pic Jointer
  - PicPlayPost
  - Pics HD for Reddit
  - PicsArt
  - Pinterest
  - Playstation
+ - Plenty of Fish
  - Plex
  - Pluto TV
  - PNC Mobile
@@ -277,25 +317,31 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - RadarScope
  - Rdio
  - Red Laser
+ - Redd
  - Reddit Alien Blue
- - Reddit Alien Blue iPad
+ - Reddit Alien Blue HD
  - Reddit AMA
  - Redfin
  - Reeder
  - Retail Me Not
  - Retry
+ - Rhapsody
  - Robinhood
  - Screeny
  - Setlist
+ - Settings Icons
  - Shazam
+ - Shazam Encore
  - Showtime Anytime
  - Simple
+ - Sing!
  - Skype
  - Slack
+ - Slacker Radio
  - Sleep Cycle
  - SleepGenius
  - Slick Deals
- - SnapChat
+ - SmartPlayer
  - SnapChat
  - Sniper Shooter
  - Sosh
@@ -307,6 +353,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Springtomize
  - Square Cash
  - Starbucks
+ - Starbucks Malaysia 
  - Steam
  - Strava Running and Cycling
  - Strong
@@ -337,12 +384,13 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Tweetbot
  - Twitch
  - Twitter
+ - Twitterrific 5
+ - Two Dots
  - Uber
  - UpToDate
  - Urban Spoon
  - Vainglory
  - Venmo - International
- - Verizon Cloud
  - Verizon Cloud
  - Verizon My Verizon
  - Vevo
@@ -354,8 +402,10 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Visage Lab Pro HD
  - WakeUp
  - Walgreens
+ - Wallapop
  - Wallet
  - Walmart
+ - Wattpad
  - Waze
  - We <3 It
  - Weather Underground
@@ -365,11 +415,11 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Wells Fargo
  - WhatsApp
  - Wikipanion
+ - Wikipanion iPad
  - Wikipedia
- - Winterboard
+ - Wiper
+ - Wish
  - Wolfram Alpha
- - Words with Friends Paid
- - World Lens
  - Wunderlist
  - X Mod Games
  - XBMC
@@ -388,5 +438,5 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Yelp
  - Yik Yak
  - YNAB
- - Youtube Creator Studio
  - Zedge
+ - Zoosk
