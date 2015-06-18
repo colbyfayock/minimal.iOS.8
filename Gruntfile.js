@@ -31,7 +31,7 @@ module.exports = function(grunt) {
             build_files: {
 
                 options: {
-                    app: 'Adobe Photoshop CC 2014',
+                    app: 'Adobe Photoshop CC 2015',
                     args: [ "compressed" ]
                 },
 
@@ -43,7 +43,7 @@ module.exports = function(grunt) {
             test_files: {
 
                 options: {
-                    app: 'Adobe Photoshop CC 2014',
+                    app: 'Adobe Photoshop CC 2015',
                     args: [ "test" ]
                 },
 

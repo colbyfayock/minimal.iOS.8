@@ -1,0 +1,10 @@
+Package: com.modmyi.minimalios8
+Name: minimal.iOS.8
+Version: 2.0.0
+Architecture: iphoneos-arm
+Author: Colby Fayock <info@colbyfayock.com>
+Maintainer: Colby Fayock <info@colbyfayock.com>
+Depends: winterboard
+Section: Themes (SpringBoard)
+Description: Minimal winterboard theme
+Homepage: http://colbyfayock.github.io/minimal.iOS.8/
