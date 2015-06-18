@@ -58,7 +58,7 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('default', [
-        // 'build'
+        'concat:build'
     ]);
 
     grunt.registerTask('build', [
