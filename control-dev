@@ -1,6 +1,6 @@
 Package: io.fay.minimalios8.dev
 Name: minimal.iOS8.dev
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Author: Colby Fayock <cydia@fay.io>
 Maintainer: Colby Fayock <cydia@fay.io>

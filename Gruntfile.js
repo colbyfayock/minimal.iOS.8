@@ -58,7 +58,7 @@ module.exports = function(grunt) {
 
             dev: {
                 options: {
-                    name: 'minimal.iOS.8',
+                    name: 'minimal.iOS.dev',
                     control: 'control-dev',
                     postfix: '.dev'
                 }
@@ -66,7 +66,7 @@ module.exports = function(grunt) {
 
             prod: {
                 options: {
-                    name: 'minimal.iOS.8',
+                    name: 'minimal.iOS',
                     control: 'control-prod'
                 }
             }
@@ -125,6 +125,7 @@ module.exports = function(grunt) {
         exec( "cp " + data.control + " Package/DEBIAN/control" );
 
         exec( "find ./dist -maxdepth 1 -type d -name \"" + pkg_name + "*\"", { encoding: 'utf8' } ).split(/\n/).forEach(function(dir) {
+            grunt.log.write( 'Found: ' + dir);
             if ( dir.length > 0 ) {
                 exec( "cp -r " + dir.replace(/ /g,"\\ ") + " Package/Library/Themes/" );
             }
@@ -147,7 +148,7 @@ module.exports = function(grunt) {
 
         exec( "mv Package.deb " + pkg_file  + ".deb" );
 
-        exec( "rm -rf Package" );        
+        exec( "rm -rf Package" );
 
 
     });
