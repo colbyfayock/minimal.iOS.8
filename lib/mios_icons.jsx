@@ -98,6 +98,30 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Adobe Acrobat',
+    bundle_id: 'com.adobe.Adobe-Reader',
+    app_id: 'Adobe Acrobat.app',
+    psd_id: 'adobe_acrobat',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'ADP Mobile',
+    bundle_id: 'com.adp.adpmobile',
+    app_id: 'ADP_Mobile.app',
+    psd_id: 'adp_mobile',
+    icons: {
+        custom: [
+            [ 'icon_120', 120 ],
+            [ 'icon', 57 ],
+            [ 'icon@2x', 114 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Ally',
     bundle_id: 'com.ally.MobileBanking',
     app_id: 'Ally Bank.app',
@@ -144,6 +168,16 @@ mios.icons.push({
     psd_id: 'amazon_instant_video',
     icons: {
         icon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Amazon Local',
+    bundle_id: 'com.amazon.AMZNLocal',
+    app_id: 'AmazonLocal.app',
+    psd_id: 'amazon_local',
+    icons: {
+        appicon: true
     }
 });
 
@@ -2041,6 +2075,19 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Bing Search',
+    bundle_id: 'com.microsoft.bing',
+    app_id: 'Bing.app',
+    psd_id: 'bing',
+    icons: {
+        appicon: true,
+        custom: [
+            [ 'Icon', 57 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Bitmoji',
     bundle_id: 'com.bitstrips.imoji',
     app_id: 'imojiStore.app',
@@ -2952,6 +2999,33 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Flex',
+    bundle_id: 'com.johncoates.Flex',
+    app_id: false,
+    psd_id: 'flex',
+    icons: {
+        custom: [
+            [ 'icon-29', 29 ],
+            [ 'icon-40', 40 ],
+            [ 'icon-50', 50 ],
+            [ 'icon-57', 57 ],
+            [ 'icon-58', 58 ],
+            [ 'icon-60', 60 ],
+            [ 'icon-72', 72 ],
+            [ 'icon-76', 76 ],
+            [ 'icon-80', 80 ],
+            [ 'icon-100', 100 ],
+            [ 'icon-114', 114 ],
+            [ 'icon-120', 120 ],
+            [ 'icon-144', 144 ],
+            [ 'icon-152', 152 ],
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Flickr',
     bundle_id: 'com.yahoo.flickr',
     app_id: 'com.yahoo.flickr-4574-distribution.app',
@@ -3062,6 +3136,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Fox Now',
+    bundle_id: 'com.fox.now',
+    app_id: 'FOX NOW.app',
+    psd_id: 'fox_now',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Foxtel Go',
     bundle_id: 'au.com.foxtel.FoxtelGoiPhone',
     app_id: 'foxtelgoiPhone.app',
@@ -3121,6 +3205,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Gamestop',
+    bundle_id: 'com.gamestop.powerup',
+    app_id: 'GameStop_iOS.app',
+    psd_id: 'gamestop',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Gate Guru',
     bundle_id: 'com.mobilityapps.gategurufull',
     app_id: 'GateGuru.app ',
@@ -3155,6 +3249,16 @@ mios.icons.push({
     bundle_id: 'com.giphy.giphyformessenger',
     app_id: 'Giphy.app',
     psd_id: 'giphy',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Glide',
+    bundle_id: 'com.glidetalk.glideapp',
+    app_id: 'Glide.app',
+    psd_id: 'glide',
     icons: {
         appicon: true
     }
@@ -3309,6 +3413,20 @@ mios.icons.push({
 
             [ 'Bigtop-AppIcon76x76~ipad',     76 ],
             [ 'Bigtop-AppIcon76x76@2x~ipad',  152 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Google Ingress',
+    bundle_id: 'com.google.ingress',
+    app_id: 'Ingress.app',
+    psd_id: 'google_ingress',
+    icons: {
+        icon: true,
+        custom: [
+            [ 'Icon-57', 57 ],
+            [ 'Icon-57@2x', 114 ]
         ]
     }
 });
@@ -3602,6 +3720,16 @@ mios.icons.push({
     bundle_id: 'com.hbo.hbonow',
     app_id: 'HBO.app',
     psd_id: 'hbo_now',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Hearthstone',
+    bundle_id: 'com.blizzard.wtcg.hearthstone',
+    app_id: 'hearthstone.app',
+    psd_id: 'hearthstone',
     icons: {
         appicon: true
     }
@@ -4815,6 +4943,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Pebble Time Watch',
+    bundle_id: 'com.getpebble.pebbletime',
+    app_id: 'PebbleTime.app',
+    psd_id: 'pebble_time_watch',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Period Tracker (Sevenlogics)',
     bundle_id: 'com.sevenlogics.PeriodTracker',
     app_id: 'PeriodTracker.app',
@@ -5131,6 +5269,24 @@ mios.icons.push({
             [ 'Icon', 60 ],
             [ 'Icon@2x', 120 ],
             [ 'Icon-120', 120 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Quizlet',
+    bundle_id: 'com.quizlet.quizlet',
+    app_id: 'Quizlet.app',
+    psd_id: 'quizlet',
+    icons: {
+        custom: [
+            [ 'Icon', 57 ],
+            [ 'Icon@2x', 114 ],
+            [ 'icon7@2x', 120 ],
+            [ 'icon7@2x~ipad', 152 ],
+            [ 'icon7~ipad', 76 ],
+            [ 'icon@2x~ipad', 144 ],
+            [ 'icon~ipad', 72 ]
         ]
     }
 });
@@ -5834,6 +5990,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Swipes',
+    bundle_id: 'it.pihl.Swipes',
+    app_id: 'Swipes.app',
+    psd_id: 'swipes',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Sybu for Kodi',
     bundle_id: 'za.co.sybu.xbmc',
     app_id: 'xbmc.app',
@@ -5947,6 +6113,25 @@ mios.icons.push({
     psd_id: 'trivia_crack',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'True Visage',
+    bundle_id: 'com.paully.truevisage',
+    app_id: 'TrueVisage.app',
+    psd_id: 'true_visage',
+    icons: {
+        custom: [
+            [ 'icon7@2x~ipad', 152 ],
+            [ 'icon7@2x~iphone', 120 ],
+            [ 'icon7~ipad', 76 ],
+            [ 'icon8@3x~iphone', 180 ],
+            [ 'icon@2x~ipad', 144 ],
+            [ 'icon@2x~iphone', 114 ],
+            [ 'icon~ipad', 72 ],
+            [ 'icon~iphone', 57 ]
+        ]
     }
 });
 
@@ -6894,6 +7079,16 @@ mios.icons.push({
     bundle_id: 'com.yahoo.atom',
     app_id: 'com.yahoo.atom-1536-distribution.app',
     psd_id: 'yahoo_news',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Yahoo Sports',
+    bundle_id: 'com.softacular.Sportacular',
+    app_id: 'com.softacular.Sportacular-3682-distribution',
+    psd_id: 'yahoo_sports',
     icons: {
         appicon: true
     }
