@@ -215,7 +215,8 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'Icon', 60 ],
-            [ 'Icon@2x', 120 ]
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ]
         ]
     }
 });
@@ -399,7 +400,8 @@ mios.icons.push({
             [ 'Appstore76', 76 ],
             [ 'Appstore80', 80 ],
             [ 'Appstore120', 120 ],
-            [ 'Appstore152', 152 ]
+            [ 'Appstore152', 152 ],
+            [ 'Appstore180', 180 ]
         ]
     }
 });
@@ -524,8 +526,11 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'icon-about@2x', 80 ],
+            [ 'icon-about@3x', 120 ],
             [ 'icon-spotlight@2x', 40 ],
-            [ 'icon@2x', 120 ]
+            [ 'icon-spotlight@3x', 60 ],
+            [ 'icon@2x', 120 ],
+            [ 'icon@3x', 180 ]
         ]
     }
 });
@@ -554,7 +559,9 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'icon@2x', 57 ],
-            [ 'icon@2x~iphone', 114 ]
+            [ 'icon@3x', 180 ],
+            [ 'icon@2x~iphone', 114 ],
+            [ 'icon@3x~iphone', 180 ]
         ]
     }
 });
@@ -567,9 +574,13 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'Camera-Guides@2x', 80 ],
+            [ 'Camera-Guides@3x', 120 ],
             [ 'Camera-NotificationCenter@2x', 40 ],
+            [ 'Camera-NotificationCenter@3x', 60 ],
             [ 'Camera-settings@2x', 58 ],
-            [ 'Camera@2x~iphone', 120 ]
+            [ 'Camera-settings@3x', 87 ],
+            [ 'Camera@2x~iphone', 120 ],
+            [ 'Camera@3x~iphone', 180 ]
         ]
     }
 });
@@ -582,9 +593,13 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'Photos-Guides@2x', 80 ],
+            [ 'Photos-Guides@3x', 120 ],
             [ 'Photos-NotificationCenter@2x', 40 ],
+            [ 'Photos-NotificationCenter@3x', 60 ],
             [ 'Photos-settings@2x', 58 ],
-            [ 'Photos@2x~iphone', 120 ]
+            [ 'Photos-settings@3x', 87 ],
+            [ 'Photos@2x~iphone', 120 ],
+            [ 'Photos@3x~iphone', 180 ]
         ]
     }
 });
@@ -597,7 +612,9 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'ClockIconBackgroundSquare@2x~iphone-iOS7', 120 ],
-            [ 'ClockIconBackgroundSquare@2x~iphone', 120 ]
+            [ 'ClockIconBackgroundSquare@3x~iphone-iOS8', 180 ],
+            [ 'ClockIconBackgroundSquare@2x~iphone', 120 ],
+            [ 'ClockIconBackgroundSquare@3x~iphone', 180 ]
         ]
     }
 });
@@ -611,7 +628,9 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'ClockIconBackgroundSquare@2x~iphone-iOS7', 120 ],
-            [ 'ClockIconBackgroundSquare@2x~iphone', 120 ]
+            [ 'ClockIconBackgroundSquare@3x~iphone-iOS8', 180 ],
+            [ 'ClockIconBackgroundSquare@2x~iphone', 120 ],
+            [ 'ClockIconBackgroundSquare@3x~iphone', 180 ]
         ]
     }
 });
@@ -625,9 +644,13 @@ mios.icons.push({
         appicon: true,
         custom: [
             [ 'icon-about@2x', 80 ],
+            [ 'icon-about@3x', 120 ],
             [ 'icon-spotlight@2x', 40 ],
+            [ 'icon-spotlight@3x', 60 ],
             [ 'icon-table@2x', 58 ],
-            [ 'icon@2x~iphone', 120 ]
+            [ 'icon-table@3x', 87 ],
+            [ 'icon@2x~iphone', 120 ],
+            [ 'icon@3x~iphone', 180 ]
         ]
     }
 });
@@ -758,7 +781,8 @@ mios.icons.push({
             [ 'iTunesStore76', 76 ],
             [ 'iTunesStore80', 80 ],
             [ 'iTunesStore120', 120 ],
-            [ 'iTunesStore152', 152 ]
+            [ 'iTunesStore152', 152 ],
+            [ 'iTunesStore180', 180 ]
         ]
     }
 });
@@ -819,7 +843,8 @@ mios.icons.push({
             [ 'Icon-76', 76 ],
             [ 'Icon-80', 80 ],
             [ 'Icon-120', 120 ],
-            [ 'Icon-152', 152 ]
+            [ 'Icon-152', 152 ],
+            [ 'Icon-180', 180 ]
         ]
     }
 });
@@ -1765,7 +1790,8 @@ mios.icons.push({
             [ 'Remote76', 76 ],
             [ 'Remote80', 80 ],
             [ 'Remote120', 120 ],
-            [ 'Remote152', 152 ]
+            [ 'Remote152', 152 ],
+            [ 'Remote180', 180 ]
         ]
     }
 });
@@ -1818,9 +1844,13 @@ mios.icons.push({
     icons: {
         custom: [
             [ 'icon-about@2x~iphone', 80 ],
+            [ 'icon-about@3x~iphone', 120 ],
             [ 'icon-spotlight@2x~iphone', 40 ],
+            [ 'icon-spotlight@3x~iphone', 60 ],
             [ 'icon-table@2x', 58 ],
-            [ 'icon@2x~iphone', 120 ]
+            [ 'icon-table@3x', 87 ],
+            [ 'icon@2x~iphone', 120 ],
+            [ 'icon@3x~iphone', 180 ]
         ]
     }
 });
@@ -1872,7 +1902,8 @@ mios.icons.push({
             [ 'Trailers76', 76 ],
             [ 'Trailers80', 80 ],
             [ 'Trailers120', 120 ],
-            [ 'Trailers152', 152 ]
+            [ 'Trailers152', 152 ],
+            [ 'Trailers180', 180 ]
         ]
     }
 });
