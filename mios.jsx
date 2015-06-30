@@ -870,6 +870,7 @@ mios.icons.push({
             [ 'Camera-NotificationCenter@3x', 60 ],
             [ 'Camera-settings@2x', 58 ],
             [ 'Camera-settings@3x', 87 ],
+            [ 'Camera@2x~ipad', 152 ],
             [ 'Camera@2x~iphone', 120 ],
             [ 'Camera@3x~iphone', 180 ]
         ]
@@ -889,6 +890,7 @@ mios.icons.push({
             [ 'Photos-NotificationCenter@3x', 60 ],
             [ 'Photos-settings@2x', 58 ],
             [ 'Photos-settings@3x', 87 ],
+            [ 'Photos@2x~ipad', 152 ],
             [ 'Photos@2x~iphone', 120 ],
             [ 'Photos@3x~iphone', 180 ]
         ]
@@ -902,8 +904,10 @@ mios.icons.push({
     psd_id: 'apple_clock',
     icons: {
         custom: [
+            [ 'ClockIconBackgroundSquare@2x~ipad-iOS7', 152 ],
             [ 'ClockIconBackgroundSquare@2x~iphone-iOS7', 120 ],
             [ 'ClockIconBackgroundSquare@3x~iphone-iOS8', 180 ],
+            [ 'ClockIconBackgroundSquare@2x~ipad', 152 ],
             [ 'ClockIconBackgroundSquare@2x~iphone', 120 ],
             [ 'ClockIconBackgroundSquare@3x~iphone', 180 ]
         ]
@@ -918,8 +922,10 @@ mios.icons.push({
     folder: '/alt',
     icons: {
         custom: [
+            [ 'ClockIconBackgroundSquare@2x~ipad-iOS7', 152 ],
             [ 'ClockIconBackgroundSquare@2x~iphone-iOS7', 120 ],
             [ 'ClockIconBackgroundSquare@3x~iphone-iOS8', 180 ],
+            [ 'ClockIconBackgroundSquare@2x~ipad', 152 ],
             [ 'ClockIconBackgroundSquare@2x~iphone', 120 ],
             [ 'ClockIconBackgroundSquare@3x~iphone', 180 ]
         ]
@@ -2094,12 +2100,16 @@ mios.icons.push({
     psd_id: 'apple_safari',
     icons: {
         custom: [
+            [ 'icon-about~ipad', 40 ],
             [ 'icon-about@2x', 80 ],
             [ 'icon-about@3x', 120 ],
+            [ 'icon-spotlight~ipad', 20 ],
             [ 'icon-spotlight@2x', 40 ],
             [ 'icon-spotlight@3x', 60 ],
+            [ 'icon-table~ipad', 29 ],
             [ 'icon-table@2x', 58 ],
             [ 'icon-table@3x', 87 ],
+            [ 'icon@2x~ipad', 152 ],
             [ 'icon@2x~iphone', 120 ],
             [ 'icon@3x~iphone', 180 ]
         ]
