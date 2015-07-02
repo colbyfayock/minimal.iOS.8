@@ -2389,6 +2389,28 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Bethpage Mobile Banking',
+    bundle_id: 'com.bethpage.mbanking.prod',
+    app_id: false,
+    psd_id: 'bethpage_mobile_banking',
+    icons: {
+        custom: [
+            [ 'icon-120', 120 ],
+            [ 'icon-29', 29 ],
+            [ 'icon-29@2x', 58 ],
+            [ 'icon-29@3x', 87 ],
+            [ 'icon-40', 40 ],
+            [ 'icon-40@2x', 80 ],
+            [ 'icon-40@2x', 120 ],
+            [ 'icon-72', 72 ],
+            [ 'icon', 60 ],
+            [ 'icon@2x', 120 ],
+            [ 'icon@3x', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'BikeRaceTFG',
     bundle_id: 'com.topfreegames.bikeracefree',
     app_id: 'moto.app',
@@ -2874,6 +2896,34 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Dictionary.com',
+    bundle_id: 'com.reference.dictionary.dictionary',
+    app_id: 'Dictionary.app',
+    psd_id: 'dictionary.com',
+    icons: {
+        custom: [
+            [ 'AppIconFree60x60', 60 ],
+            [ 'AppIconFree60x60@2x', 120 ],
+            [ 'AppIconFree60x60@3x', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Dictionary.com Premium',
+    bundle_id: 'com.reference.dictionaryadlite',
+    app_id: false,
+    psd_id: 'dictionary.com_premium',
+    icons: {
+        custom: [
+            [ 'AppIconPaid60x60', 60 ],
+            [ 'AppIconPaid60x60@2x', 120 ],
+            [ 'AppIconPaid60x60@3x', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Discover Mobile',
     bundle_id: 'com.discoverfinancial.mobile',
     app_id: 'DiscoverMobile.app',
@@ -2907,6 +2957,16 @@ mios.icons.push({
         custom: [
             [ 'Icon-38@2x', 76 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'DNB',
+    bundle_id: 'no.dnbnor.toolbox',
+    app_id: 'DnB-Norway.app',
+    psd_id: 'dnb',
+    icons: {
+        appicon: true
     }
 });
 
@@ -6409,6 +6469,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Tiny Scan',
+    bundle_id: 'com.btgs.scannerhdlite',
+    app_id: 'VectorScanner',
+    psd_id: 'tinyscan',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'ToDoMovies',
     bundle_id: 'com.taphive.todomovies3',
     app_id: 'TodoMovies.app',
@@ -6738,6 +6808,16 @@ mios.icons.push({
     bundle_id: 'com.vevo.iphone',
     app_id: 'VEVO.app',
     psd_id: 'vevo',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'VG TV-Guide',
+    bundle_id: 'no.vg.tvguide',
+    app_id: 'tvguide.app',
+    psd_id: 'vg_tv_guide',
     icons: {
         appicon: true
     }

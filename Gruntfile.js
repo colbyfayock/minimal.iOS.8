@@ -84,8 +84,8 @@ module.exports = function(grunt) {
                 options: {
                     src: "dist/mios",
                     dest: "/Library/Themes",
-                    // host: "root@192.168.1.175" // iPhone
-                    host: "root@192.168.1.84" // iPad
+                    host: "root@192.168.1.175" // iPhone
+                    // host: "root@192.168.1.84" // iPad
                 }
             }
 
