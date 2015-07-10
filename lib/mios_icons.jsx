@@ -536,14 +536,12 @@ mios.icons.push({
 });
 
 mios.icons.push({
-    name: 'Apple Calendar (Not Icon)',
+    name: 'Apple Calendar (Settings)',
     bundle_id: 'com.apple.mobilecal',
     app_id: 'MobileCal.app',
     psd_id: 'apple_calendar',
     icons: {
         custom: [
-            [ 'icon-about@2x', 80 ],
-            [ 'icon-about~ipad', 40 ],
             [ 'icon-settings@3x', 87 ],
             [ 'icon-spotlight@2x', 40 ],
             [ 'icon-spotlight~ipad', 20 ]
@@ -558,6 +556,9 @@ mios.icons.push({
     psd_id: 'apple_calendar_icon',
     icons: {
         custom: [
+            [ 'icon-about@2x', 80 ],
+            [ 'icon-about~ipad', 72 ],
+            [ 'icon-about@2x~ipad', 154 ],
             [ 'icon@2x', 57 ],
             [ 'icon@3x', 180 ],
             [ 'icon@2x~iphone', 114 ],

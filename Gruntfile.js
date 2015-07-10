@@ -126,8 +126,8 @@ module.exports = function(grunt) {
         exec( "cp " + data.control + " Package/DEBIAN/control" );
 
         exec( "find ./dist -maxdepth 1 -type d -name \"" + pkg_name + "*\"", { encoding: 'utf8' } ).split(/\n/).forEach(function(dir) {
-            grunt.log.write( 'Found: ' + dir + '\n');
             if ( dir.length > 0 ) {
+                grunt.log.write( 'Found: ' + dir + '\n');
                 exec( "cp -r " + dir.replace(/ /g,"\\ ") + " Package/Library/Themes/" );
             }
         });
