@@ -24,7 +24,6 @@ Everyone is free to use these icons in their own themes, however, it would be su
 
 #### Current Themed Icons
 
- - App Name
  - 1Password
  - 2048
  - 5s Gif
@@ -33,9 +32,12 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - ABC Watch
  - Accuweather
  - Activator Settings
+ - Adobe Acrobat
+ - ADP Mobile
  - Ally
  - Amazon
  - Amazon Instant Video
+ - Amazon Local
  - AMEX
  - amrc client for reddit
  - AppInfo
@@ -89,7 +91,9 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - BatteryLife
  - BBC News US
  - Beats
+ - Bethpage Mobile Banking
  - BikeRaceTFG
+ - Bing Search
  - Bitmoji
  - Bleacher Report
  - Boom Beach
@@ -122,8 +126,11 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Day One
  - Deezer
  - Deliveries
+ - Dictionary.com
+ - Dictionary.com Premium
  - Discover Mobile
  - Discovery Channel
+ - DNB
  - Does not Commute
  - Dropbox
  - Dropbox  Carousel
@@ -154,6 +161,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Five Guys
  - Fiverr Faces
  - Flappy Bird
+ - Flex
  - Flickr
  - Fling
  - Flipagram
@@ -161,14 +169,17 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Flixster
  - FontBook
  - Four Four Two Stats Zone
+ - Fox Now
  - Foxtel Go
  - Foxtel Guide
  - Funny or Die
  - Funny or Die News Flash
+ - Gamestop
  - Gate Guru
  - GEICO Mobile
  - Genius Scan - PDF Scanner
  - Giphy (Messenger)
+ - Glide
  - Google Analytics
  - Google Authenticator
  - Google Calendar
@@ -180,9 +191,11 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Google Gmail
  - Google Hangouts
  - Google Inbox
+ - Google Ingress
  - Google Maps
  - Google Mobile
  - Google News
+ - Google Photos
  - Google Play Movies
  - Google Plus
  - Google Sheets
@@ -198,6 +211,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Hanging With Friends Paid
  - HBO Now
  - HBOGo
+ - Hearthstone
  - HeyHey
  - Holy Bible
  - HopStop
@@ -290,6 +304,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Parcel
  - Paypal
  - Pebble Smartwatch
+ - Pebble Time Watch
  - Period Tracker
  - Period Tracker Lite
  - Periscope
@@ -313,6 +328,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Pushbullet
  - QQ International
  - QR Reader
+ - Quizlet
  - QuizUp
  - RadarScope
  - Rdio
@@ -353,7 +369,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Springtomize
  - Square Cash
  - Starbucks
- - Starbucks Malaysia 
+ - Starbucks Malaysia
  - Steam
  - Strava Running and Cycling
  - Strong
@@ -362,6 +378,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Superimpose
  - Swarm
  - Swift Key
+ - Swipes
  - Sybu
  - Tango
  - Tapatalk
@@ -370,10 +387,12 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Telstra
  - The Weather Channel
  - Tinder
+ - Tiny Scan
  - ToDoMovies
  - Transcynd
  - Transit App
  - Trivia Crack
+ - True Visage
  - Tubex for YouTube
  - Tumblr
  - TuneIn Radio
@@ -394,6 +413,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Verizon Cloud
  - Verizon My Verizon
  - Vevo
+ - VG TV-Guide
  - Viber
  - Vimeo
  - VINE
@@ -433,6 +453,7 @@ Everyone is free to use these icons in their own themes, however, it would be su
  - Yahoo Fantasy Football
  - Yahoo Mail
  - Yahoo News
+ - Yahoo Sports
  - Yahoo Weather
  - YB
  - Yelp
