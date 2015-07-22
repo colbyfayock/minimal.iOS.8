@@ -433,6 +433,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Amazon DE',
+    bundle_id: 'com.amazon.AmazonDE',
+    app_id: 'Amazon.app',
+    psd_id: 'amazon',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Amazon FR',
     bundle_id: 'com.amazon.AmazonFR',
     app_id: 'Amazon.app',
@@ -6741,7 +6751,7 @@ mios.icons.push({
 
 mios.icons.push({
     name: 'Vainglory',
-    bundle_id: 'com.superevilmegacorp.vainglory.iphone',
+    bundle_id: 'com.superevilmegacorp.kindred',
     app_id: 'GameKindred.app',
     psd_id: 'vainglory',
     icons: {
