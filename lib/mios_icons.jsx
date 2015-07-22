@@ -6460,7 +6460,7 @@ mios.icons.push({
 
 mios.icons.push({
     name: 'Vainglory',
-    bundle_id: 'com.superevilmegacorp.vainglory.iphone',
+    bundle_id: 'com.superevilmegacorp.kindred',
     app_id: 'GameKindred.app',
     psd_id: 'vainglory',
     icons: {
