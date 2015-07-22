@@ -142,6 +142,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Amazon DE',
+    bundle_id: 'com.amazon.AmazonDE',
+    app_id: 'Amazon.app',
+    psd_id: 'amazon',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Amazon FR',
     bundle_id: 'com.amazon.AmazonFR',
     app_id: 'Amazon.app',
