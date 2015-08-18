@@ -2244,6 +2244,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Apple Watch',
+    bundle_id: 'com.apple.Bridge',
+    app_id: false,
+    psd_id: 'apple_watch',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Apple Weather',
     bundle_id: 'com.apple.weather',
     app_id: 'Weather.app',
@@ -2514,6 +2524,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Buffer',
+    bundle_id: 'com.buffer.buffer',
+    app_id: false,
+    psd_id: 'buffer',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'BuzzFeed',
     bundle_id: 'com.buzzfeed.buzzfeed',
     app_id: 'buzzfeed.app ',
@@ -2614,6 +2634,16 @@ mios.icons.push({
             [ 'ChaseAppIcons72x72@2x~ipad', 144 ],
             [ 'ChaseAppIcons72x72~ipad', 72 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Check the Weather',
+    bundle_id: 'com.crossforward.checktheweather',
+    app_id: false,
+    psd_id: 'check_the_weather',
+    icons: {
+        appicon: true
     }
 });
 
@@ -2897,6 +2927,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Delivered',
+    bundle_id: 'com.madeatsampa.Delivered',
+    app_id: false,
+    psd_id: 'delivered',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Deliveries',
     bundle_id: 'com.junecloud.Deliveries',
     app_id: 'Deliveries.app',
@@ -3057,6 +3097,16 @@ mios.icons.push({
             [ 'icon_57x57', 57 ],
             [ 'icon_114x114', 114 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Emoji++',
+    bundle_id: 'com.crossforward.EmojiKeyboard',
+    app_id: false,
+    psd_id: 'emoji++',
+    icons: {
+        appicon: true
     }
 });
 
@@ -3358,6 +3408,26 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Fing',
+    bundle_id: 'overlook.fing',
+    app_id: false,
+    psd_id: 'fing',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'First State Bank',
+    bundle_id: 'com.first-state.FSB',
+    app_id: false,
+    psd_id: 'first_state_bank',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Fitbit',
     bundle_id: 'com.fitbit.FitbitMobile',
     app_id: 'FitbitMobile.app',
@@ -3602,6 +3672,16 @@ mios.icons.push({
     bundle_id: 'com.funnyordie.newsflash',
     app_id: 'gnn.app',
     psd_id: 'funny_or_die_news_flash',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Fyu.se',
+    bundle_id: 'com.fyusion.Fyuse',
+    app_id: false,
+    psd_id: 'fyuse',
     icons: {
         appicon: true
     }
@@ -4084,6 +4164,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'GV Mobile+ 3',
+    bundle_id: 'com.skdevsolutions.gvmobile',
+    app_id: false,
+    psd_id: 'gv_mobile',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Hanging With Friends Paid',
     bundle_id: 'com.zynga.HangingWithFriendsPaid',
     app_id: 'HangingWithFriendsPaid.app',
@@ -4534,6 +4624,16 @@ mios.icons.push({
     bundle_id: 'com.amazon.Lassen',
     app_id: 'Kindle.app',
     psd_id: 'kindle',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Kodi',
+    bundle_id: 'org.xbmc.kodi-ios',
+    app_id: false,
+    psd_id: 'kodi',
     icons: {
         appicon: true
     }
@@ -5038,6 +5138,21 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Navigon',
+    bundle_id: 'com.navigon.NavigonMyRegionUSEast',
+    app_id: false,
+    psd_id: 'navigon',
+    icons: {
+        custom: [
+            [ 'Icon', 57 ],
+            [ 'Icon60', 60 ],
+            [ 'Icon120', 120 ],
+            [ 'Icon180', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Navy Federal Credit Union',
     bundle_id: 'org.navyfederal.nfcuforiphone',
     app_id: 'Navy Federal.app',
@@ -5319,6 +5434,22 @@ mios.icons.push({
     psd_id: 'parcel',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Pastebin',
+    bundle_id: 'uk.co.euphoricpanda.pastebin',
+    app_id: false,
+    psd_id: 'pastebin',
+    icons: {
+        custom: [
+            [ 'icon', 60 ],
+            [ 'icon@2x', 120 ],
+            [ 'icon@3x', 180 ],
+            [ 'icon_ipad', 72 ],
+            [ 'icon_ipad@2x', 144 ]
+        ]
     }
 });
 
@@ -5887,6 +6018,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Ringtone Designer Pro',
+    bundle_id: 'com.blackoutlabs.rfactpro',
+    app_id: false,
+    psd_id: 'ringtone_designer_pro',
+    icons: {
+        custom: [
+            [ 'icon-57', 1234 ],
+            [ 'Icon-57', 1234 ],
+            [ 'Icon-114', 1234 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Robinhood',
     bundle_id: 'com.robinhood.release.Robinhood',
     app_id: 'Robinhood.app',
@@ -6403,12 +6548,36 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Sworkit Lite',
+    bundle_id: 'AHorseCalledScarlet.Sworkit',
+    app_id: false,
+    psd_id: 'sworkit_lite',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Sybu for Kodi',
     bundle_id: 'za.co.sybu.xbmc',
     app_id: 'xbmc.app',
     psd_id: 'sybu_for_kodi',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Tabata',
+    bundle_id: 'com.parabolicriver.Tabata-Stopwatch-Pro-Free',
+    app_id: false,
+    psd_id: 'tabata',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon-60@2x', 120 ],
+            [ 'Icon-60@3x', 180 ]
+        ]
     }
 });
 
@@ -6465,6 +6634,24 @@ mios.icons.push({
         custom: [
             [ 'Icon-80', 80 ],
             [ 'Icon-120', 120 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Things',
+    bundle_id: 'com.culturedcode.ThingsTouch',
+    app_id: false,
+    psd_id: 'things',
+    icons: {
+        custom: [
+            [ 'AppIcon-29px', 29 ],
+            [ 'AppIcon-40px', 40 ],
+            [ 'AppIcon-50px', 50 ],
+            [ 'AppIcon-57px', 57 ],
+            [ 'AppIcon-60px', 60 ],
+            [ 'AppIcon-72px', 72 ],
+            [ 'AppIcon-76px', 76 ]
         ]
     }
 });
@@ -6931,6 +7118,16 @@ mios.icons.push({
     bundle_id: 'com.vicman.visagelabprohd',
     app_id: 'VisageLab_PRO_HD.app',
     psd_id: 'visage_lab_pro',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'VSCO Cam',
+    bundle_id: 'co.visualsupply.cam',
+    app_id: false,
+    psd_id: 'vsco_cam',
     icons: {
         appicon: true
     }
