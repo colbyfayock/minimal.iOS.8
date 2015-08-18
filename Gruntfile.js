@@ -17,6 +17,7 @@ module.exports = function(grunt) {
 
                     './lib/mios_functions.jsx',
                     './lib/mios_icons.jsx',
+                    './lib/icons/*',
                     './lib/mios_sizes.jsx',
                     './lib/mios_init.jsx'
 
