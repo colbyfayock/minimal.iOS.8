@@ -194,6 +194,32 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Fifa 15',
+    bundle_id: 'com.ea.fifaultimate.bv',
+    app_id: false,
+    psd_id: 'fifa15',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Final Fantasy Tactics',
+    bundle_id: 'com.square-enix.fft',
+    app_id: false,
+    psd_id: 'final_fantasy_tactics',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ],
+            [ 'Icon-72', 72 ],
+            [ 'Icon-72@2x', 144 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Fing',
     bundle_id: 'overlook.fing',
     app_id: false,

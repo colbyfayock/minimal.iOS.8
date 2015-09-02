@@ -68,6 +68,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Opera Mini',
+    bundle_id: 'com.opera.OperaMini',
+    app_id: false,
+    psd_id: 'opera_mini',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Overcast',
     bundle_id: 'fm.overcast.overcast',
     app_id: 'Overcast.app',

@@ -278,6 +278,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Wikiwand',
+    bundle_id: 'com.wikiwand.wikiwand',
+    app_id: false,
+    psd_id: 'wikiwand',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Winterboard',
     bundle_id: 'com.saurik.WinterBoard',
     app_id: 'WinterBoard.app',
@@ -382,5 +392,15 @@ mios.icons.push({
             [ 'AppIcon-AppStore76x76@2x~ipad', 152 ],
             [ 'AppIcon-AppStore76x76~ipad', 76 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Wykop',
+    bundle_id: 'pl.wykop.Wykop',
+    app_id: false,
+    psd_id: 'wykop',
+    icons: {
+        appicon: true
     }
 });

@@ -289,7 +289,37 @@ var mios = {
 
     }
 
-};;mios.icons = [];;mios.icons.push({
+};;mios.icons = [];
+
+// mios.icons.push({
+//     name: 'Star Wars Card Trader',
+//     bundle_id: 'com.topps.force',
+//     app_id: false,
+//     psd_id: 'star_wars_card_trader',
+//     icons: {
+
+//     }
+// });
+
+// mios.icons.push({
+//     name: 'CocoaTop',
+//     bundle_id: '',
+//     app_id: false,
+//     psd_id: 'cocoatop',
+//     icons: {
+
+//     }
+// });
+
+// mios.icons.push({
+//     name: 'CrashReporter',
+//     bundle_id: '',
+//     app_id: false,
+//     psd_id: 'crashreporter',
+//     icons: {
+
+//     }
+// });;mios.icons.push({
     name: '1Password',
     bundle_id: 'com.agilebits.onepassword-ios',
     app_id: '1Password.app',
@@ -405,6 +435,16 @@ mios.icons.push({
             [ 'icon', 57 ],
             [ 'icon@2x', 114 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Allegro',
+    bundle_id: 'com.allegro.iphone',
+    app_id: false,
+    psd_id: 'allegro',
+    icons: {
+        appicon: true
     }
 });
 
@@ -2895,6 +2935,30 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'DatPiff',
+    bundle_id: 'com.datpiff.mobile',
+    app_id: false,
+    psd_id: 'datpiff',
+    icons: {
+        custom: [
+            [ 'Icon-Ipad-76', 76 ],
+            [ 'Icon-Ipad-152', 152 ],
+            [ 'Icon-Iphone-120', 120 ],
+            [ 'Icon-Iphone-180', 180 ],
+            [ 'Icon-Large', 72 ],
+            [ 'Icon-Small-50', 50 ],
+            [ 'Icon-Small-50@2x', 100 ],
+            [ 'Icon-Small', 29 ],
+            [ 'Icon-Small@2x', 58 ],
+            [ 'Icon-Small@3x', 87 ],
+            [ 'Icon', 57 ],
+            [ 'Icon@2x-Large', 144 ],
+            [ 'Icon@2x', 114 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Day One',
     bundle_id: 'com.dayonelog.dayoneiphone',
     app_id: 'DayOne.app',
@@ -3392,6 +3456,32 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Fifa 15',
+    bundle_id: 'com.ea.fifaultimate.bv',
+    app_id: false,
+    psd_id: 'fifa15',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Final Fantasy Tactics',
+    bundle_id: 'com.square-enix.fft',
+    app_id: false,
+    psd_id: 'final_fantasy_tactics',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ],
+            [ 'Icon-72', 72 ],
+            [ 'Icon-72@2x', 144 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Fing',
     bundle_id: 'overlook.fing',
     app_id: false,
@@ -3704,6 +3794,16 @@ mios.icons.push({
     bundle_id: 'com.geniussoftware.GeniusScan',
     app_id: 'Genius Scan.app',
     psd_id: 'genius_scan',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'GG',
+    bundle_id: 'pl.ggnetwork.mobilne',
+    app_id: false,
+    psd_id: 'gg',
     icons: {
         appicon: true
     }
@@ -4380,6 +4480,16 @@ mios.icons.push({
     bundle_id: 'com.clearchannel.iheartradio',
     app_id: 'iHeartRadio.app',
     psd_id: 'iheart_radio',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'IKO',
+    bundle_id: 'pl.pkobp.iko',
+    app_id: false,
+    psd_id: 'iko',
     icons: {
         appicon: true
     }
@@ -5314,6 +5424,16 @@ mios.icons.push({
             [ 'OpenVPN', 57 ],
             [ 'OpenVPN@2x', 114 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Opera Mini',
+    bundle_id: 'com.opera.OperaMini',
+    app_id: false,
+    psd_id: 'opera_mini',
+    icons: {
+        appicon: true
     }
 });
 
@@ -7359,6 +7479,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Wikiwand',
+    bundle_id: 'com.wikiwand.wikiwand',
+    app_id: false,
+    psd_id: 'wikiwand',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Winterboard',
     bundle_id: 'com.saurik.WinterBoard',
     app_id: 'WinterBoard.app',
@@ -7463,6 +7593,16 @@ mios.icons.push({
             [ 'AppIcon-AppStore76x76@2x~ipad', 152 ],
             [ 'AppIcon-AppStore76x76~ipad', 76 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Wykop',
+    bundle_id: 'pl.wykop.Wykop',
+    app_id: false,
+    psd_id: 'wykop',
+    icons: {
+        appicon: true
     }
 });;mios.icons.push({
     name: 'X Mod Games',

@@ -80,6 +80,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'IKO',
+    bundle_id: 'pl.pkobp.iko',
+    app_id: false,
+    psd_id: 'iko',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'iLEX R.A.T.',
     bundle_id: 'com.lex.ilexrestore',
     app_id: 'iLexRestore.app',

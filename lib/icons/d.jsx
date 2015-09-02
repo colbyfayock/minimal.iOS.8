@@ -9,6 +9,30 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'DatPiff',
+    bundle_id: 'com.datpiff.mobile',
+    app_id: false,
+    psd_id: 'datpiff',
+    icons: {
+        custom: [
+            [ 'Icon-Ipad-76', 76 ],
+            [ 'Icon-Ipad-152', 152 ],
+            [ 'Icon-Iphone-120', 120 ],
+            [ 'Icon-Iphone-180', 180 ],
+            [ 'Icon-Large', 72 ],
+            [ 'Icon-Small-50', 50 ],
+            [ 'Icon-Small-50@2x', 100 ],
+            [ 'Icon-Small', 29 ],
+            [ 'Icon-Small@2x', 58 ],
+            [ 'Icon-Small@3x', 87 ],
+            [ 'Icon', 57 ],
+            [ 'Icon@2x-Large', 144 ],
+            [ 'Icon@2x', 114 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Day One',
     bundle_id: 'com.dayonelog.dayoneiphone',
     app_id: 'DayOne.app',

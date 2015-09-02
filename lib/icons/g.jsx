@@ -39,6 +39,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'GG',
+    bundle_id: 'pl.ggnetwork.mobilne',
+    app_id: false,
+    psd_id: 'gg',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Giphy for Messenger',
     bundle_id: 'com.giphy.giphyformessenger',
     app_id: 'Giphy.app',

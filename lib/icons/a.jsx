@@ -63,6 +63,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Allegro',
+    bundle_id: 'com.allegro.iphone',
+    app_id: false,
+    psd_id: 'allegro',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Ally',
     bundle_id: 'com.ally.MobileBanking',
     app_id: 'Ally Bank.app',
