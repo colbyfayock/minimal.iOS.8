@@ -17,11 +17,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 #### Requesting Icons
 
- - [Github Issues](issues) (preferred)
- - Twitter [@colbyfayock](http://twitter.com/colbyfayock)
- - [Cydia repo](http://cydia.saurik.com/package/com.modmyi.minimalios8/)
-
-Note: I will not theme paid apps without the Bundle Identifier and icon file names provided
+Please provide the following via [Github Issues](issues):
+ - Bundle ID (ex: com.google.chrome.ios)
+ - Icon file names (ex: Icon-29)
+ - Icon file sizes (ex: Icon-29 => 29px)
 
 #### Development Releases
 Get newer icons and bug fixes quicker with source [http://cydia.fay.io](http://cydia.fay.io) on Cydia!
