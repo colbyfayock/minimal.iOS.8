@@ -299,26 +299,6 @@ var mios = {
 //     icons: {
 
 //     }
-// });
-
-// mios.icons.push({
-//     name: 'CocoaTop',
-//     bundle_id: '',
-//     app_id: false,
-//     psd_id: 'cocoatop',
-//     icons: {
-
-//     }
-// });
-
-// mios.icons.push({
-//     name: 'CrashReporter',
-//     bundle_id: '',
-//     app_id: false,
-//     psd_id: 'crashreporter',
-//     icons: {
-
-//     }
 // });;mios.icons.push({
     name: '1Password',
     bundle_id: 'com.agilebits.onepassword-ios',
@@ -2800,6 +2780,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'CocoaTop',
+    bundle_id: 'ru.domo.CocoaTop',
+    app_id: false,
+    psd_id: 'cocoatop',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Comedy Central',
     bundle_id: 'com.mtvn.ccnetwork',
     app_id: 'ccnetwork.app',
@@ -2843,6 +2837,34 @@ mios.icons.push({
         custom: [
             [ 'AppIcon', 60 ],
             [ 'AppIcon@2x', 120 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'CrashReporter',
+    bundle_id: 'crash-reporter',
+    app_id: false,
+    psd_id: 'crashreporter',
+    icons: {
+        appicon: true,
+        custom: [
+            [ 'Icon-60', 60 ],
+            [ 'Icon-60@2x', 120 ],
+            [ 'Icon-60@3x', 180 ],
+            [ 'Icon-76~ipad', 76 ],
+            [ 'Icon-76@2x~ipad', 152 ],
+            [ 'Icon-Small-40', 40 ],
+            [ 'Icon-Small-40@2x', 80 ],
+            [ 'Icon-Small-50', 50 ],
+            [ 'Icon-Small-50@2x', 100 ],
+            [ 'Icon-Small', 29 ],
+            [ 'Icon-Small@2x', 58 ],
+            [ 'icon-72', 72 ],
+            [ 'icon-72@2x', 144 ],
+            [ 'icon', 60 ],
+            [ 'icon@2x', 120 ],
+            [ 'icon@3x', 180 ],
         ]
     }
 });

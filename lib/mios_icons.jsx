@@ -9,23 +9,3 @@ mios.icons = [];
 
 //     }
 // });
-
-// mios.icons.push({
-//     name: 'CocoaTop',
-//     bundle_id: '',
-//     app_id: false,
-//     psd_id: 'cocoatop',
-//     icons: {
-
-//     }
-// });
-
-// mios.icons.push({
-//     name: 'CrashReporter',
-//     bundle_id: '',
-//     app_id: false,
-//     psd_id: 'crashreporter',
-//     icons: {
-
-//     }
-// });
