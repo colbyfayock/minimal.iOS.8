@@ -289,7 +289,112 @@ var mios = {
 
     }
 
-};;mios.icons = [];
+};;
+
+mios.icons = [];
+
+mios.icons.push({
+    name: 'Outbank',
+    bundle_id: 'de.stoegerit.Outbank3iOS',
+    app_id: false,
+    psd_id: 'outbank',
+    icons: {
+        custom: [
+            [ 'AppIcon_OutBankDE29x29', 29 ],
+            [ 'AppIcon_OutBankDE29x29~ipad', 29 ],
+            [ 'AppIcon_OutBankDE29x29@2x', 29 ],
+            [ 'AppIcon_OutBankDE29x29@2x~ipad', 58 ],
+            [ 'AppIcon_OutBankDE29x29@3x', 87 ],
+            [ 'AppIcon_OutBankDE29x29@3x~ipad', 87 ],
+            [ 'AppIcon_OutBankDE40x40', 40 ],
+            [ 'AppIcon_OutBankDE40x40~ipad', 40 ],
+            [ 'AppIcon_OutBankDE40x40@2x', 80 ],
+            [ 'AppIcon_OutBankDE40x40@2x~ipad', 80 ],
+            [ 'AppIcon_OutBankDE40x40@3x', 120 ],
+            [ 'AppIcon_OutBankDE40x40@3x~ipad', 120 ],
+            [ 'AppIcon_OutBankDE60x60@2x', 120 ],
+            [ 'AppIcon_OutBankDE60x60@3x', 180 ],
+            [ 'AppIcon_OutBankDE76x76~ipad', 76 ],
+            [ 'AppIcon_OutBankDE76x76@2x~ipad', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Documents 5',
+    bundle_id: 'com.readdle.ReaddleDocsIPad',
+    app_id: false,
+    psd_id: 'documents5',
+    icons: {
+        custom: [
+            [ 'Documents-120', 120 ],
+            [ 'Documents-152', 152 ],
+            [ 'Documents-180', 180 ],
+            [ 'Documents-29', 29 ],
+            [ 'Documents-29@2x', 58 ],
+            [ 'Documents-40', 40 ],
+            [ 'Documents-50', 50 ],
+            [ 'Documents-50@2x', 100 ],
+            [ 'Documents-57', 57 ],
+            [ 'Documents-57@2x', 114 ],
+            [ 'Documents-72', 72 ],
+            [ 'Documents-72@2x', 144 ],
+            [ 'Documents-76', 76 ],
+            [ 'Documents-80', 80 ],
+            [ 'Documents-87', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Evernote Skitch',
+    bundle_id: 'com.evernote.Skitch.iPad',
+    app_id: false,
+    psd_id: 'evernote_skitch',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Evernote Scannable',
+    bundle_id: 'com.evernote.Scannable',
+    app_id: false,
+    psd_id: 'evernote_scannable',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'AliExpress',
+    bundle_id: 'com.alibaba.iAliexpress',
+    app_id: false,
+    psd_id: 'aliexpress',
+    icons: {
+        appicon: true,
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon120', 120 ],
+            [ 'Icon180', 180 ],
+            [ 'Icon29', 29 ],
+            [ 'Icon58', 58 ],
+            [ 'Icon80', 80 ],
+            [ 'Icon@2x', 120 ]
+        ]
+    }
+});
+
+
+// mios.icons.push({
+//     name: 'ThinkGeek',
+//     bundle_id: 'com.thinkgeek.ios',
+//     app_id: false,
+//     psd_id: 'thinkgeek',
+//     icons: {
+//         appicon: true
+//     }
+// });
 
 // mios.icons.push({
 //     name: 'Star Wars Card Trader',
@@ -299,7 +404,9 @@ var mios = {
 //     icons: {
 
 //     }
-// });;mios.icons.push({
+// });;
+
+mios.icons.push({
     name: '1Password',
     bundle_id: 'com.agilebits.onepassword-ios',
     app_id: '1Password.app',
@@ -354,7 +461,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'ABC Watch',
     bundle_id: 'com.abcdigital.abc.videoplayer',
     app_id: 'WATCH ABC.app',
@@ -591,7 +700,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Apple Accounts - Backup',
     bundle_id: 'com.apple.accountsui',
     app_id: false,
@@ -2330,7 +2441,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Badoo',
     bundle_id: 'com.badoo.Badoo',
     app_id: 'Badoo.app',
@@ -2563,7 +2676,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Calenmob',
     bundle_id: 'com.btgs.calenmobfree',
     app_id: 'CalenMob.app',
@@ -2946,7 +3061,9 @@ mios.icons.push({
             [ 'iconClassic', 1234 ]
         ]
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Darkroom',
     bundle_id: 'co.bergen.Darkroom',
     app_id: 'Darkroom.app',
@@ -3144,7 +3261,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Ebay',
     bundle_id: 'com.ebay.iphone',
     app_id: 'eBay.app',
@@ -3282,7 +3401,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'f.lux',
     bundle_id: 'org.herf.iflux',
     app_id: 'iflux.app',
@@ -3781,7 +3902,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Gamestop',
     bundle_id: 'com.gamestop.powerup',
     app_id: 'GameStop_iOS.app',
@@ -3889,7 +4012,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Google Analytics',
     bundle_id: 'com.google.AnalyticsApp',
     app_id: 'Giant.app',
@@ -4273,7 +4398,9 @@ mios.icons.push({
             [ 'Icon-ios7-152', 152 ]
         ]
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Hanging With Friends Paid',
     bundle_id: 'com.zynga.HangingWithFriendsPaid',
     app_id: 'HangingWithFriendsPaid.app',
@@ -4426,7 +4553,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'iAlien',
     bundle_id: 'com.appseedinc.aliens',
     app_id: 'iAlien.app ',
@@ -4664,7 +4793,9 @@ mios.icons.push({
     icons: {
         icon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Journalized',
     bundle_id: 'com.andrewhart.journal',
     app_id: 'Journalized.app ',
@@ -4672,7 +4803,9 @@ mios.icons.push({
     icons: {
         icon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'KakaoTalk',
     bundle_id: 'com.iwilab.KakaoTalk',
     app_id: 'KakaoTalk.app',
@@ -4741,7 +4874,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'LastPass',
     bundle_id: 'com.lastpass.ilastpass',
     app_id: 'LastPass.app',
@@ -4833,7 +4968,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Mailbox',
     bundle_id: 'com.orchestra.v2',
     app_id: 'Mailbox.app',
@@ -5115,7 +5252,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Microsoft Excel',
     bundle_id: 'com.microsoft.Office.Excel',
     app_id: 'Microsoft Excel iOS.app',
@@ -5215,7 +5354,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'N_eye',
     bundle_id: 'com.n.eye.n.eye',
     app_id: 'N_eye.app',
@@ -5380,7 +5521,9 @@ mios.icons.push({
             [ 'notability-icon~iphone', 60 ]
         ]
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'OkCupid',
     bundle_id: 'com.okcupid.app',
     app_id: 'OkCupid.app ',
@@ -5467,7 +5610,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Pacemaker',
     bundle_id: 'com.pacemakermusic.pacemaker.001',
     app_id: 'Pacemaker.app',
@@ -5867,7 +6012,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'QQ International',
     bundle_id: 'com.tencent.mqq',
     app_id: 'QQ.app',
@@ -5937,7 +6084,9 @@ mios.icons.push({
             [ 'Icon-29@2x', 58 ]
         ]
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'RadarScope',
     bundle_id: 'com.basevelocity.RadarScope',
     app_id: false,
@@ -6137,7 +6286,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Screeny',
     bundle_id: 'com.nfnlabs.screeny',
     app_id: 'Screeny.app',
@@ -6661,7 +6812,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Tabata',
     bundle_id: 'com.parabolicriver.Tabata-Stopwatch-Pro-Free',
     app_id: false,
@@ -6977,7 +7130,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Uber',
     bundle_id: 'com.ubercab.UberClient',
     app_id: 'UberClient.app',
@@ -7026,7 +7181,9 @@ mios.icons.push({
             [ 'Icon-120', 120 ]
         ]
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Vainglory',
     bundle_id: 'com.superevilmegacorp.kindred',
     app_id: 'GameKindred.app',
@@ -7221,7 +7378,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'WakeUp',
     bundle_id: 'com.tmadonia.WakeUp',
     app_id: false,
@@ -7626,7 +7785,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'X Mod Games',
     bundle_id: 'com.flamingo.XModGame',
     app_id: 'XModGame.app',
@@ -7731,7 +7892,9 @@ mios.icons.push({
             [ 'AppIcon-129x29@3x', 87 ]
         ]
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'YB',
     bundle_id: 'com.maxandcodesign.yo-bitch',
     app_id: 'YB.app',
@@ -7774,7 +7937,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Yahoo',
     bundle_id: 'com.yahoo.frontpage',
     app_id: 'com.yahoo.frontpage-314036-distribution.app',
@@ -7869,7 +8034,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.icons.push({
+});;
+
+mios.icons.push({
     name: 'Zedge',
     bundle_id: 'com.zedge.Zedge',
     app_id: 'ZEDGE.app',
@@ -7887,7 +8054,9 @@ mios.icons.push({
     icons: {
         appicon: true
     }
-});;mios.sizes = {
+});;
+
+mios.sizes = {
 
     appicon: [
 
@@ -7965,7 +8134,9 @@ mios.icons.push({
 
     ]
 
-};;try {
+};;
+
+try {
     mios.build( arguments );
     if ( errors = mios.getErrors() ) alert( errors );
 } catch (e) {

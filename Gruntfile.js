@@ -9,7 +9,7 @@ module.exports = function(grunt) {
         concat: {
 
             options: {
-                separator: ';',
+                separator: ';\n\n',
             },
 
             build: {
