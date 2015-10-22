@@ -126,6 +126,7 @@ mios.icons.push({
     psd_id: 'facetune',
     icons: {
         icon: true,
+        appicon: true,
         custom: [
             [ 'Icon-120@2x', 120 ],
             [ 'Icon-120@3x', 180 ],

@@ -548,7 +548,8 @@ mios.icons.push({
         custom: [
             [ 'Icon', 60 ],
             [ 'Icon@2x', 120 ],
-            [ 'Icon@3x', 180 ]
+            [ 'Icon@3x', 180 ],
+            [ 'IconHD', 512 ]
         ]
     }
 });
@@ -3512,6 +3513,7 @@ mios.icons.push({
     psd_id: 'facetune',
     icons: {
         icon: true,
+        appicon: true,
         custom: [
             [ 'Icon-120@2x', 120 ],
             [ 'Icon-120@3x', 180 ],
@@ -4794,6 +4796,16 @@ mios.icons.push({
     icons: {
         icon: true
     }
+});
+
+mios.icons.push({
+    name: 'JW Library',
+    bundle_id: 'org.jw.jwlibrary',
+    app_id: false,
+    psd_id: 'jw_library',
+    icons: {
+        appicon: true
+    }
 });;
 
 mios.icons.push({
@@ -4836,13 +4848,15 @@ mios.icons.push({
         custom: [
             [ '29x29_Icon', 29 ],
             [ '29x29_Icon@2x', 58 ],
+            [ '29x29_Icon@3x', 87 ],
             [ '57x57_Icon', 57 ],
             [ '57x57_Icon@2x', 114 ],
             [ '60x60_Icon', 60 ],
             [ '60x60_Icon@2x', 120 ],
             [ '60x60_Icon@3x', 180 ],
             [ '80x80_Icon', 80 ],
-            [ '120x120_Icon', 120 ]
+            [ '120x120_Icon', 120 ],
+            [ '180x180_Icon', 180 ]
         ]
     }
 });

@@ -196,7 +196,8 @@ mios.icons.push({
         custom: [
             [ 'Icon', 60 ],
             [ 'Icon@2x', 120 ],
-            [ 'Icon@3x', 180 ]
+            [ 'Icon@3x', 180 ],
+            [ 'IconHD', 512 ]
         ]
     }
 });

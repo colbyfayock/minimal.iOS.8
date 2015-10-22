@@ -7,3 +7,13 @@ mios.icons.push({
         icon: true
     }
 });
+
+mios.icons.push({
+    name: 'JW Library',
+    bundle_id: 'org.jw.jwlibrary',
+    app_id: false,
+    psd_id: 'jw_library',
+    icons: {
+        appicon: true
+    }
+});
