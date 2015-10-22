@@ -63,6 +63,25 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'AliExpress',
+    bundle_id: 'com.alibaba.iAliexpress',
+    app_id: false,
+    psd_id: 'aliexpress',
+    icons: {
+        appicon: true,
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon120', 120 ],
+            [ 'Icon180', 180 ],
+            [ 'Icon29', 29 ],
+            [ 'Icon58', 58 ],
+            [ 'Icon80', 80 ],
+            [ 'Icon@2x', 120 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Allegro',
     bundle_id: 'com.allegro.iphone',
     app_id: false,

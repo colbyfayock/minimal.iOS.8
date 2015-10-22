@@ -148,6 +148,32 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Documents 5',
+    bundle_id: 'com.readdle.ReaddleDocsIPad',
+    app_id: false,
+    psd_id: 'documents5',
+    icons: {
+        custom: [
+            [ 'Documents-120', 120 ],
+            [ 'Documents-152', 152 ],
+            [ 'Documents-180', 180 ],
+            [ 'Documents-29', 29 ],
+            [ 'Documents-29@2x', 58 ],
+            [ 'Documents-40', 40 ],
+            [ 'Documents-50', 50 ],
+            [ 'Documents-50@2x', 100 ],
+            [ 'Documents-57', 57 ],
+            [ 'Documents-57@2x', 114 ],
+            [ 'Documents-72', 72 ],
+            [ 'Documents-72@2x', 144 ],
+            [ 'Documents-76', 76 ],
+            [ 'Documents-80', 80 ],
+            [ 'Documents-87', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Dropbox',
     bundle_id: 'com.getdropbox.Dropbox',
     app_id: 'Dropbox.app',

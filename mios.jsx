@@ -291,120 +291,7 @@ var mios = {
 
 };;
 
-mios.icons = [];
-
-mios.icons.push({
-    name: 'Outbank',
-    bundle_id: 'de.stoegerit.Outbank3iOS',
-    app_id: false,
-    psd_id: 'outbank',
-    icons: {
-        custom: [
-            [ 'AppIcon_OutBankDE29x29', 29 ],
-            [ 'AppIcon_OutBankDE29x29~ipad', 29 ],
-            [ 'AppIcon_OutBankDE29x29@2x', 29 ],
-            [ 'AppIcon_OutBankDE29x29@2x~ipad', 58 ],
-            [ 'AppIcon_OutBankDE29x29@3x', 87 ],
-            [ 'AppIcon_OutBankDE29x29@3x~ipad', 87 ],
-            [ 'AppIcon_OutBankDE40x40', 40 ],
-            [ 'AppIcon_OutBankDE40x40~ipad', 40 ],
-            [ 'AppIcon_OutBankDE40x40@2x', 80 ],
-            [ 'AppIcon_OutBankDE40x40@2x~ipad', 80 ],
-            [ 'AppIcon_OutBankDE40x40@3x', 120 ],
-            [ 'AppIcon_OutBankDE40x40@3x~ipad', 120 ],
-            [ 'AppIcon_OutBankDE60x60@2x', 120 ],
-            [ 'AppIcon_OutBankDE60x60@3x', 180 ],
-            [ 'AppIcon_OutBankDE76x76~ipad', 76 ],
-            [ 'AppIcon_OutBankDE76x76@2x~ipad', 152 ]
-        ]
-    }
-});
-
-mios.icons.push({
-    name: 'Documents 5',
-    bundle_id: 'com.readdle.ReaddleDocsIPad',
-    app_id: false,
-    psd_id: 'documents5',
-    icons: {
-        custom: [
-            [ 'Documents-120', 120 ],
-            [ 'Documents-152', 152 ],
-            [ 'Documents-180', 180 ],
-            [ 'Documents-29', 29 ],
-            [ 'Documents-29@2x', 58 ],
-            [ 'Documents-40', 40 ],
-            [ 'Documents-50', 50 ],
-            [ 'Documents-50@2x', 100 ],
-            [ 'Documents-57', 57 ],
-            [ 'Documents-57@2x', 114 ],
-            [ 'Documents-72', 72 ],
-            [ 'Documents-72@2x', 144 ],
-            [ 'Documents-76', 76 ],
-            [ 'Documents-80', 80 ],
-            [ 'Documents-87', 87 ]
-        ]
-    }
-});
-
-mios.icons.push({
-    name: 'Evernote Skitch',
-    bundle_id: 'com.evernote.Skitch.iPad',
-    app_id: false,
-    psd_id: 'evernote_skitch',
-    icons: {
-        appicon: true
-    }
-});
-
-mios.icons.push({
-    name: 'Evernote Scannable',
-    bundle_id: 'com.evernote.Scannable',
-    app_id: false,
-    psd_id: 'evernote_scannable',
-    icons: {
-        appicon: true
-    }
-});
-
-mios.icons.push({
-    name: 'AliExpress',
-    bundle_id: 'com.alibaba.iAliexpress',
-    app_id: false,
-    psd_id: 'aliexpress',
-    icons: {
-        appicon: true,
-        custom: [
-            [ 'Icon', 60 ],
-            [ 'Icon120', 120 ],
-            [ 'Icon180', 180 ],
-            [ 'Icon29', 29 ],
-            [ 'Icon58', 58 ],
-            [ 'Icon80', 80 ],
-            [ 'Icon@2x', 120 ]
-        ]
-    }
-});
-
-
-// mios.icons.push({
-//     name: 'ThinkGeek',
-//     bundle_id: 'com.thinkgeek.ios',
-//     app_id: false,
-//     psd_id: 'thinkgeek',
-//     icons: {
-//         appicon: true
-//     }
-// });
-
-// mios.icons.push({
-//     name: 'Star Wars Card Trader',
-//     bundle_id: 'com.topps.force',
-//     app_id: false,
-//     psd_id: 'star_wars_card_trader',
-//     icons: {
-
-//     }
-// });;
+mios.icons = [];;
 
 mios.icons.push({
     name: '1Password',
@@ -523,6 +410,25 @@ mios.icons.push({
             [ 'icon_120', 120 ],
             [ 'icon', 57 ],
             [ 'icon@2x', 114 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'AliExpress',
+    bundle_id: 'com.alibaba.iAliexpress',
+    app_id: false,
+    psd_id: 'aliexpress',
+    icons: {
+        appicon: true,
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon120', 120 ],
+            [ 'Icon180', 180 ],
+            [ 'Icon29', 29 ],
+            [ 'Icon58', 58 ],
+            [ 'Icon80', 80 ],
+            [ 'Icon@2x', 120 ]
         ]
     }
 });
@@ -873,6 +779,7 @@ mios.icons.push({
     app_id: 'AppStore.app',
     psd_id: 'apple_app_store',
     icons: {
+        appicon: true,
         custom: [
             [ 'Appstore20', 20 ],
             [ 'Appstore29', 29 ],
@@ -1054,6 +961,7 @@ mios.icons.push({
     app_id: 'Camera.app',
     psd_id: 'apple_camera',
     icons: {
+        appicon: true,
         custom: [
             [ 'Camera-Guides@2x', 80 ],
             [ 'Camera-Guides@3x', 120 ],
@@ -1261,6 +1169,7 @@ mios.icons.push({
     app_id: 'MobileStore.app',
     psd_id: 'apple_itunes_store',
     icons: {
+        appicon: true,
         custom: [
             [ 'iTunesStore20', 20 ],
             [ 'iTunesStore29', 29 ],
@@ -1301,6 +1210,7 @@ mios.icons.push({
     app_id: 'MobileMail.app',
     psd_id: 'apple_mail',
     icons: {
+        appicon: true,
         custom: [
             [ 'Icon-20~ipad', 20 ],
             [ 'Icon-20@2x', 40 ],
@@ -1343,7 +1253,18 @@ mios.icons.push({
     app_id: 'Music.app',
     psd_id: 'apple_music',
     icons: {
-        appicon: true
+        appicon: true,
+        custom: [
+            [ 'App Icon29x29', 29 ],
+            [ 'App Icon29x29@2x', 58 ],
+            [ 'App Icon29x29@3x', 87 ],
+            [ 'App Icon40x40', 40 ],
+            [ 'App Icon40x40@2x', 80 ],
+            [ 'App Icon40x40@3x', 120 ],
+            [ 'App Icon60x60', 60 ],
+            [ 'App Icon60x60@2x', 120 ],
+            [ 'App Icon60x60@3x', 180 ]
+        ]
     }
 });
 
@@ -2290,6 +2211,7 @@ mios.icons.push({
     app_id: 'MobileSafari.app',
     psd_id: 'apple_safari',
     icons: {
+        appicon: true,
         custom: [
             [ 'icon-about~ipad', 40 ],
             [ 'icon-about@2x', 80 ],
@@ -3213,6 +3135,32 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Documents 5',
+    bundle_id: 'com.readdle.ReaddleDocsIPad',
+    app_id: false,
+    psd_id: 'documents5',
+    icons: {
+        custom: [
+            [ 'Documents-120', 120 ],
+            [ 'Documents-152', 152 ],
+            [ 'Documents-180', 180 ],
+            [ 'Documents-29', 29 ],
+            [ 'Documents-29@2x', 58 ],
+            [ 'Documents-40', 40 ],
+            [ 'Documents-50', 50 ],
+            [ 'Documents-50@2x', 100 ],
+            [ 'Documents-57', 57 ],
+            [ 'Documents-57@2x', 114 ],
+            [ 'Documents-72', 72 ],
+            [ 'Documents-72@2x', 144 ],
+            [ 'Documents-76', 76 ],
+            [ 'Documents-80', 80 ],
+            [ 'Documents-87', 87 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Dropbox',
     bundle_id: 'com.getdropbox.Dropbox',
     app_id: 'Dropbox.app',
@@ -3398,6 +3346,26 @@ mios.icons.push({
     bundle_id: 'com.evernote.iPhone.Evernote',
     app_id: 'Evernote.app',
     psd_id: 'evernote',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Evernote Scannable',
+    bundle_id: 'com.evernote.Scannable',
+    app_id: false,
+    psd_id: 'evernote_scannable',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Evernote Skitch',
+    bundle_id: 'com.evernote.Skitch.iPad',
+    app_id: false,
+    psd_id: 'evernote_skitch',
     icons: {
         appicon: true
     }
@@ -5599,6 +5567,33 @@ mios.icons.push({
     psd_id: 'opera_mini',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Outbank',
+    bundle_id: 'de.stoegerit.Outbank3iOS',
+    app_id: false,
+    psd_id: 'outbank',
+    icons: {
+        custom: [
+            [ 'AppIcon_OutBankDE29x29', 29 ],
+            [ 'AppIcon_OutBankDE29x29~ipad', 29 ],
+            [ 'AppIcon_OutBankDE29x29@2x', 29 ],
+            [ 'AppIcon_OutBankDE29x29@2x~ipad', 58 ],
+            [ 'AppIcon_OutBankDE29x29@3x', 87 ],
+            [ 'AppIcon_OutBankDE29x29@3x~ipad', 87 ],
+            [ 'AppIcon_OutBankDE40x40', 40 ],
+            [ 'AppIcon_OutBankDE40x40~ipad', 40 ],
+            [ 'AppIcon_OutBankDE40x40@2x', 80 ],
+            [ 'AppIcon_OutBankDE40x40@2x~ipad', 80 ],
+            [ 'AppIcon_OutBankDE40x40@3x', 120 ],
+            [ 'AppIcon_OutBankDE40x40@3x~ipad', 120 ],
+            [ 'AppIcon_OutBankDE60x60@2x', 120 ],
+            [ 'AppIcon_OutBankDE60x60@3x', 180 ],
+            [ 'AppIcon_OutBankDE76x76~ipad', 76 ],
+            [ 'AppIcon_OutBankDE76x76@2x~ipad', 152 ]
+        ]
     }
 });
 

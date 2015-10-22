@@ -137,3 +137,23 @@ mios.icons.push({
         appicon: true
     }
 });
+
+mios.icons.push({
+    name: 'Evernote Scannable',
+    bundle_id: 'com.evernote.Scannable',
+    app_id: false,
+    psd_id: 'evernote_scannable',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Evernote Skitch',
+    bundle_id: 'com.evernote.Skitch.iPad',
+    app_id: false,
+    psd_id: 'evernote_skitch',
+    icons: {
+        appicon: true
+    }
+});

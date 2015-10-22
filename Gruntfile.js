@@ -85,7 +85,7 @@ module.exports = function(grunt) {
                 options: {
                     src: "dist/mios",
                     dest: "/Library/Themes",
-                    host: "root@192.168.1.175" // iPhone
+                    host: "root@192.168.1.182" // iPhone
                     // host: "root@192.168.1.84" // iPad
                 }
             }
@@ -142,6 +142,7 @@ module.exports = function(grunt) {
         }
 
         try {
+        	exec( "find . -name \".DS_Store\" -exec rm -rf {} \\;" );
             exec( "dpkg-deb -b Package" );
         } catch(e) {
             grunt.fail.fatal( 'Exiting...');

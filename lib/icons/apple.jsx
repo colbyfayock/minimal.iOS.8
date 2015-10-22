@@ -169,6 +169,7 @@ mios.icons.push({
     app_id: 'AppStore.app',
     psd_id: 'apple_app_store',
     icons: {
+        appicon: true,
         custom: [
             [ 'Appstore20', 20 ],
             [ 'Appstore29', 29 ],
@@ -350,6 +351,7 @@ mios.icons.push({
     app_id: 'Camera.app',
     psd_id: 'apple_camera',
     icons: {
+        appicon: true,
         custom: [
             [ 'Camera-Guides@2x', 80 ],
             [ 'Camera-Guides@3x', 120 ],
@@ -557,6 +559,7 @@ mios.icons.push({
     app_id: 'MobileStore.app',
     psd_id: 'apple_itunes_store',
     icons: {
+        appicon: true,
         custom: [
             [ 'iTunesStore20', 20 ],
             [ 'iTunesStore29', 29 ],
@@ -597,6 +600,7 @@ mios.icons.push({
     app_id: 'MobileMail.app',
     psd_id: 'apple_mail',
     icons: {
+        appicon: true,
         custom: [
             [ 'Icon-20~ipad', 20 ],
             [ 'Icon-20@2x', 40 ],
@@ -639,7 +643,18 @@ mios.icons.push({
     app_id: 'Music.app',
     psd_id: 'apple_music',
     icons: {
-        appicon: true
+        appicon: true,
+        custom: [
+            [ 'App Icon29x29', 29 ],
+            [ 'App Icon29x29@2x', 58 ],
+            [ 'App Icon29x29@3x', 87 ],
+            [ 'App Icon40x40', 40 ],
+            [ 'App Icon40x40@2x', 80 ],
+            [ 'App Icon40x40@3x', 120 ],
+            [ 'App Icon60x60', 60 ],
+            [ 'App Icon60x60@2x', 120 ],
+            [ 'App Icon60x60@3x', 180 ]
+        ]
     }
 });
 
@@ -1586,6 +1601,7 @@ mios.icons.push({
     app_id: 'MobileSafari.app',
     psd_id: 'apple_safari',
     icons: {
+        appicon: true,
         custom: [
             [ 'icon-about~ipad', 40 ],
             [ 'icon-about@2x', 80 ],

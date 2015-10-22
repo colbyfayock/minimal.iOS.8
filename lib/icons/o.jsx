@@ -78,6 +78,33 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Outbank',
+    bundle_id: 'de.stoegerit.Outbank3iOS',
+    app_id: false,
+    psd_id: 'outbank',
+    icons: {
+        custom: [
+            [ 'AppIcon_OutBankDE29x29', 29 ],
+            [ 'AppIcon_OutBankDE29x29~ipad', 29 ],
+            [ 'AppIcon_OutBankDE29x29@2x', 29 ],
+            [ 'AppIcon_OutBankDE29x29@2x~ipad', 58 ],
+            [ 'AppIcon_OutBankDE29x29@3x', 87 ],
+            [ 'AppIcon_OutBankDE29x29@3x~ipad', 87 ],
+            [ 'AppIcon_OutBankDE40x40', 40 ],
+            [ 'AppIcon_OutBankDE40x40~ipad', 40 ],
+            [ 'AppIcon_OutBankDE40x40@2x', 80 ],
+            [ 'AppIcon_OutBankDE40x40@2x~ipad', 80 ],
+            [ 'AppIcon_OutBankDE40x40@3x', 120 ],
+            [ 'AppIcon_OutBankDE40x40@3x~ipad', 120 ],
+            [ 'AppIcon_OutBankDE60x60@2x', 120 ],
+            [ 'AppIcon_OutBankDE60x60@3x', 180 ],
+            [ 'AppIcon_OutBankDE76x76~ipad', 76 ],
+            [ 'AppIcon_OutBankDE76x76@2x~ipad', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Overcast',
     bundle_id: 'fm.overcast.overcast',
     app_id: 'Overcast.app',
