@@ -6621,6 +6621,34 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Star Wars Card Trader',
+    bundle_id: 'com.topps.force',
+    app_id: 'Card Trader.app',
+    psd_id: 'star_wars_card_trader',
+    icons: {
+        custom: [
+            [ 'AppIcon FORCE29x29', 29 ],
+            [ 'AppIcon FORCE29x29@2x', 58 ],
+            [ 'AppIcon FORCE29x29@2x~ipad', 58 ],
+            [ 'AppIcon FORCE29x29~ipad', 29 ],
+            [ 'AppIcon FORCE40x40@2x', 80 ],
+            [ 'AppIcon FORCE40x40@2x~ipad', 80 ],
+            [ 'AppIcon FORCE40x40~ipad', 40 ],
+            [ 'AppIcon FORCE50x50@2x~ipad', 100 ],
+            [ 'AppIcon FORCE50x50~ipad', 50 ],
+            [ 'AppIcon FORCE57x57', 57 ],
+            [ 'AppIcon FORCE57x57@2x', 114 ],
+            [ 'AppIcon FORCE60x60@2x', 120 ],
+            [ 'AppIcon FORCE60x60@3x', 180 ],
+            [ 'AppIcon FORCE72x72@2x~ipad', 144 ],
+            [ 'AppIcon FORCE72x72~ipad', 72 ],
+            [ 'AppIcon FORCE76x76@2x~ipad', 152 ],
+            [ 'AppIcon FORCE76x76~ipad', 76 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Starbucks',
     bundle_id: 'com.starbucks.mystarbucks',
     app_id: 'Starbucks.app',
