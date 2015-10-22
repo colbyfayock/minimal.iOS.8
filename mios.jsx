@@ -3590,6 +3590,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Fifa 16',
+    bundle_id: 'com.ea.ios.fifaworld',
+    app_id: 'fifa.app',
+    psd_id: 'fifa16',
+    icons: {
+        icon: true
+    }
+});
+
+mios.icons.push({
     name: 'Final Fantasy Tactics',
     bundle_id: 'com.square-enix.fft',
     app_id: false,
@@ -4910,6 +4920,20 @@ mios.icons.push({
         appicon: true,
         custom: [
             [ 'LinkedIn-57x57', 57 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Listonic',
+    bundle_id: 'com.listonic',
+    app_id: false,
+    psd_id: 'listonic',
+    icons: {
+        custom: [
+            [ 'ico_02', 144 ],
+            [ 'ico_03', 57 ],
+            [ 'ico_08', 120 ]
         ]
     }
 });

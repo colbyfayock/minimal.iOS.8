@@ -56,6 +56,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Listonic',
+    bundle_id: 'com.listonic',
+    app_id: false,
+    psd_id: 'listonic',
+    icons: {
+        custom: [
+            [ 'ico_02', 144 ],
+            [ 'ico_03', 57 ],
+            [ 'ico_08', 120 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'LogMeIn',
     bundle_id: 'com.logmein.logmein',
     app_id: 'LogMeIn.app ',

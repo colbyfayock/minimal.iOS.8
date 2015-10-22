@@ -204,6 +204,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Fifa 16',
+    bundle_id: 'com.ea.ios.fifaworld',
+    app_id: 'fifa.app',
+    psd_id: 'fifa16',
+    icons: {
+        icon: true
+    }
+});
+
+mios.icons.push({
     name: 'Final Fantasy Tactics',
     bundle_id: 'com.square-enix.fft',
     app_id: false,
