@@ -569,7 +569,20 @@ mios.icons.push({
             [ 'iTunesStore80', 80 ],
             [ 'iTunesStore120', 120 ],
             [ 'iTunesStore152', 152 ],
-            [ 'iTunesStore180', 180 ]
+            [ 'iTunesStore180', 180 ],
+            [ 'iTunesStore-20', 20 ],
+            [ 'iTunesStore-29', 29 ],
+            [ 'iTunesStore-40', 40 ],
+            [ 'iTunesStore-58', 58 ],
+            [ 'iTunesStore-72', 72 ],
+            [ 'iTunesStore-76', 76 ],
+            [ 'iTunesStore-80', 80 ],
+            [ 'iTunesStore-87', 87 ],
+            [ 'iTunesStore-120', 120 ],
+            [ 'iTunesStore-144', 144 ],
+            [ 'iTunesStore-152', 152 ],
+            [ 'iTunesStore-167', 167 ],
+            [ 'iTunesStore-180', 180 ]
         ]
     }
 });
