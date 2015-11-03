@@ -199,6 +199,7 @@ mios.icons.push({
     app_id: 'WhatsApp.app',
     psd_id: 'whatsapp',
     icons: {
+        appicon: true,
         custom: [
             [ 'Icon-Settings', 29 ],
             [ 'Icon-Settings@2x', 58 ],

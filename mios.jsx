@@ -3180,6 +3180,7 @@ mios.icons.push({
     app_id: 'Dropbox.app',
     psd_id: 'dropbox',
     icons: {
+        appicon: true,
         custom: [
             [ 'icon-29', 29 ],
             [ 'icon-29@2x', 58 ],
@@ -4325,7 +4326,21 @@ mios.icons.push({
     app_id: 'Translate.app',
     psd_id: 'google_translate',
     icons: {
-        appicon: true
+        appicon: true,
+        custom: [
+            [ 'logo_translate_color29x29@2x', 58 ],
+            [ 'logo_translate_color29x29@2x~ipad', 58 ],
+            [ 'logo_translate_color29x29@3x', 87 ],
+            [ 'logo_translate_color29x29~ipad', 29 ],
+            [ 'logo_translate_color40x40@2x', 80 ],
+            [ 'logo_translate_color40x40@2x~ipad', 80 ],
+            [ 'logo_translate_color40x40@3x', 120 ],
+            [ 'logo_translate_color40x40~ipad', 40 ],
+            [ 'logo_translate_color60x60@2x', 120 ],
+            [ 'logo_translate_color60x60@3x', 180 ],
+            [ 'logo_translate_color76x76@2x~ipad', 152 ],
+            [ 'logo_translate_color76x76~ipad', 76 ],
+        ]
     }
 });
 
@@ -4368,7 +4383,16 @@ mios.icons.push({
             [ 'Icon-ios7-76', 76 ],
             [ 'Icon-ios7-80', 80 ],
             [ 'Icon-ios7-120', 120 ],
-            [ 'Icon-ios7-152', 152 ]
+            [ 'Icon-ios7-152', 152 ],
+            [ 'Icon120x120', 120 ],
+            [ 'Icon152x152', 152 ],
+            [ 'Icon180x180', 180 ],
+            [ 'Icon29x29', 29 ],
+            [ 'Icon40x40', 40 ],
+            [ 'Icon58x58', 58 ],
+            [ 'Icon72x72', 72 ],
+            [ 'Icon80x80', 80 ],
+            [ 'Icon87x87', 87 ]
         ]
     }
 });
@@ -7655,6 +7679,7 @@ mios.icons.push({
     app_id: 'WhatsApp.app',
     psd_id: 'whatsapp',
     icons: {
+        appicon: true,
         custom: [
             [ 'Icon-Settings', 29 ],
             [ 'Icon-Settings@2x', 58 ],

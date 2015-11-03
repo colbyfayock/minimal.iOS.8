@@ -179,6 +179,7 @@ mios.icons.push({
     app_id: 'Dropbox.app',
     psd_id: 'dropbox',
     icons: {
+        appicon: true,
         custom: [
             [ 'icon-29', 29 ],
             [ 'icon-29@2x', 58 ],
