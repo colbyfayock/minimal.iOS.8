@@ -536,6 +536,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Apple iCloud Drive',
+    bundle_id: 'com.apple.iCloudDriveApp',
+    app_id: false,
+    psd_id: 'apple_icloud',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Apple iMovie',
     bundle_id: 'com.apple.iMovie',
     app_id: 'iMovie.app',
