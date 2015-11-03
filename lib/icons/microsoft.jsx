@@ -20,6 +20,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Microsoft OneNote',
+    bundle_id: 'com.microsoft.onenote',
+    app_id: false,
+    psd_id: 'microsoft_onenote',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Microsoft Outlook',
     bundle_id: 'com.microsoft.Office.Outlook',
     app_id: 'app-ios.app',

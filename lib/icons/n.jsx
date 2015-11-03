@@ -77,6 +77,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Network Utility for iOS',
+    bundle_id: 'com.r2lab.UtilityNetwork',
+    app_id: false,
+    psd_id: 'network_utility',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'New Words With Friends',
     bundle_id: 'com.newtoyinc.NewWordsWithFriendsFree',
     app_id: 'Words2.app',

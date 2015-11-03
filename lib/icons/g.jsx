@@ -89,6 +89,31 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Guitar Pro',
+    bundle_id: 'com.arobas-music.iGP',
+    app_id: false,
+    psd_id: 'guitar_pro',
+    icons: {
+        custom: [
+            [ 'ic_gp_29x29', 29 ],
+            [ 'ic_gp_40x40', 40 ],
+            [ 'ic_gp_50x50', 50 ],
+            [ 'ic_gp_57x57', 57 ],
+            [ 'ic_gp_58x58', 58 ],
+            [ 'ic_gp_72x72', 72 ],
+            [ 'ic_gp_76x76', 76 ],
+            [ 'ic_gp_80x80', 80 ],
+            [ 'ic_gp_100x100', 100 ],
+            [ 'ic_gp_114x114', 114 ],
+            [ 'ic_gp_120x120', 120 ],
+            [ 'ic_gp_128x128', 128 ],
+            [ 'ic_gp_144x144', 144 ],
+            [ 'ic_gp_152x152', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Guitar Tuna',
     bundle_id: 'com.ovelin.guitartuna',
     app_id: 'guitartuna.app',
