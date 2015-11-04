@@ -315,6 +315,7 @@ mios.icons.push({
             [ 'icon-120', 120 ],
             [ 'icon-144', 144 ],
             [ 'icon-152', 152 ],
+            [ 'icon-180', 180 ],
             [ 'Icon', 60 ],
             [ 'Icon@2x', 120 ]
         ]
@@ -416,6 +417,16 @@ mios.icons.push({
     bundle_id: 'com.fontshop.FontBook',
     app_id: 'FontBook.app',
     psd_id: 'fontbook',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Forza Football - Soccer Live Scores',
+    bundle_id: 'com.footballaddicts.livescoreaddicts',
+    app_id: false,
+    psd_id: 'forza_football',
     icons: {
         appicon: true
     }

@@ -330,6 +330,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: '7-Eleven App',
+    bundle_id: 'com.sei.sherman',
+    app_id: false,
+    psd_id: '7eleven',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: '8 Ball Pool',
     bundle_id: 'com.miniclip.8ballpoolmult',
     app_id: 'pool.app',
@@ -2432,6 +2442,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'BarMagnet',
+    bundle_id: 'com.quarter.barmagnet',
+    app_id: false,
+    psd_id: 'barmagnet',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Battery Doctor',
     bundle_id: 'com.ksmobile.batterydoctor',
     app_id: 'BatterySaver.app',
@@ -2675,6 +2695,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Cartoon Saga',
+    bundle_id: 'com.DragonBall.2015',
+    app_id: false,
+    psd_id: 'cartoon_saga',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'CBS Sports',
     bundle_id: 'H443NM7F8H.CBSSportsApp',
     app_id: 'CBS Sports.app',
@@ -2709,12 +2739,41 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Cheatsheet',
+    bundle_id: 'com.overdesign.Cheatsheet',
+    app_id: false,
+    psd_id: 'cheatsheet',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Check the Weather',
     bundle_id: 'com.crossforward.checktheweather',
     app_id: false,
     psd_id: 'check_the_weather',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Chicago Blackhawks App',
+    bundle_id: 'com.chicagoblackhawks.Blackhawks',
+    app_id: false,
+    psd_id: 'chicago_blackhawks',
+    icons: {
+        custom: [
+            [ 'AppIcon-CHI57x57', 57 ],
+            [ 'AppIcon-CHI57x57@2x', 114 ],
+            [ 'AppIcon-CHI60x60@2x', 120 ],
+            [ 'AppIcon-CHI60x60@3x', 180 ],
+            [ 'AppIcon-CHI72x72@2x~ipad', 144 ],
+            [ 'AppIcon-CHI72x72~ipad', 72 ],
+            [ 'AppIcon-CHI76x76@2x~ipad', 152 ],
+            [ 'AppIcon-CHI76x76~ipad', 76 ]
+        ]
     }
 });
 
@@ -3005,6 +3064,28 @@ mios.icons.push({
             [ 'icon', 1234 ],
             [ 'icon@2x', 1234 ],
             [ 'iconClassic', 1234 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Cydia Impactor',
+    bundle_id: 'com.saurik.Impactor',
+    app_id: false,
+    psd_id: 'cydia_impactor',
+    icons: {
+        custom: [
+            [ 'Icon-60', 60 ],
+            [ 'Icon-76', 76 ],
+            [ 'Icon-120', 120 ],
+            [ 'Icon-180', 180 ],
+            [ 'Icon-Small-40', 40 ],
+            [ 'Icon-Small', 29 ],
+            [ 'Icon-Small@2x', 58 ],
+            [ 'Icon-Small@3x', 87 ],
+            [ 'Icon-Small-50', 1234 ],
+            [ 'Icon-Small-50@2x', 100 ],
+            [ 'Icon-Small-50@3x', 150 ]
         ]
     }
 });;
@@ -3713,6 +3794,7 @@ mios.icons.push({
             [ 'icon-120', 120 ],
             [ 'icon-144', 144 ],
             [ 'icon-152', 152 ],
+            [ 'icon-180', 180 ],
             [ 'Icon', 60 ],
             [ 'Icon@2x', 120 ]
         ]
@@ -3820,6 +3902,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Forza Football - Soccer Live Scores',
+    bundle_id: 'com.footballaddicts.livescoreaddicts',
+    app_id: false,
+    psd_id: 'forza_football',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Four Four Two Stats Zone',
     bundle_id: 'com.fourfourtwo.statszone',
     app_id: 'StatsZone.app',
@@ -3915,6 +4007,34 @@ mios.icons.push({
     psd_id: 'gamestop',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'GasBuddy',
+    bundle_id: 'com.gasbuddymobile.gasbuddy',
+    app_id: false,
+    psd_id: 'gasbuddy',
+    icons: {
+        custom: [
+            [ 'Release29x29', 29 ],
+            [ 'Release29x29@2x', 58 ],
+            [ 'Release29x29@2x~ipad', 58 ],
+            [ 'Release29x29~ipad', 29 ],
+            [ 'Release40x40@2x', 80 ],
+            [ 'Release40x40@2x~ipad', 80 ],
+            [ 'Release40x40~ipad', 40 ],
+            [ 'Release50x50@2x~ipad', 100 ],
+            [ 'Release50x50~ipad', 50 ],
+            [ 'Release57x57', 57 ],
+            [ 'Release57x57@2x', 114 ],
+            [ 'Release60x60@2x', 120 ],
+            [ 'Release60x60@3x', 180 ],
+            [ 'Release72x72@2x~ipad', 144 ],
+            [ 'Release72x72~ipad', 72 ],
+            [ 'Release76x76@2x~ipad', 152 ],
+            [ 'Release76x76~ipad', 76 ]
+        ]
     }
 });
 
@@ -5160,6 +5280,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Mextures',
+    bundle_id: 'com.merekdavis.Mextures',
+    app_id: false,
+    psd_id: 'mextures',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Midori',
     bundle_id: 'com.sukolsak.Midori',
     app_id: false,
@@ -5724,6 +5854,16 @@ mios.icons.push({
             [ 'AppIcon_OutBankDE76x76~ipad', 76 ],
             [ 'AppIcon_OutBankDE76x76@2x~ipad', 152 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'Over',
+    bundle_id: 'com.gopotluck.over',
+    app_id: false,
+    psd_id: 'over',
+    icons: {
+        appicon: true
     }
 });
 
@@ -6352,6 +6492,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Replay video editor',
+    bundle_id: 'com.stupeflix.studio',
+    app_id: false,
+    psd_id: 'replay_video_editor',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Retail Me Not',
     bundle_id: 'com.whaleshark.retailmenot',
     app_id: 'RetailMeNot.app',
@@ -6412,6 +6562,31 @@ mios.icons.push({
         appicon: true
     }
 });;
+
+mios.icons.push({
+    name: 'Score! Hero',
+    bundle_id: 'com.firsttouch.story',
+    app_id: false,
+    psd_id: 'score_hero',
+    icons: {
+        custom: [
+            [ '29x29', 29 ],
+            [ '40x40', 40 ],
+            [ '50x50', 50 ],
+            [ '57x57', 57 ],
+            [ '58x58', 58 ],
+            [ '72x72', 72 ],
+            [ '76x76', 76 ],
+            [ '80x80', 80 ],
+            [ '100x100', 100 ],
+            [ '114x114', 114 ],
+            [ '120x120', 120 ],
+            [ '144x144', 144 ],
+            [ '152x152', 152 ],
+            [ '180x180', 180 ]
+        ]
+    }
+});
 
 mios.icons.push({
     name: 'Screeny',
@@ -6687,6 +6862,16 @@ mios.icons.push({
             [ 'AppIcon-Inf76x76@2x~ipad', 152 ],
             [ 'AppIcon-Inf76x76~ipad', 76 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'SpinMe Alarm',
+    bundle_id: 'com.aalshura.SpinMe',
+    app_id: false,
+    psd_id: 'spinme_alarm_clock',
+    icons: {
+        appicon: true
     }
 });
 

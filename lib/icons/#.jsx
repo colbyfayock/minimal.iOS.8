@@ -35,6 +35,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: '7-Eleven App',
+    bundle_id: 'com.sei.sherman',
+    app_id: false,
+    psd_id: '7eleven',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: '8 Ball Pool',
     bundle_id: 'com.miniclip.8ballpoolmult',
     app_id: 'pool.app',

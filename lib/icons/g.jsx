@@ -9,6 +9,34 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'GasBuddy',
+    bundle_id: 'com.gasbuddymobile.gasbuddy',
+    app_id: false,
+    psd_id: 'gasbuddy',
+    icons: {
+        custom: [
+            [ 'Release29x29', 29 ],
+            [ 'Release29x29@2x', 58 ],
+            [ 'Release29x29@2x~ipad', 58 ],
+            [ 'Release29x29~ipad', 29 ],
+            [ 'Release40x40@2x', 80 ],
+            [ 'Release40x40@2x~ipad', 80 ],
+            [ 'Release40x40~ipad', 40 ],
+            [ 'Release50x50@2x~ipad', 100 ],
+            [ 'Release50x50~ipad', 50 ],
+            [ 'Release57x57', 57 ],
+            [ 'Release57x57@2x', 114 ],
+            [ 'Release60x60@2x', 120 ],
+            [ 'Release60x60@3x', 180 ],
+            [ 'Release72x72@2x~ipad', 144 ],
+            [ 'Release72x72~ipad', 72 ],
+            [ 'Release76x76@2x~ipad', 152 ],
+            [ 'Release76x76~ipad', 76 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Gate Guru',
     bundle_id: 'com.mobilityapps.gategurufull',
     app_id: 'GateGuru.app ',

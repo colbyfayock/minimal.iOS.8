@@ -1,4 +1,29 @@
 mios.icons.push({
+    name: 'Score! Hero',
+    bundle_id: 'com.firsttouch.story',
+    app_id: false,
+    psd_id: 'score_hero',
+    icons: {
+        custom: [
+            [ '29x29', 29 ],
+            [ '40x40', 40 ],
+            [ '50x50', 50 ],
+            [ '57x57', 57 ],
+            [ '58x58', 58 ],
+            [ '72x72', 72 ],
+            [ '76x76', 76 ],
+            [ '80x80', 80 ],
+            [ '100x100', 100 ],
+            [ '114x114', 114 ],
+            [ '120x120', 120 ],
+            [ '144x144', 144 ],
+            [ '152x152', 152 ],
+            [ '180x180', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Screeny',
     bundle_id: 'com.nfnlabs.screeny',
     app_id: 'Screeny.app',
@@ -272,6 +297,16 @@ mios.icons.push({
             [ 'AppIcon-Inf76x76@2x~ipad', 152 ],
             [ 'AppIcon-Inf76x76~ipad', 76 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'SpinMe Alarm',
+    bundle_id: 'com.aalshura.SpinMe',
+    app_id: false,
+    psd_id: 'spinme_alarm_clock',
+    icons: {
+        appicon: true
     }
 });
 

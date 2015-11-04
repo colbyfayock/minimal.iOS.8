@@ -49,6 +49,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Cartoon Saga',
+    bundle_id: 'com.DragonBall.2015',
+    app_id: false,
+    psd_id: 'cartoon_saga',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'CBS Sports',
     bundle_id: 'H443NM7F8H.CBSSportsApp',
     app_id: 'CBS Sports.app',
@@ -83,12 +93,41 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Cheatsheet',
+    bundle_id: 'com.overdesign.Cheatsheet',
+    app_id: false,
+    psd_id: 'cheatsheet',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Check the Weather',
     bundle_id: 'com.crossforward.checktheweather',
     app_id: false,
     psd_id: 'check_the_weather',
     icons: {
         appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Chicago Blackhawks App',
+    bundle_id: 'com.chicagoblackhawks.Blackhawks',
+    app_id: false,
+    psd_id: 'chicago_blackhawks',
+    icons: {
+        custom: [
+            [ 'AppIcon-CHI57x57', 57 ],
+            [ 'AppIcon-CHI57x57@2x', 114 ],
+            [ 'AppIcon-CHI60x60@2x', 120 ],
+            [ 'AppIcon-CHI60x60@3x', 180 ],
+            [ 'AppIcon-CHI72x72@2x~ipad', 144 ],
+            [ 'AppIcon-CHI72x72~ipad', 72 ],
+            [ 'AppIcon-CHI76x76@2x~ipad', 152 ],
+            [ 'AppIcon-CHI76x76~ipad', 76 ]
+        ]
     }
 });
 
@@ -379,6 +418,28 @@ mios.icons.push({
             [ 'icon', 1234 ],
             [ 'icon@2x', 1234 ],
             [ 'iconClassic', 1234 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Cydia Impactor',
+    bundle_id: 'com.saurik.Impactor',
+    app_id: false,
+    psd_id: 'cydia_impactor',
+    icons: {
+        custom: [
+            [ 'Icon-60', 60 ],
+            [ 'Icon-76', 76 ],
+            [ 'Icon-120', 120 ],
+            [ 'Icon-180', 180 ],
+            [ 'Icon-Small-40', 40 ],
+            [ 'Icon-Small', 29 ],
+            [ 'Icon-Small@2x', 58 ],
+            [ 'Icon-Small@3x', 87 ],
+            [ 'Icon-Small-50', 1234 ],
+            [ 'Icon-Small-50@2x', 100 ],
+            [ 'Icon-Small-50@3x', 150 ]
         ]
     }
 });

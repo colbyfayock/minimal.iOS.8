@@ -105,6 +105,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Over',
+    bundle_id: 'com.gopotluck.over',
+    app_id: false,
+    psd_id: 'over',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Overcast',
     bundle_id: 'fm.overcast.overcast',
     app_id: 'Overcast.app',

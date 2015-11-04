@@ -139,6 +139,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Replay video editor',
+    bundle_id: 'com.stupeflix.studio',
+    app_id: false,
+    psd_id: 'replay_video_editor',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Retail Me Not',
     bundle_id: 'com.whaleshark.retailmenot',
     app_id: 'RetailMeNot.app',

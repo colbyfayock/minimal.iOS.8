@@ -110,6 +110,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Mextures',
+    bundle_id: 'com.merekdavis.Mextures',
+    app_id: false,
+    psd_id: 'mextures',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Midori',
     bundle_id: 'com.sukolsak.Midori',
     app_id: false,

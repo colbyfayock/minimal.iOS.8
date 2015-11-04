@@ -41,6 +41,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'BarMagnet',
+    bundle_id: 'com.quarter.barmagnet',
+    app_id: false,
+    psd_id: 'barmagnet',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Battery Doctor',
     bundle_id: 'com.ksmobile.batterydoctor',
     app_id: 'BatterySaver.app',
