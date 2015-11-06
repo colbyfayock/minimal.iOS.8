@@ -4,33 +4,51 @@ Themed icons
  - 1Password
  - 2048
  - 5s Gif
+ - 7-Eleven App
  - 8 Ball Pool
  - 9GAG
  - ABC Watch
  - Accuweather
- - Activator Settings
+ - Activator
  - Adobe Acrobat
  - ADP Mobile
+ - AliExpress
+ - Allegro
  - Ally
  - Amazon
+ - Amazon DE
+ - Amazon FR
+ - Amazon UK
  - Amazon Instant Video
  - Amazon Local
  - AMEX
  - amrc client for reddit
  - AppInfo
+ - Ask.fm
+ - Audible Audiobooks
+ - Authy
+ - Aviary Photo Editor
+ - Apple Airport Utility
  - Apple App Store
+ - Apple Assistant
  - Apple Calculator
+ - Apple Calendar (Settings)
+ - Apple Calendar (Icon)
  - Apple Camera
  - Apple Camera Roll
+ - Apple Clock
+ - Apple Clock Alt
  - Apple Compass
  - Apple Contacts
  - Apple Facetime
  - Apple Find My Friends
  - Apple Find My iPhone
+ - Apple Find My iPhone
  - Apple Game Center
  - Apple Garage Band
  - Apple Health
  - Apple iBooks
+ - Apple iCloud Drive
  - Apple iMovie
  - Apple iTunes Store
  - Apple iTunes University
@@ -49,21 +67,20 @@ Themed icons
  - Apple Remote
  - Apple Safari
  - Apple SMS
- - Apple Stock
+ - Apple SMS Alt
+ - Apple Stocks
  - Apple Store
  - Apple TestFlight
  - Apple Tips
  - Apple Trailers
  - Apple Videos
  - Apple Voice Memos
+ - Apple Watch
  - Apple Weather
- - Ask.fm
- - Audible  Audiobooks
- - Authy
- - Aviary Photo Editor
  - Badoo
  - Bandsintown
  - Bank of America
+ - BarMagnet
  - Battery Doctor
  - BatteryLife
  - BBC News US
@@ -75,53 +92,70 @@ Themed icons
  - Bleacher Report
  - Boom Beach
  - Box
+ - Buffer
  - BuzzFeed
  - Bytafont 2
  - Calenmob
  - Canvas
  - Capital One
+ - Cartoon Saga
  - CBS Sports
  - Chase
+ - Cheatsheet
+ - Check the Weather
+ - Chicago Blackhawks App
  - Cisco AnyConnect
  - Citi
  - Clash of Clans
  - Clear
  - Clima
- - Cloudier
+ - CloudApp
  - CloudMagic Email
  - Coastal
+ - CocoaTop
  - Comedy Central
  - Comedy Central Stand-Up
  - CommBank
  - Convertbot
+ - CrashReporter
  - Credit Karma
  - Crunchyroll
  - Curb
  - CVS
  - Cydia
+ - Cydia Impactor
  - Darkroom
+ - Dashlane
+ - DatPiff
  - Day One
  - Deezer
+ - Delivered
  - Deliveries
  - Dictionary.com
  - Dictionary.com Premium
  - Discover Mobile
  - Discovery Channel
- - DNB
  - Does not Commute
+ - DNB
+ - Documents 5
  - Dropbox
- - Dropbox  Carousel
+ - Dropbox Carousel
  - Dubsmash
  - Duolingo
  - Ebay
  - Ebay iPad
+ - Echofon
+ - Emoji++
  - Endomondo
  - Epocrates
+ - ESPN Fantasy Football
  - ESPN ScoreCenter
  - ESPN Watch
  - Etsy
  - Eventbrite
  - Evernote iPhone
+ - Evernote Scannable
+ - Evernote Skitch
  - f.lux
  - Fab
  - Facebook
@@ -134,6 +168,11 @@ Themed icons
  - Fantastical
  - FCC
  - Feedly
+ - Fifa 15
+ - Fifa 16
+ - Final Fantasy Tactics
+ - Fing
+ - First State Bank
  - Fitbit
  - Five Guys
  - Fiverr Faces
@@ -145,18 +184,28 @@ Themed icons
  - Flipboard
  - Flixster
  - FontBook
+ - Forza Football - Soccer Live Scores
  - Four Four Two Stats Zone
  - Fox Now
  - Foxtel Go
  - Foxtel Guide
+ - Frontpoint
  - Funny or Die
  - Funny or Die News Flash
+ - Fyu.se
  - Gamestop
+ - GasBuddy
  - Gate Guru
  - GEICO Mobile
  - Genius Scan - PDF Scanner
- - Giphy (Messenger)
+ - GG
+ - Giphy for Messenger
  - Glide
+ - GroupMe
+ - Groupon
+ - Guitar Pro
+ - Guitar Tuna
+ - GV Mobile+ 3
  - Google Analytics
  - Google Authenticator
  - Google Calendar
@@ -169,6 +218,7 @@ Themed icons
  - Google Hangouts
  - Google Inbox
  - Google Ingress
+ - Google Local
  - Google Maps
  - Google Mobile
  - Google News
@@ -182,12 +232,9 @@ Themed icons
  - Google Wallet
  - Google Youtube
  - Google Youtube Creator Studio
- - GroupMe
- - Groupon
- - Guitar Tuna
  - Hanging With Friends Paid
+ - HBO Go
  - HBO Now
- - HBOGo
  - Hearthstone
  - HeyHey
  - Holy Bible
@@ -200,10 +247,12 @@ Themed icons
  - iAlien
  - Ibotta
  - iCleaner
+ - iCleaner iPhone 6 Plus
  - IF
  - iFile
  - iFunny
  - iHeartRadio
+ - IKO
  - iLEX R.A.T.
  - IMDB
  - Imgur
@@ -212,18 +261,22 @@ Themed icons
  - Inbox Messenger
  - Indeed Jobs
  - Instacast
- - InstaCollage
+ - InstaCollage Free
  - Instagram
  - InstaSize
+ - iTube
  - Journalized
+ - JW Library
  - KakaoTalk
  - Keeper
  - kik
  - Kindle
+ - Kodi
  - LastPass
  - Launch Center Pro
- - Line
+ - LINE
  - LinkedIn
+ - Listonic
  - LogMeIn
  - LoseIt
  - Lyft
@@ -234,15 +287,10 @@ Themed icons
  - Match.com
  - Maybank
  - Memoir
- - Microsoft Excel
- - Microsoft OneDrive
- - Microsoft Outlook
- - Microsoft OWA
- - Microsoft Powerpoint
- - Microsoft Smartglass
- - Microsoft Word
+ - Mextures
  - Midori
- - Mint.com
+ - Mint
+ - Mint Bills
  - MLB at Bat
  - Mobile Terminal
  - Moby Dick, House of Kabob
@@ -255,10 +303,22 @@ Themed icons
  - MyMaxis
  - MyPantone
  - MyScript Calculator
+ - Microsoft Excel
+ - Microsoft Lync 2010
+ - Microsoft OneDrive
+ - Microsoft OneNote
+ - Microsoft Outlook
+ - Microsoft OWA
+ - Microsoft Powerpoint
+ - Microsoft Smartglass
+ - Microsoft Word
  - N_eye
+ - Navigon
  - Navy Federal Credit Union
- - NBA Gametime
+ - NBA
+ - Nest
  - Netflix
+ - Network Utility for iOS
  - New Words With Friends
  - Nexus Student Ministry
  - NFL Fantasy Football
@@ -271,18 +331,21 @@ Themed icons
  - ooVoo
  - Open Table
  - OpenVPN Connect
+ - Opera Mini
+ - Outbank
+ - Over
  - Overcast
- - P Tracker (Sevenlogics)
  - Pacemaker
  - Palringo
  - Pandora
  - Pangu
  - Papa Johns
  - Parcel
+ - Pastebin
  - Paypal
  - Pebble Smartwatch
  - Pebble Time Watch
- - Period Tracker
+ - Period Tracker (Sevenlogics)
  - Period Tracker Lite
  - Periscope
  - PHHHOTO
@@ -316,14 +379,16 @@ Themed icons
  - Reddit AMA
  - Redfin
  - Reeder
+ - Replay video editor
  - Retail Me Not
  - Retry
  - Rhapsody
+ - Ringtone Designer Pro
  - Robinhood
+ - Score! Hero
  - Screeny
  - Setlist
- - Settings Icons
- - Shazam
+ - Shazam Free
  - Shazam Encore
  - Showtime Anytime
  - Simple
@@ -334,17 +399,20 @@ Themed icons
  - Sleep Cycle
  - SleepGenius
  - Slick Deals
- - SmartPlayer
+ - SmartNews
+ - Smartplayer
  - SnapChat
  - Sniper Shooter
  - Sosh
  - SoundCloud
  - SoundHound
  - SoundHound Pro
+ - SpinMe Alarm
  - Splitwise
  - Spotify
  - Springtomize
  - Square Cash
+ - Star Wars Card Trader
  - Starbucks
  - Starbucks Malaysia
  - Steam
@@ -356,13 +424,15 @@ Themed icons
  - Swarm
  - Swift Key
  - Swipes
- - Sybu
+ - Sworkit Lite
+ - Sybu for Kodi
+ - Tabata
  - Tango
  - Tapatalk
  - TeamViewer: Remote Control
  - Telegram Messenger
  - Telstra
- - The Weather Channel
+ - Things
  - Tinder
  - Tiny Scan
  - ToDoMovies
@@ -397,6 +467,7 @@ Themed icons
  - Visage Lab
  - Visage Lab Pro
  - Visage Lab Pro HD
+ - VSCO Cam
  - WakeUp
  - Walgreens
  - Wallapop
@@ -405,6 +476,7 @@ Themed icons
  - Wattpad
  - Waze
  - We <3 It
+ - The Weather Channel
  - Weather Underground
  - WeChat
  - Wegmans
@@ -414,10 +486,17 @@ Themed icons
  - Wikipanion
  - Wikipanion iPad
  - Wikipedia
+ - Wikiwand
+ - Winterboard
  - Wiper
  - Wish
  - Wolfram Alpha
+ - Woodforest Mobile Banking
+ - Words with Friends Paid
+ - World Lens
+ - WorldStar
  - Wunderlist
+ - Wykop
  - X Mod Games
  - XBMC
  - Xero
@@ -425,16 +504,17 @@ Themed icons
  - Xfinity MyAccount
  - Xfinity Play
  - Xfinity Remote
+ - XFinity TV
  - XKit
+ - YB
+ - Yelp
+ - Yik Yak
+ - YNAB
  - Yahoo
  - Yahoo Fantasy Football
  - Yahoo Mail
  - Yahoo News
  - Yahoo Sports
  - Yahoo Weather
- - YB
- - Yelp
- - Yik Yak
- - YNAB
  - Zedge
  - Zoosk
