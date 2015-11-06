@@ -42,7 +42,7 @@ mios.icons.push({
 
 mios.icons.push({
     name: 'BarMagnet',
-    bundle_id: 'com.quarter.barmagnet',
+    bundle_id: 'Quarter.BarMagnetep',
     app_id: false,
     psd_id: 'barmagnet',
     icons: {

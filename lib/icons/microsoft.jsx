@@ -9,6 +9,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Microsoft Lync 2010',
+    bundle_id: 'com.microsoft.lync2010.iphone',
+    app_id: false,
+    psd_id: 'microsoft_lync_2010',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Microsoft OneDrive',
     bundle_id: 'com.microsoft.skydrive',
     app_id: '1.app',

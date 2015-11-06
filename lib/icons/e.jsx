@@ -27,6 +27,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Echofon',
+    bundle_id: 'net.naan.TwitterFonPro',
+    app_id: false,
+    psd_id: 'echofon',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Emoji++',
     bundle_id: 'com.crossforward.EmojiKeyboard',
     app_id: false,
@@ -64,6 +74,16 @@ mios.icons.push({
     bundle_id: 'com.Epocrates.Rx',
     app_id: 'Essentials.app',
     psd_id: 'epocrates',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'ESPN Fantasy Football',
+    bundle_id: 'com.espn.fantasyFootball',
+    app_id: false,
+    psd_id: 'espn_fantasy_football',
     icons: {
         appicon: true
     }

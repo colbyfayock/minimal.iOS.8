@@ -353,6 +353,31 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Woodforest Mobile Banking',
+    bundle_id: 'com.yourcompany.Woodforest',
+    app_id: false,
+    psd_id: 'woodforest_mobile_banking',
+    icons: {
+        custom: [
+            [ '29x29', 29 ],
+            [ '40x40', 40 ],
+            [ '50', 50 ],
+            [ '57', 57 ],
+            [ '58x58', 58 ],
+            [ '60', 60 ],
+            [ '72', 72 ],
+            [ '76x76', 76 ],
+            [ '80x80', 80 ],
+            [ '100', 100 ],
+            [ '114', 114 ],
+            [ '12', 12 ],
+            [ '144', 144 ],
+            [ '152x152', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Words with Friends Paid',
     bundle_id: 'com.newtoyinc.WordsWithFriendsPaid',
     app_id: 'WordsWithFriendsPaid.app',
@@ -367,6 +392,16 @@ mios.icons.push({
     bundle_id: 'com.questvisual.MobileTranslator',
     app_id: 'WordLens.app ',
     psd_id: 'world_lens',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'WorldStar',
+    bundle_id: 'com.wshh.com',
+    app_id: false,
+    psd_id: 'worldstar',
     icons: {
         appicon: true
     }

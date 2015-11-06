@@ -84,6 +84,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'XFinity TV',
+    bundle_id: 'com.comcast.cim.x2',
+    app_id: false,
+    psd_id: 'xfinity_tv',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'XKit',
     bundle_id: 'com.StudioXenix.XKit',
     app_id: false,

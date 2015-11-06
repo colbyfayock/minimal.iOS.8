@@ -488,6 +488,25 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Frontpoint',
+    bundle_id: 'com.frontpointsecurity.FrontPoint',
+    app_id: false,
+    psd_id: 'frontpoint',
+    icons: {
+        custom: [
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ],
+            [ 'Icon-72', 72 ],
+            [ 'Icon-76', 76 ],
+            [ 'Icon-120', 120 ],
+            [ 'Icon-144', 144 ],
+            [ 'Icon-152', 152 ],
+            [ 'Icon-180', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Funny or Die',
     bundle_id: 'com.funnyordie.FunnyOrDie',
     app_id: 'FunnyOrDie.app',

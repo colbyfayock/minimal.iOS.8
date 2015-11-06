@@ -9,6 +9,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Dashlane',
+    bundle_id: 'com.dashlane.dahlanephonefinal',
+    app_id: false,
+    psd_id: 'dashlane',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'DatPiff',
     bundle_id: 'com.datpiff.mobile',
     app_id: false,

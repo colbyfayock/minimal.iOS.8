@@ -130,10 +130,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
-    name: 'Mint.com',
+    name: 'Mint',
     bundle_id: 'com.mint.internal',
     app_id: 'Mint.app',
     psd_id: 'mint',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Mint Bills',
+    bundle_id: 'com.pageonce.ionce',
+    app_id: false,
+    psd_id: 'mint_bills',
     icons: {
         appicon: true
     }

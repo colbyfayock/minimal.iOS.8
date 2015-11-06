@@ -67,6 +67,30 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Nest',
+    bundle_id: 'com.nestlabs.jasper.nest',
+    app_id: false,
+    psd_id: 'nest',
+    icons: {
+        custom: [
+            [ 'icon_29', 29 ],
+            [ 'icon_29@2x', 58 ],
+            [ 'icon_29@3x', 87 ],
+            [ 'icon_40', 40 ],
+            [ 'icon_40@2x', 80 ],
+            [ 'icon_50', 50 ],
+            [ 'icon_50@2x', 100 ],
+            [ 'icon_57', 57 ],
+            [ 'icon_57@2x', 114 ],
+            [ 'icon_60@2x', 120 ],
+            [ 'icon_60@3x', 180 ],
+            [ 'icon_76', 76 ],
+            [ 'icon_76@2x', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Netflix',
     bundle_id: 'com.netflix.Netflix',
     app_id: 'Netflix.app',

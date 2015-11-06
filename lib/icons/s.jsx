@@ -186,6 +186,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'SmartNews',
+    bundle_id: 'jp.gocro.SmartNews',
+    app_id: false,
+    psd_id: 'smartnews',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Smartplayer',
     bundle_id: 'com.shaddeen.SmartPlayer',
     app_id: false,

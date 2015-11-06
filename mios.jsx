@@ -2443,7 +2443,7 @@ mios.icons.push({
 
 mios.icons.push({
     name: 'BarMagnet',
-    bundle_id: 'com.quarter.barmagnet',
+    bundle_id: 'Quarter.BarMagnetep',
     app_id: false,
     psd_id: 'barmagnet',
     icons: {
@@ -3101,6 +3101,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Dashlane',
+    bundle_id: 'com.dashlane.dahlanephonefinal',
+    app_id: false,
+    psd_id: 'dashlane',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'DatPiff',
     bundle_id: 'com.datpiff.mobile',
     app_id: false,
@@ -3346,6 +3356,16 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Echofon',
+    bundle_id: 'net.naan.TwitterFonPro',
+    app_id: false,
+    psd_id: 'echofon',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
     name: 'Emoji++',
     bundle_id: 'com.crossforward.EmojiKeyboard',
     app_id: false,
@@ -3383,6 +3403,16 @@ mios.icons.push({
     bundle_id: 'com.Epocrates.Rx',
     app_id: 'Essentials.app',
     psd_id: 'epocrates',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'ESPN Fantasy Football',
+    bundle_id: 'com.espn.fantasyFootball',
+    app_id: false,
+    psd_id: 'espn_fantasy_football',
     icons: {
         appicon: true
     }
@@ -3962,6 +3992,25 @@ mios.icons.push({
         custom: [
             [ 'Icon-120', 120 ],
             [ 'Icon-152', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Frontpoint',
+    bundle_id: 'com.frontpointsecurity.FrontPoint',
+    app_id: false,
+    psd_id: 'frontpoint',
+    icons: {
+        custom: [
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ],
+            [ 'Icon-72', 72 ],
+            [ 'Icon-76', 76 ],
+            [ 'Icon-120', 120 ],
+            [ 'Icon-144', 144 ],
+            [ 'Icon-152', 152 ],
+            [ 'Icon-180', 180 ]
         ]
     }
 });
@@ -5300,10 +5349,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
-    name: 'Mint.com',
+    name: 'Mint',
     bundle_id: 'com.mint.internal',
     app_id: 'Mint.app',
     psd_id: 'mint',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'Mint Bills',
+    bundle_id: 'com.pageonce.ionce',
+    app_id: false,
+    psd_id: 'mint_bills',
     icons: {
         appicon: true
     }
@@ -5473,6 +5532,20 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Microsoft Lync 2010',
+    bundle_id: 'com.microsoft.lync2010.iphone',
+    app_id: false,
+    psd_id: 'microsoft_lync_2010',
+    icons: {
+        custom: [
+            [ 'Icon', 60 ],
+            [ 'Icon@2x', 120 ],
+            [ 'Icon@3x', 180 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Microsoft OneDrive',
     bundle_id: 'com.microsoft.skydrive',
     app_id: '1.app',
@@ -5638,6 +5711,30 @@ mios.icons.push({
             [ 'icon_120', 120 ],
             [ 'icon_144', 144 ],
             [ 'icon_152', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
+    name: 'Nest',
+    bundle_id: 'com.nestlabs.jasper.nest',
+    app_id: false,
+    psd_id: 'nest',
+    icons: {
+        custom: [
+            [ 'icon_29', 29 ],
+            [ 'icon_29@2x', 58 ],
+            [ 'icon_29@3x', 87 ],
+            [ 'icon_40', 40 ],
+            [ 'icon_40@2x', 80 ],
+            [ 'icon_50', 50 ],
+            [ 'icon_50@2x', 100 ],
+            [ 'icon_57', 57 ],
+            [ 'icon_57@2x', 114 ],
+            [ 'icon_60@2x', 120 ],
+            [ 'icon_60@3x', 180 ],
+            [ 'icon_76', 76 ],
+            [ 'icon_76@2x', 152 ]
         ]
     }
 });
@@ -6745,6 +6842,16 @@ mios.icons.push({
     bundle_id: 'com.slickdeals.mobile',
     app_id: 'Slickdeals.app',
     psd_id: 'slick_deals',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'SmartNews',
+    bundle_id: 'jp.gocro.SmartNews',
+    app_id: false,
+    psd_id: 'smartnews',
     icons: {
         appicon: true
     }
@@ -8073,6 +8180,31 @@ mios.icons.push({
 });
 
 mios.icons.push({
+    name: 'Woodforest Mobile Banking',
+    bundle_id: 'com.yourcompany.Woodforest',
+    app_id: false,
+    psd_id: 'woodforest_mobile_banking',
+    icons: {
+        custom: [
+            [ '29x29', 29 ],
+            [ '40x40', 40 ],
+            [ '50', 50 ],
+            [ '57', 57 ],
+            [ '58x58', 58 ],
+            [ '60', 60 ],
+            [ '72', 72 ],
+            [ '76x76', 76 ],
+            [ '80x80', 80 ],
+            [ '100', 100 ],
+            [ '114', 114 ],
+            [ '12', 12 ],
+            [ '144', 144 ],
+            [ '152x152', 152 ]
+        ]
+    }
+});
+
+mios.icons.push({
     name: 'Words with Friends Paid',
     bundle_id: 'com.newtoyinc.WordsWithFriendsPaid',
     app_id: 'WordsWithFriendsPaid.app',
@@ -8087,6 +8219,16 @@ mios.icons.push({
     bundle_id: 'com.questvisual.MobileTranslator',
     app_id: 'WordLens.app ',
     psd_id: 'world_lens',
+    icons: {
+        appicon: true
+    }
+});
+
+mios.icons.push({
+    name: 'WorldStar',
+    bundle_id: 'com.wshh.com',
+    app_id: false,
+    psd_id: 'worldstar',
     icons: {
         appicon: true
     }
@@ -8208,6 +8350,16 @@ mios.icons.push({
         custom: [
             [ 'Icon-120', 120 ]
         ]
+    }
+});
+
+mios.icons.push({
+    name: 'XFinity TV',
+    bundle_id: 'com.comcast.cim.x2',
+    app_id: false,
+    psd_id: 'xfinity_tv',
+    icons: {
+        appicon: true
     }
 });
 
