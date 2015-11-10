@@ -1,3 +1,7 @@
+### minimal.iOS.8 will no longer be maintained, please head over to minimal.iOS.9 to follow along :)
+[minimal.iOS.9](https://github.com/colbyfayock/minimal.iOS.9)
+
+
 minimal.iOS.8
 =============
 
